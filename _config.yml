@@ -286,26 +286,26 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: single-custom
       author_profile: false
   # collections/_people
   - scope:
       path: ""
       type: people
     values:
-      layout: single
+      layout: single-custom
       author_profile: false
   # collections/_tools
   - scope:
       path: ""
       type: tools
     values:
-      layout: single
+      layout: single-custom
       author_profile: false
   # collections/_research
   - scope:
       path: ""
       type: research
     values:
-      layout: single
+      layout: single-custom
       author_profile: false
