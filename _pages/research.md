@@ -33,4 +33,4 @@ In the field, we collect temporal and spatial samples across environmental gradi
 
 
 
-{% include gallery caption="**1.**: Former UW undergraduate Jenny Lai counting cells of the diatom, Thalassiosira pseudonana. **2.**: Ginger collecting a net tow sample onboard the R/V Thomas G. Thompson in the North Pacific. **3.**: Micaela and Jarred during the poster session at the 2009 ASLO conference in Nice, France." %}
+{% include gallery caption="**1.** Former UW undergraduate Jenny Lai counting cells of the diatom, Thalassiosira pseudonana. **2.** Ginger collecting a net tow sample onboard the R/V Thomas G. Thompson in the North Pacific. **3.** Micaela and Jarred during the poster session at the 2009 ASLO conference in Nice, France." %}
