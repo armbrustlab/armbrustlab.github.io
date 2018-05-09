@@ -15,7 +15,7 @@ gallery:
     alt: "Jarred poster"
     title: "Micaela and Jarred during the poster session at the 2009 ASLO conference in Nice, France"
 ---
-The Armbrust group uses lab- and field-based approaches to understand the complexities surrounding diatoms, their environment and their interactions with other microbes. We work at the cellular, population, and community scale to understand how these organisms shape and are shaped by environmental conditions.
+The Armbrust group uses lab- and field-based approaches to understand the complexities surrounding phytoplankton, their environment and their interactions with other microbes. We work at the cellular, population, and community scale to understand how these organisms shape and are shaped by environmental conditions.
 
 In the lab, we use molecular, physiological, and chemical measurements to examine intra- and inter-species relationships among diatoms, bacteria and archaea. Complete genomes and whole-cell transcriptomes allow us to interrogate diatoms as they respond to nutrient limitation, interact with other microbes, and adapt to projected environmental changes such as increased carbon dioxide levels. We also develop a suite of bioinformatics and flow cytometric software to address current challenges in large-scale data acquisition and analysis. These data encompass DNA/transcript sequence obtained from our in-house high-throughput SOLiD sequencer and underway analyses of flow cytometric phytoplankton distributions.
 
