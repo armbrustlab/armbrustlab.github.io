@@ -23,6 +23,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 * Research Technician, California Department of Fish and Game, 1980-1981
 
 ## Honors
+* Luigi Provasoli award for best publication of 2016 in Journal of Phycology, 2017.
 * AGU Carson Lecture, 2016
 * Gordon and Betty Moore Foundation Marine Microbiology Investigator 2012-2018
 * Elected Member, Washington State Academy of Science, 2012
