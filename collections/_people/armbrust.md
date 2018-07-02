@@ -13,8 +13,8 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 * B.A., Stanford University, Human Biology, 1980.
 
 ## Positions Held
-* Director, School of Oceanography, University of Washington, 2011-2018.
 * Professor School of Oceanography, University of Washington, 2006-present.
+* Director, School of Oceanography, University of Washington, 2011-2018.
 * Associate Professor, School of Oceanography, University of Washington, 2002- 2006.
 * Assistant Professor, School of Oceanography, University of Washington, 1996-2002.
 * NSF Marine Biotechnology and Ocean Sciences Postdoctoral Fellow, Department of Biology, Washington University, 1990-1995.
