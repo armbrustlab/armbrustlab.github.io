@@ -13,7 +13,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 * B.A., Stanford University, Human Biology, 1980.
 
 ## Positions Held
-* Director, School of Oceanography, University of Washington, 2011-present.
+* Director, School of Oceanography, University of Washington, 2011-2018.
 * Professor School of Oceanography, University of Washington, 2006-present.
 * Associate Professor, School of Oceanography, University of Washington, 2002- 2006.
 * Assistant Professor, School of Oceanography, University of Washington, 1996-2002.
@@ -31,7 +31,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 * Elected Fellow, American Academy of Microbiology, 2011
 * Distinguished Graduate Teaching Award, College of Ocean and Fishery Sciences, 2009
 * Botanical Society of America Darbaker Prize for meritorious work on algae, 2008
-* Lowell A. and Frankie L. Wakefield Professor, 2008-present
+* Lowell A. and Frankie L. Wakefield Professor, 2008-2018
 * Luigi Provasoli award for best publication of 2005 in Journal of Phycology, 2006
 * Distinguished Research Award, College of Ocean and Fishery Sciences, 2005
 * Gordon and Betty Moore Foundation Marine Microbiology Investigator 2004-2012
