@@ -56,8 +56,12 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 1. Heal, K. R., W. Qin, F. Ribalet, A. D. Bertagnolli, W. Coyote-Maestes, L. R. Hmelo, J. W. Moffett,  A. H. Devol, E. V. Armbrust, D. A. Stahl, A. E. Ingalls. 2017. Two distinct pools of B12 analogs reveal community interdependencies in the ocean. Proceedings National Academy of Science, USA 114:364-369.
 1. Caron, D. A., H. Alexander, A. E. Allen, J. M. Archibald, E. V. Armbrust, C. Bachy, A. Bharti, C. J. Bell, S. T. Dyrhman, S. Guida, K. B. Heidelberg, J. Z. Kaye, J. Metzner, S. R. Smith, A. Z. Worden. 2017. Probing the evolution, ecology and physiology of marine protists using transcriptomics. Nature Review Microbiology 15:6-20.
 1. Van Tol, Helena M., S. A. Amin, E.V. Armbrust. 2017. Ubiquitous marine bacterium inhibits diatom cell division. The ISME Journal. doi:10.1038/ismej.2016.112.
+
+2016
 1. Turner, Jeffry W., Chris Berthiaume, Rhonda Morales, E. Virginia Armbrust, Mark S. Strom. 2016. Genomic evidence of adaptive evolution in emergent Vibrio parahaemolyticus ecotypes. Elementa: Science of the Anthroprocene DOI 10.12952/journal.elementa.000117.
 1. Durkin, C. A., J. A. Koester, S. J. Bender, E. V. Armbrust. 2016. The evolution of silicon transporters in diatoms. J. Phycology, DOI: 10.1111/jpy.12441.
+
+2015
 1. Hyrkas, J., S. Clayton, F. Ribalet, D. Halperin, E. V. Armbrust and B. Howe. 2015. Scalable clustering algorithms for continuous environmental flow cytometry. Bioinformatics, btv594v1.
 1. Qin, Wei, Laura T. Carlson, E. Virginia Armbrust, Allan H. Devol, James W. Moffett, David A. Stahl and Anitra E. Ingalls. 2015. Confounding effects of oxygen and temperature on the TEX86 signature of marine thaumarchaeota. Proceedings National Academy of Science, USA 112:10979-10984.
 1. Ribalet, F., Swalwell, J., Clayton, S., Jimenez, V., Sudek, S., Lin, Y., Johnson, A. Z. Worden and E. V. Armbrust. 2015. Light-driven synchrony of Prochlorococcus growth and mortality in the subtropical Pacific gyre. Proceedings National Academy of Science 112:8008-8012.
@@ -68,6 +72,8 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 1. Durham, B. P., S. Sharma, H. Luo, C. B. Smith, S. Amin, S. J. Bender, S. P. Dearth, B. A. S. Van Mooy, S. R. Campagna, E. B. Kujawinksi, E. V. Armbrust, M. A. Moran. 2015. Cryptic elemental cycling between marine bacteria and phytoplankton. Proceedings National Academy of Science, USA, 112: 453-457.
 1. Gruber, A., G. Rocap, P. G. Kroth, E. V. Armbrust, T. Mock. 2015. Plastid proteome prediction for diatoms and other algae with secondary plastids of the red lineage. The Plant Journal, DOI: 10.1111/tpj.12734.
 1. Martens-Habbena, W., W. Qin, R. E. A. Horak, H. Urakawa, A. J. Schauer, J. W. Moffett, E. V. Armbrust, A. E. Ingalls, A. H. Devol, and D. A. Stahl. 2015. The production of nitric oxide by marine ammonia-oxidizing archaea and inhibition of archaeal ammonia oxidation by a nitric oxide scavenger. Environmental Microbiology Reports, DOI: 10.1111/1462-2920.12677.
+
+2014
 1. Heal, K. R., L. T. Carlson, A. Devol, E. V. Armbrust, J. W. Moffett, D. A. Stahl, A. E. Ingalls. 2014. Determination of four forms of vitamin B12 and other B vitamins in seawater by liquid chromatography tandem mass spectrometry. Rapid Communications in Mass Spectrometry 28: 2398–2404.
 1. Qin, W., S. A. Amin, W. Martens-Habbena, H. Urakawa, A. H. Devol, A. E. Ingalls, J. W. Moffett, E. V. Armbrust, and D. A. Stahl. 2014. Novel isolates of marine oxidizing archaea display wide ecotypic variation. Proceedings National Academy of Science, USA 111:12504-12509.
 1. Armbrust, E. V. 2014. Taking the pulse of ocean microbes. Science 345:134-135.
@@ -77,7 +83,9 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 1. Jacquot, Jeremy E., Rachel E. A. Horak, Maija Heller, Shady A. Amin, Allan Devol, Anitra E. Ingalls, E. Virginia Armbrust, David A. Stahl, and James W. Moffett. 2014. The influence of copper bioavailability on nitrification in a dynamic estuary. Marine Chemistry 162:37-49.
 1. Hennon, Gwenn M. M., Paul Quay, Rhonda L. Morales, Lyndsey M. Sandwick, E. Virginia Armbrust. 2014. Acclimation conditions modify physiological response of the diatom Thalassiosira pseudonana to elevated CO2 concentrations in a nitrate-limited chemostat. Journal of Phycology 50:243-253.
 1. Bender, S.J., C.A. Durkin, C. Berthiaume, R. Morales, and E.V. Armbrust. 2014. Transcriptional responses of three model diatoms to nitrate limitation. Frontiers in Marine Science: Aquatic Microbiology doi: 10.3389/fmars.2014.00003.
-1. Amin, S.A., J. W. Moffett, W. Martens-Habbena, J. E. Jacquot, Y. Han, A. Devol, A. E. Ingalls, D. A.  Stahl, E. V. Armbrust. 2013. Copper requirements of the ammonia-oxidizing archaeon Nitrosopumilus maritimus SCM1 and implications for nitrification in the marine environment  Limnology and Oceanography 58:2037-2045.
+
+2013
+1. Amin, S.A., J. W. Moffett, W. Martens-Habbena, J. E. Jacquot, Y. Han, A. Devol, A. E. Ingalls, D. A. Stahl, E. V. Armbrust. 2013. Copper requirements of the ammonia-oxidizing archaeon Nitrosopumilus maritimus SCM1 and implications for nitrification in the marine environment  Limnology and Oceanography 58:2037-2045.
 1. Port, Jesse A. Micaela S. Parker, Robin B. Kodner, Xiaozhong Yu, E. Virginia Armbrust, and Elaine M. Faustman. 2013. G-protein coupled receptor signaling pathway conservation in sequenced marine diatoms. BMC Genomics 14:503.
 1. Halperin, D., K. Weitz, B. Howe, F. Ribalet and E. V. Armbrust. 2013. Real-Time Collaborative Analysis with (Almost) Pure SQL: A Case Study in Biogeochemical Oceanography. Proceeding of the 25th International Conference on Scientific and Statistical Database Management 28:1-12
 1. Palevsky, H. I., F. Ribalet, Swalwell, J.E., C. Cosca, E. D. Cokelet, P. D. Quay, E. V. Armbrust, R. A. Feely. 2013. The influence of net community production and phytoplankton community structure on CO2 uptake in the Gulf of Alaska. Global Biogeochemical Cycles DOI: 10.1002/gbc.20058.
@@ -85,6 +93,8 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 1. Horak, R. E. A., W. Qin, E. V. Armbrust, A. Ingalls, J. W. Moffett, D. A. Stahl, and A. Devol. 2013. Ammonia oxidation kinetics and temperature sensitivity of a natural marine community dominated by Archaea. ISME J, doi: 10.1038/ismej.2013.75.
 1. Howe, B., F. Ribalet, S. Chitnis, E. V. Armbrust. 2013. SQLShare: Scientific workflow management via relational view sharing. Computing in Science and Engineering 15:22-31.
 1. Ashworth, J., S. Coesel, A. L., E. V. Armbrust, M. V. Orellana, N. S. Baliga. 2013. Molecular signatures of cell state transitions along the diurnal growth curve of a diatom. Proceedings National Academy of Science 110: 7518-7523.
+
+2012
 1. Curtis, B. A., G. Tanifuji, F. Burki, A. Gruber, M. Irimia, S. Maruyama, M. C. Arias, S. G. Ball, G. H. Gile, Y. Hirakawa, J. F. Hopkins, A. Kuo, S. A. Rensing, J. Schmutz, A. Symeonidi, M. Elias, R. J. M. Eveleigh, E. K. Herman, M. J. Klute, T. Nakayama, M. Oborník, A. Reyes-Prieto, E. V. Armbrust, S. J. Aves, R. G. Beiko, P. Coutinho, J. B. Dacks, D. G. Durnford, N. M. Fast, B. R. Green, C. Grisdale, F. Hempel, B. Henrissat, M. P. Höppner, K.-I. Ishida, E. Kim, L. Kořený, P. G. Kroth, Y. Liu, S.-B. Malik, U. G. Maier, Darcy McRose, T. Mock, J. A. D. Neilson, N. T. Onodera, A. M. Poole, E. J. Pritham, T. A. Richards, G. Rocap, S. W. Roy, C. Sarai, S. Schaack, S. Shirato, C. H. Slamovits, D. F. Spencer, S. Suzuki, A. Z. Worden, S. Zauner, K. Barry, C. Bell, A. K. Bharti, J. A. Crow, J. Grimwood, Robin Kramer, E. Lindquist, S. Lucas, A. Salamov, G. I. McFadden, C. E. Lane, P. J. Keeling, M. W. Gray, I. V. Grigoriev, J. M. Archibald. 2012. Algal nuclear genomes reveal evolutionary mosaicism and fate of nucleomorphs. Nature 492, 59–65.
 1. Koester, J. A., W. J. Swanson, E. V. Armbrust. 2012. Positive selection within a diatom species acts on putative protein interactions and transcriptional regulation. Molecular Biology and Evolution 30:422-434.
 1. Durkin, C.A., A. Marchetii, S. J. Bender, T. Truong, R. Morales, T. Mock, and E. V. Armbrust. 2012. The influence of frustule-related gene transcription and diatom community composition on silica precipitation in an iron-limited environment. Limnology and Oceanography 57:1619-1633.
@@ -92,15 +102,21 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 1. Iverson, V., R. M. Morris, C. D. Frazer, C. T. Berthiaume, R. L. Morales and E. V. Armbrust. 2012. Untangling genomes from metagenomes: revealing an uncultured class of marine Euryarchaeota. Science 335:587-590.
 1. Marchetti A., D. Schruth, C.A. Durkin, M. S. Parker, R. Kodner, C. T. Berthiaume, R. Morales, Allen, A. E., and E. V. Armbrust. 2012. Comparative metatranscriptomics identifies molecular bases for the physiological responses of phytoplankton to varying iron availability. Proceedings National Academy of Science Plus, USA doi: 10.1073/pnas.1118408109 .
 1. Monier, A., R. Welsh, C. Gentemann, G. Weinstock, E. V. Armbrust, J. A. Eisen and A. Z. Worden. 2012. Phytoplankton phosphate uptake and cross-domain commonalities in viral-host exchange. Environmental Microbiology 14:162-176.
+
+2011
 1. Bender, S. J., M. S. Parker, E. V. Armbrust. 2011. The coupled effects of light and nitrogen source on the urea cycle and nitrogen metabolism over a diel cycle in the marine diatom Thalassiosira pseudonana. Protist (2011) doi:10.1016/j.protis.2011.07.008.
 1. Swalwell, J. E., F. Ribalet, and E. V. Armbrust. 2011. SeaFlow: A novel underway flow-cytometer for continuous observations of phytoplankton in the ocean.  Limnology & Oceanography: Methods 9:466-477.
 1. Ribalet, F., D. M. Schruth, and E. V. Armbrust. 2011. flowPhyto: enabling automated analysis of microscopic algae from continuous flow cytometric data.  Bioinformatics 2011; doi: 10.1093/bioinformatics/btr003.
+
+2010
 1. Matsen, F. A., R. B. Kodner, and E. V. Armbrust. 2010. pplacer: linear time maximum-likelihood and Bayesian phylogenetic placement of sequences onto a fixed reference tree. BMC Bioinformatics, 11:538 doi:10.1186/1471-2105-11-538.
 1. Ribalet, F., A. Marchetti, K. A. Hubbard, K. Brown, C. A. Durkin, R. Morales, M. Robert, J. E. Swalwell, P. D. Tortell, and E. V. Armbrust. 2010. Unveiling a phytoplankton hotspot at a narrow boundary between coastal and offshore waters. Proc. Natl. Acad. Sci, USA 107: 16571-16576.
 1. Maheswari, U., K. Jabbari, A. E. Allen, J.-P. Cadoret, A. De Martino, M. Heijde, M. Katinka, J. La Roche, P. J. Lopez, V. Martin–Jézéquel, T. Mock, J.-L. Petit, B. M. Porcel, M. S. Parker, A. Vardi, E. V. Armbrust, J. Weissenbach and C. Bowler. 2010. Digital expression profiling of novel diatom transcripts provides insight into their biological functions. Genome Biology 11:doi:10.1186/gb-2010-11-8-r85.
 1. Koester, J., J. Swallwell and E. V. Armbrust. 2010. Genome size differentiates populations of the planktonic diatom Ditylum brightwellii. BMC Evolutionary Biology 10:1doi:10.1186/1471-2148-10-1.
 1. Marchetti, A., D. E. Varela, V. Lance, Z. Johnson M. Palmucci, M. Giordano and E. V. Armbrust. 2010. Iron and silicic acid effects on phytoplankton productivity, diversity, and chemical composition in the central equatorial Pacific Ocean. Limnology & Oceanography 55:11-29.
 1. Holtermann, K. E., S. S. Bates, V. L. Trainer, A. Odell, E. V Armbrust. 2010. Mass Sexual Reproduction in the Toxigenic Diatoms Pseudo-nitzschi australis and P. pungens (Bacillariophyceae) on the Washington Coast, USA. Journal of Phycology 46:41-52.
+
+2009
 1. Carpenter, S. R., E. V. Armbrust, P. W. Arzberger, F. S. Chapin, III, J. J. Elser, E. J. Hackett, A. R. Ives, P. M. Kareiva, M. A. Leibold, P. Lundberg, M. Mangel, N. Merchant, W. W. Murdoch, M. A. Palmer, D. P. C. Peters, S. T. A. Pickett, K. K. Smith, D. H. Wall, A. S. Zimmerman. 2009. Synthesis must be accelerated in ecology and environmental sciences. BioScience 59:699-701.
 1. Durkin, C., T. Mock and E. V. Armbrust. 2009. Chitin in diatoms and its association with the cell wall. Eukaryotic Cell 8:1038-1050.
 1. Armbrust, E. V. 2009. The life of diatoms in the world’s oceans. Nature 459:185-192.
@@ -108,6 +124,8 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 1. Marchetti, A., M. S. Parker, L. P. Moccia, E. O. Lin, A. L. Arrieta, F. Ribalet, M. E.P. Murphy, M. T. Maldonado and E. V. Armbrust. 2009. Ferritin is used for iron storage in bloom-forming marine pennate diatoms. Nature 457:467-470.
 1. Maheswari, U., Mock, T., Armbrust, E. V., Bowler, C. 2009. Update of the diatom EST database: a new tool for digital transcriptomics. Nucleic Acids Research doi: 10.1093/nar/gkn905.
 1. Rynearson, T. A., E. O. Lin, R. A. Horner, and E. V. Armbrust. 2009. Gene flow and metapopulation structure in the planktonic diatom Ditylum brightwellii. Protist 160:111-121.
+
+2008
 1. Parker, M. S., T. Mock and E. V. Armbrust. 2008. Genomic insights into marine microalgae. Annual Review of Genetics 42: 619-645.
 1. Sosik, H. M., R. J. Olson, and E. V. Armbrust. Flow cytometry in plankton research. 2008.In D. J. Suggett, O. Prasil and M. A. Borowitzka [eds.], Chlorophyll a fluorescence in aquatic sciences: methods and applications. Springer.
 1. Smarr, L., P. Gilna, P. Papadopoulos, T. A. DeFanti, G. Hidley, J. Wooley, E. V. Armbrust, F. Rohwer, E. Frost. 2008. Building an OptIPlanet collaboratory to support microbial metagenomics. Future Generation Computer Systems doi:10.1016/j.future.2008.06.009.
@@ -120,10 +138,14 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 1. Hubbard, K.A., G. Rocap, and E.V. Armbrust. 2008. Inter- and intra-specific community structure within the diatom genus Pseudo-nitzschia. Journal of Phycology 44:637-649.
 1. von Dassow, P., T. W. Petersen, V. A. Chepurnov, and E. V. Armbrust. 2008. Inter- and intraspecific relations between nuclear DNA content and cell size in selected members of Thalassiosira (Bacillariophyceae). Journal of Phycology 44:335-349
 1. Kroth, P. G., A. Chiovitti, A. Gruber, V. Martin-Jezequel, T. Mock, M. S. Parker, M. S. Stanley, M. S. Stanley, A. Kaplan, L. Caron, T. Weber, U. Maheswari, E. V. Armbrust and C. Bowler. 2008. A Model for Carbohydrate Metabolism in the Diatom Phaeodactylum tricornutum Deduced from Comparative Whole Genome Analysis. PLoS ONE 3(1): e1426. doi:10.1371/journal.pone.0001426.
+
+2007
 1. Moran, M.A. and E. V. Armbrust. Genomes of Sea Microbes. Oceanography, June 2007, 47-55.
 1. Lau, W.W.Y., R. G. Keil, and E. V. Armbrust. 2007. Response and succession of the glycolate-utilizing component of the bacterial community during a spring phytoplankton bloom. Applied and Environmental Microbiology 73:2440-2450.
 1. Oudot-Le Secq, M.-P., J. Grimwood, H. Shapiro, C. Bowler, E.V. Armbrust and B. R. Green. 2007. Chloroplast genomes of the diatoms Phaeodactylum tricornutum and Thalassiosira pseudonana: Comparison with other plastid genomes of the red lineage. Molecular Genetics and Genomics 277:427- 439.
 1. Montsant, A. A. E. Allen, S. Coesel, A. De Martino, A. Falciatore, M. Heijde, K. Jabbari, U. Maheswari, M. Mangogna, E. Rayko, M. Siaut, A. Vardi, K. E. Apt, J. A. Berges, A. Chiovitti, A. K. Davis, M. Z. Hadi, T. W. Lane, J. C. Lippmeier, D.Martinez, M. S. Parker, G. J. Pazour, M. A. Saito, K. Thamatrakoln, D. S. Rokhsar, E. V. Armbrust, C. Bowler. 2007. Identification and comparative genomic analysis of signaling and regulatory components in the diatom Thalassiosira pseudonana. Journal of Phycology 43:585-604.
+
+2006
 1. Unal, E., B. W. Frost, E. V. Armbrust, and A. E. Kideys. 2006. Phylogeography of Calanus helgolandicus and the Black Sea copepod Calanus euxinus, with notes on Pseudocalanus elongates (Copepoda, Calanoida). Deep Sea Research II 53:1961-1975.
 1. Rynearson, T. A. and E.V. Armbrust. 2006. Succession, bloom development and genetic variation in /Ditylum brightwellii/ during the spring growth season. Limnology and Oceanography 51:1249-1261.
 1. von Dassow, P., V. Chepurnov, E. V. Armbrust. 2006. Relationships between growth rate, cell size, and induction of permatogenesis in the centric diatom Thalassiosira weissflogii (Bacillariophyta). Journal of Phycology 42:887-899.
@@ -131,29 +153,59 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 1. Svderup, K. and E. V. Armbrust. 2006. An Introduction to the World's Oceans, 9th edition, McGraw Hill.
 1. Lau, W.W.Y. and E. V. Armbrust. 2006. Detection of glycolate oxidase glcD gene diversity among cultured and environmental marine bacteria. Environmental Microbiology8:1688-1702
 1. Armbrust, E. V., T. A. Rynearson and B.D. Jenkins. 2006. Genomic Insights into Diatom Evolution and Metabolism. In: Genome Evolution in Eukaryotic Microbes, edited by Laura A. Katz and Debashish Bhattacharya.
+
+2005
 1. Parker, M.S. and E. V. Armbrust. 2005. Synergistic effects of light, temperature, and nitrogen source on transcription of genes for carbon and nitrogen metabolism in the centric diatom Thalassiosira pseudonana (Bacillariophyceae). Journal of Phycology 41:1142-1153. Full Text Link
 1. Rynearson, T.A, and E. V. Armbrust. 2005. Maintenance of clonal diversity during a spring bloom of the centric diatom Ditylum brightwellii. Molecular Ecology 14: 1631-1640.
 1. Paffenhofer, G.A., A. Iaora, A. Miralto, J. T. Turner, G.S. Kleppel, M. R. D'Alcala, R. Casotti, G. S. Caldwell, G. Pohnert, A. fntana, D. Muller-Navarra, S. E. Jonasdottir, E. V. Armbrust, U. Bamstedt, S. Ban, M. G. Bentley, M. Boersma, M. Bundy, I. Buttino, A. Calbet, F. Carlotti, Y. Carotenuto, G. d'Ippolito, B. Frost, G. Guisande, W. Lampert, R. F. Lee, S. Mazza, M. G. Massocchi, J. C. Nejstgaard, S. A. Poulet, G. Romano, V. Smetacek, S. Uye, S. Wakeham, S. Watson, T. wichard. 2005. Colloquium on diatom-copepod interactions. Marine Ecology Progress Series 286:293-305.
+
+2004
 1. Armbrust, E. Virginia, John A Berges, Chris Bowler, Beverley R. Green, Diego Martinez, Nicholas H. Putnam, Shiguo Zhou, Andrew E. Allen, Kirk E. Apt, Michael Bechner, Mark A. Brzezinski, Balbir K. Chaal, Anthony Chiovitti, Aubrey K.Davis, Mark S. Demarest, J. Chris Detter, Tijana Glavina, David Goodstein, Masood Z. Hadi, Uffe Hellsten, Mark Hildebrand, Bethany D. Jenkins, Jerzy Jurka, Vladimir V. Kapitonov, N. Kröger, Winnie W.Y. Lau, Todd W. Lane, Frank W. Larimer, J. Casey Lippmeier, Susan Lucas, Mónica Medina, Anton Montsant, Miroslav Obornik, Micaela Schnitzler Parker, B. Palenik, Gregory J. Pazour, Paul M. Richardson, Tatiana A. Rynearson, Mak A. Saito, David C. Schwartz, Kimberlee Thamatrakoln, Klaus Valentin, Assaf Vardi, Frances P. Wilkerson, and D. S. Rokhsar. 2004. The genome of the diatom Thalassiosira pseudonana: Ecology, evolution and metabolism. Science 306: 79-86 Abstract Link Full Text Link
 1. Parker, M. S., E. V. Armbrust, J. Piovia-Scott and R G. Keil. 2004. Induction of photorespiration by light in the centric diatom /Thalassiosira weissflogii/ (Bacillariophyceae): Molecular characterization and physiological consequences. Journal of Phycology 40:557-567. Full Text Link
 1. Rynearson, T. A. and E. V. Armbrust. 2004. Genetic differentiation among populations of the planktonic marine diatom Ditylum brightwellii (bacillariophyceae). Journal of Phycology 40:34-43.
+
+2002
 1. Lau, W. W. Y., P. A. Jumars, E. V. Armbrust. 2002. Genetic diversity of attached bacteria in the hindgut of the deposit-feeding shrimp Neotrypaea (formerly Callianassa) californiensis (Decapoda: Thalassinidae). Microbial Ecology 43:455-466.
 1. Ferris, P. J., E. V. Armbrust, U. W. Goodenough. 2002. Genetic structure of the mating-type loci of Chlamydomonas reinhardtii. Genetics 160: 181-200.
+
+2001
 1. Campbell, A. M., A.J. Coble, T.H. Ch'ng, K.M. Russo, E.M. Long, and E. V. Armbrust. 2001. Identification and DNA sequence of a new H+-ATPase in the unicellular green alga Chlamydomonas reinhardtii. Journal of Phycology 37:536-542.
 1. Armbrust, E. V. and H. M. Galindo. 2001. Rapid evolution of a sexual reproduction gene in centric diatoms of the genus Thalassiosira. Applied and Environmental Microbiology, 67:3501-3513.
+
+2000
 1. Armbrust, E. V. 2000. Structural features of nuclear genes in the centric diatom Thalassiosira weissflogii (Bacillariophyceae). Journal of Phycology 36:942-946.
 1. Rynearson, T. A. and E. V. Armbrust. 2000. DNA fingerprinting reveals extensive genetic diversity in a field population of the centric diatom Ditylum brightwellii. Limnology and Oceanography 45:1329-1340.
+
+1999
 1. Armbrust, E.V. 1999. Identification of a novel gene family expressed during the onset of sexual reproduction in the centric diatom Thalassiosira weissflogii. Applied and Environmental Microbiology 65:3121-3128.
 1. Crump, B. C., E. V. Armbrust, J. A. Baross. 1999. Phylogenetic analysis of particle-attached and free-living bacterial communities in the Columbia River estuary and adjacent coastal ocean. Applied and Environmental Microbiology 65:3192-3204.
+
+1998
 1. Armbrust, E.V. 1998. Uniparental inheritance of Chloroplast Genomes. In: Molecular Biology of Chlamydomonas: Chloroplasts and Mitochondria, J.-D. Rochaix.
+
+1995
 1. Armbrust, E.V., A. Ibrahim, U.W. Goodenough. 1995. A mating type-linked mutation that disrupts the uniparental inheritance of the chloroplast genome also disrupts cell size control in Chlamydomonas. Molecular Biology of the Cell 6(12):1807-1818.
 1. Goodenough, U.W., E.V. Armbrust, A.M. Campbell, P.J. Ferris. 1995. Molecular genetics of sexuality in Chlamydomonas. Annual Review of Plant Physiology and Plant Molecular Biology 46:21-44.
+
+1993
 1. Armbrust, E.V., P.J. Ferris, U.W. Goodenough. 1993. A mating type-linked gene cluster expressed in Chlamydomonas zygotes participates in the uniparental inheritance of the chloroplast genome. Cell 74:801-811.
+
+1992
 1. Armbrust, E.V. and S.W. Chisholm. 1992. Patterns of cell size change in a marine diatom: variability evolving from clonal isolates. Journal of Phycology 28:146-156.
+
+1990
 1. Armbrust, E.V., R.J. Olson, S.W. Chisholm. 1990. Role of light and the cell cycle on the induction of spermatogenesis in a centric diatom. Journal of Phycology 26:470-478.
 1. Olson, R.J., S.W. Chisholm, E.R. Zettler, E.V. Armbrust. 1990. Pigments, size and distributions of Synechococcus in the North Atlantic and Pacific Oceans. Limnology and Oceanography 35:45-58.
+
+1989
 1. Armbrust, E.V., J.D. Bowen, R.J. Olson, S.W. Chisholm. 1989. Effect of light on the cell cycle of a marine Synechococcus strain. Applied and Environmental Microbiology 55(2):425-432.
+
+1988
 1. Olson, R.J., S.W Chisholm, E.R. Zettler, E.V. Armbrust. 1988. Analysis of Synechococcus pigment types in the sea using single and dual beam flow cytometry. Deep Sea Research 35(3):425-440.
+
+1987
 1. Anderson, D.M., C.D. Taylor, E.V. Armbrust. 1987. The effects of darkness and anaerobiosis on dinoflagellate cyst germination. Limnology and Oceanography 32(2):340-351.
+
+1986
 1. Chisholm, S.W., E.V. Armbrust, R.J. Olson. 1986. The individual cell in phytoplankton ecology: cell cycles and flow cytometry. p. 343-369. In: T. Platt and W. K. W. Li [Eds.] Photosynthetic Picoplankton, Can. Bull. Fish. Aq. Sci. #214.
 1.
