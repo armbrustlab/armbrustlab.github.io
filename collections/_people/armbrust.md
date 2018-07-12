@@ -208,4 +208,3 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 
 1986
 1. Chisholm, S.W., E.V. Armbrust, R.J. Olson. 1986. The individual cell in phytoplankton ecology: cell cycles and flow cytometry. p. 343-369. In: T. Platt and W. K. W. Li [Eds.] Photosynthetic Picoplankton, Can. Bull. Fish. Aq. Sci. #214.
-1.
