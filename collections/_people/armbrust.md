@@ -40,6 +40,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 
 ## Publications
 2018
+1. Heal, K. R., W. Qin, S. A. Amin, A. H. Devol, J. W. Moffett, E. V. Armbrust, D. A. Stahl, A. E. Ingalls. Accumulation of NO2‐cobalamin in nutrient‐stressed ammonia‐oxidizing archaea and in the oxygen deficient zone of the Eastern Tropical North Pacific. Environmental Microbiology Letters doi.org/10.1111/1758-2229.12664.
 1. Koester, J. A., C. Berhtiaume, N. Hiranuma, M. S. Parker, V. Iverson, R. Morales, A. Sarwate, W. L. Ruzzo, E. V. Armbrust. 2018. Sexual ancestors generate an obligate asexual and globally dispersed clone within the model diatom species Thalassiosira pseudonana. Scientific Reports 8, Article number: 10492.
 1. Valenzuela, J. J., Mónica V. Orellana, Adrián López García de Lomana, Allison Lee,  E.V. Armbrust, and Nitin S. Baliga. 2018. Ocean acidification conditions increase resilience of marine diatoms.  Nature Communications DOI: 10.1038/s41467-018-04742-3.
 1. Horak, R. E., W. Qin, A. Bertagnolli, A. Nelson, K. Heal, A. Schauer, W. Jeffrey, E. V. Armbrust, J. W. Moffett, A. E. Ingalls, D. A. Stahl, A. H. Devol. 2018. Relative impacts of light, temperature, and reactive oxygen on thaumarchaeal ammonia oxidation in the North Pacific Ocean. Limnology and Oceanography DOI: 10.1002/lno.10665.
