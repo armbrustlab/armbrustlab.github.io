@@ -40,6 +40,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 
 ## Publications
 2018
+1. Turner, J., J. J. Tallman, A. Macias, L. J. Pinnell, N. C. Elledge, D. N. Azadani, W. Nilsson, R. Paranjpye, E. V. Armbrust, M. S. Strom. Comparative genomic analysis of Vibrio diabolicus and six taxonomic synonyms: a first look at the distribution and diversity of the expanded species. Frontiers Microbiology, doi: 10.3389/fmicb.2018.01893. 
 1. Heal, K. R., W. Qin, S. A. Amin, A. H. Devol, J. W. Moffett, E. V. Armbrust, D. A. Stahl, A. E. Ingalls. Accumulation of NO2‐cobalamin in nutrient‐stressed ammonia‐oxidizing archaea and in the oxygen deficient zone of the Eastern Tropical North Pacific. Environmental Microbiology Letters doi.org/10.1111/1758-2229.12664.
 1. Koester, J. A., C. Berhtiaume, N. Hiranuma, M. S. Parker, V. Iverson, R. Morales, A. Sarwate, W. L. Ruzzo, E. V. Armbrust. 2018. Sexual ancestors generate an obligate asexual and globally dispersed clone within the model diatom species Thalassiosira pseudonana. Scientific Reports 8, Article number: 10492.
 1. Valenzuela, J. J., Mónica V. Orellana, Adrián López García de Lomana, Allison Lee,  E.V. Armbrust, and Nitin S. Baliga. 2018. Ocean acidification conditions increase resilience of marine diatoms.  Nature Communications DOI: 10.1038/s41467-018-04742-3.
