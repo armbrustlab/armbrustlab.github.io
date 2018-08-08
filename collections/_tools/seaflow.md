@@ -4,16 +4,19 @@ title: SeaFlow cytometer
 
 ![Seaflow]({% link /assets/images/seaflow.jpeg %})
 
-**SeaFlow** is a novel underway flow cytometer created at UW by [Jarred Swalwell]({% link _people/swalwell.md %}) that is designed to measure continuously the abundance and composition of microbial populations, making it possible to analyze the equivalent of one sample every three minutes. The instrument collects information about the size and pigment content of an individual cell and counts several thousands cells every second in real-time. The instrument utilizes light scattering and autofluorescence properties of individual cells to discriminate and quantify different cell populations that span 0.5-15 micrometer in size. The instrument is semi-autonomous and can be controlled remotely via Satellite connection.
+**SeaFlow** is a novel underway flow cytometer created at UW by [Jarred Swalwell]({% link _people/swalwell.md %}) that is designed to measure continuously the abundance and composition of microbial populations, making it possible to analyze the equivalent of one sample every three minutes. The instrument collects information about the size and pigment content of an individual cell and counts several thousands cells every second in real-time. The instrument utilizes light scattering and autofluorescence properties of individual cells to discriminate and quantify different cell populations that span 0.5-15 micrometer in size. The instrument is semi-autonomous and can be controlled remotely via Satellite connection.  
+Description of the instrument can be found in the following publication: Swalwell, J.E., Ribalet, F., and Armbrust, E.V. 2011. SeaFlow: A novel underway flow-cytometer for continuous observations of phytoplankton in the ocean. [Limnology & Oceanography Methods 9: 466-477.](http://www.aslo.org/lomethods/free/2011/0466.html)
 
-**SeaFlow** data are processed at the Armbrust Lab by [Francois Ribalet]({% link _people/ribalet.md %}). Abundance and optical properties of of the different microbial populations can be visualized using [our web interface](http://armbrustlab.github.io/seaflowviz3/) created by [Chris Berthiaume]({% link _people/berthiaume.md %}).
+The analysis and distribution of SeaFlow data is led by [Francois Ribalet]({% link _people/ribalet.md %}). Abundance and optical properties of the different microbial populations can be visualized using [our web interface](http://armbrustlab.github.io/seaflowviz3/) created by [Chris Berthiaume]({% link _people/berthiaume.md %}). Rates of cell growth for cyanobacteria populations (namely <i>Prochlorococcus</i> and <i>Synechococcus</i>) are available upon request.
 
-### Instrument Description
-The instrument is presented in the following publication: Swalwell, J.E., Ribalet, F., and Armbrust, E.V. 2011. SeaFlow: A novel underway flow-cytometer for continuous observations of phytoplankton in the ocean. [Limnology & Oceanography Methods 9: 466-477.](http://www.aslo.org/lomethods/free/2011/0466.html)
+
 
 ### Software
-* [popcycle](https://github.com/uwescience/popcycle)
-* [seaflowpy](https://github.com/armbrustlab/seaflowpy)
+* [popcycle](https://github.com/uwescience/popcycle) - an R package that analyzing continuous flow cytometry data from SeaFlow repository. The software is built to perform both coarse real-time data analysis and fine-tuned population clustering analysis.
+
+* [ssPopModel](https://github.com/armbrustlab/ssPopModel) - an R package that uses size-structured matrix population model to estimate hourly division rates of microbial populations from SeaFlow data. These estimates are independent of variations in cell abundance and can be used to study physiologically-driven changes in population dynamics.
+
+* [seaflowpy](https://github.com/armbrustlab/seaflowpy) - Python libraries and scripts for analyzing SeaFlow data
 
 ### Instrument Photos
 
