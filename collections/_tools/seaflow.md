@@ -9,9 +9,9 @@ title: SeaFlow project
 ### SeaFlow project team members
 - [Ginger Armbrust](https://armbrustlab.ocean.washington.edu/people/armbrust/) (Principal Investigator)
 - [Francois Ribalet](https://armbrustlab.ocean.washington.edu/people/ribalet/) (Co-Investigator)
-- [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) (Instrument Engineer)
+- [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) (Research Engineer)
 - [Chris Berthiaume](https://armbrustlab.ocean.washington.edu/people/beethiaume/) (Software Engineer)
-- Annette Hynes (Data Analyst)
+- Annette Hynes (Research scientist)
 
 
 ### Software
