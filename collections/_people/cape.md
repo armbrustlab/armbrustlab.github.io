@@ -7,7 +7,7 @@ title: Mattias Cape
 mcape at uw.edu
 
 I am a biological oceanographer interested in the way interactions between atmosphere, cryosphere, and ocean impact the biomass, growth, and community composition of phytoplankton. I examine these processes using a combination of ship-based field work, satellite remote-sensing, and lab experiments, taking advantage of new technologies such as the [Imaging FlowCytobot](https://www2.whoi.edu/staff/hsosik/ifcb/) and [SeaFlow]({% link _tools/seaflow.md %}) flow cytometers to gain insight into the structure of phytoplankton communities.
-While I have a particular interest in polar regions, I am currently exploring these research themes in the North Atlantic using the wealth of information collected by [SeaFlow]({% link _tools/seaflow.md %}). I am also interested in science education and experiential learning, taking advantage of opportunities to teach oceanography and field methods with the [Sea Education Association](https://www.sea.edu).
+While I have a particular interest in polar regions, I am currently exploring these research themes in the North Pacific using the wealth of information collected by [SeaFlow]({% link _tools/seaflow.md %}). I am also interested in science education and experiential learning, taking advantage of opportunities to teach oceanography and field methods with the [Sea Education Association](https://www.sea.edu).
 
 ## Education
 * 2014	  Ph.D. Oceanography, Scripps Institution of Oceanography. University of California, San Diego (UCSD), La Jolla, CA. Thesis title: Influence of atmosphere-ice-ocean interactions on phytoplankton along the coastal Antarctic Peninsula
