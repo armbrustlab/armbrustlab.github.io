@@ -10,7 +10,7 @@ ahynes at uw.edu
 I investigate picophytoplankton distribution and diversity across physical gradients using the [SeaFlow]({% link _tools/seaflow.md %}) underway flow cytometer.
 
 ## Education
-* 2009 Ph.D in Biological Oceanography – Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Oceanography, Cambridge, MA. Thesis title: Diversity of the Marine Cyanobacterium *Trichodesmium:* Characterization of the Woods Hole Culture Collection and Quantification of Field Populations, 162 pp. <a href="http://hdl.handle.net/1721.1/54569" rel="nofollow">DSpace@MIT.</a></li>
+* 2009 Ph.D in Biological Oceanography – Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Oceanography, Cambridge, MA. Thesis title: Diversity of the Marine Cyanobacterium *Trichodesmium:* Characterization of the Woods Hole Culture Collection and Quantification of Field Populations, 162 pp. <a href="http://hdl.handle.net/1721.1/54569" rel="nofollow">DSpace@MIT.</a>
 * 1998 B.Sc in Biological Sciences and Mathematics – University of Nebraska-Lincoln, Lincoln, NE
 
 ## Positions Held
