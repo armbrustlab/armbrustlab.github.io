@@ -1,7 +1,7 @@
 ---
 title:  Annette Hynes
 ---
-![Annette Hynes]({% link /assets/images/Annette_Hynes.jpg %})
+<img src="/assets/images/Annette_Hynes.jpg" width="200">
 
 **Research Scientist**
 ahynes at uw.edu
