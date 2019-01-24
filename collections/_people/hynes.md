@@ -4,6 +4,7 @@ title:  Annette Hynes
 <img src="/assets/images/Annette_Hynes.jpg" width="200">
 
 **Research Scientist**
+
 ahynes at uw.edu
 
 I investigate picophytoplankton distribution and diversity across physical gradients using the [SeaFlow]({% link _tools/seaflow.md %}) underway flow cytometer.
