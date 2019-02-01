@@ -1,7 +1,7 @@
 ---
-title: Francois Ribalet
+title: François Ribalet
 ---
-![Francois Ribalet]({% link /assets/images/Francois-Ribalet-528x528.jpg %})
+![François Ribalet]({% link /assets/images/Francois-Ribalet-528x528.jpg %})
 
 **Senior Research Scientist**  
 ribalet at uw.edu
@@ -14,7 +14,7 @@ I am investigating how marine phytoplankton respond to environmental perturbatio
 * 2001 B.Sc in Population Biology and Ecosystems – University Pierre & Marie Curie, Paris, FR
 
 ## Positions Held
-* Research Senior Scientist, School of Oceanography, University of Washington, USA, 2015-present
+* Senior Research Scientist, School of Oceanography, University of Washington, USA, 2015-present
 * Research Assistant Professor, School of Oceanography, University of Washington, USA, 2012-2015
 * Postdoctoral Fellow, School of Oceanography, University of Washington, USA, 2008-2012
 * Graduate Research Assistant, Stazione Zoologica di Napoli, IT, 2003-2007
