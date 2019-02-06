@@ -15,15 +15,15 @@ While I have a particular interest in polar regions, I am currently exploring th
 * 2002		B.A. Applied Mathematics, B.S. Biology: Ecology, Behavior, Evolution. University of California, San Diego, La Jolla, CA
 
 ## Positions Held
-* 2018-     Post-Doctoral Research Associate, School of Oceanography, UW
-* 2017-2018	Post-Doctoral Research Associate, Applied Physics Lab, UW
-* 2017,2018	Faculty/Chief Scientist, Oceanography, Sea Education Association (SEA)
-* 2014-2016	Postdoctoral Scholar, Woods Hole Oceanographic Institution
-* 2006-2008	Staff Research Associate, Scripps Institution of Oceanography
+* 2018-           Post-Doctoral Research Associate, School of Oceanography, UW
+* 2017-2018	      Post-Doctoral Research Associate, Applied Physics Lab, UW
+* 2017,2018,2019	Faculty/Chief Scientist, Oceanography, Sea Education Association (SEA)
+* 2014-2016	      Postdoctoral Scholar, Woods Hole Oceanographic Institution
+* 2006-2008	      Staff Research Associate, Scripps Institution of Oceanography
 
 ## Journal Publications
 1. Vernet, M., I.H. Ellingsen, L. Seuthe, D. Slagstad, M.R. Cape, P.A. Matrai (submitted), Importance of phytoplankton advection in the Atlantic Water Inflow to the Arctic Ocean, Front. Mar. Sci.
-1. Straneo, F. , David A. Sutherland, Leigh A. Stearns, Ginny Catania, Patrick Heimbach, Twila Moon, Mattias R. Cape, Kristin L. Laidre, David Barber, Soren Rysgaard, Ruth Mottram, Steffen M. Olsen, Mark J. Hopwood, Lorenz Meire (in revission), The case for a sustained Greenland Ice sheet-Ocean Observing System, Front. Mar. Sci.
+1. Straneo, F. , David A. Sutherland, Leigh A. Stearns, Ginny Catania, Patrick Heimbach, Twila Moon, Mattias R. Cape, Kristin L. Laidre, David Barber, Soren Rysgaard, Ruth Mottram, Steffen M. Olsen, Mark J. Hopwood, Lorenz Meire (in revision), The case for a sustained Greenland Ice sheet-Ocean Observing System, Front. Mar. Sci.
 1. Cape, M.R., M. Vernet, E.C. Pettit, J. Wellner, M. Truffer, G. Akie, E. Domack, A. Leventer, C.R. Smith, B.A. Huber and the LARISSA Team (in revision), Circumpolar Deep Water impacts glacial meltwater export and coastal biogeochemical cycling along the west Antarctic Peninsula, Front. Mar. Sci.
 1. Wellner, J.S, T. Scambos, E.W. Domack, M. Vernet, A. Leventer, G. Balco, S. Brachfeld, M.R. Cape, B. Huber, M.L. McCormick, E. Mostley-Thompson, E.C. Pettit, C.R. Smith, M. Truffer, C. Van Dover, K.C. Yoo (2019). The Larsen Ice Shelf System, Antarctica (LARISSA): Polar Systems Bound Together, Changing Fast. GSA Today, v. 29, doi:10.1130/GSATG382A.1.
 1. Cape, M. R., Straneo, F., Beaird, N., Bundy, R. M., and Charette, M. A. (2019). Nutrient release to oceans from buoyancy-driven upwelling at Greenland tidewater glaciers. Nature Geoscience 12, 34–39. doi:10.1038/s41561-018-0268-4.
