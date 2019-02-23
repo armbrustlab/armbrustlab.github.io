@@ -10,7 +10,7 @@ gallery:
     alt: "Metabolite extraction"
     title: "Extraction of plankton metabolites in the lab"
 ---
-![Bryndan P. Durham]({% link /assets/images/Durham2016.jpg %})
+![Bryndan P. Durham]({% link /assets/images/DURHAM.jpg %})
 
 ## Post-doctoral research associate
 email: bpdurham@uw.edu  
