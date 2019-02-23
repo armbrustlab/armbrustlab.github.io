@@ -34,25 +34,25 @@ I am currently using a combination of laboratory- and field-based measurements t
 
 ## Publications
 
-**Durham BP**, Boysen AK, Carlson LT, Groussman RD, Heal KR, Cain KR, Morales RL, Coesel SN, Morris RM, Ingalls AE, Armbrust EV. Disentangling microbial networks in the sea: sulfonate-based trophic interactions between ocean plankton. Nature Microbiology in revision.
+**Durham BP**, Boysen AK, Carlson LT, Groussman RD, Heal KR, Cain KR, Morales RL, Coesel SN, Morris RM, Ingalls AE, Armbrust EV. Disentangling microbial networks in the sea: sulfonate-based trophic interactions between ocean plankton. *Nature Microbiology* in revision.
 
-Becker KW, Collins JR, **Durham BP**, Groussman RD, White AE, Fredricks HF, Ossolinski JE, Repeta DJ, Carini P, Armbrust EV, Van Mooy BAS. 2018. Daily changes in phytoplankton lipidomes reveal mechanisms of energy storage in the open ocean. Nature Communications 9: 5179.
+Becker KW, Collins JR, **Durham BP**, Groussman RD, White AE, Fredricks HF, Ossolinski JE, Repeta DJ, Carini P, Armbrust EV, Van Mooy BAS. 2018. Daily changes in phytoplankton lipidomes reveal mechanisms of energy storage in the open ocean. *Nature Communications* 9: 5179.  
 [doi: 10.1038/s41467-018-07346-z]
 
-**Durham BP**, Dearth SP, Sharma S, Amin SA, Smith CB, Campagna SR, Armbrust EV, Moran MA. 2017. Recognition cascade and metabolite transfer in a marine bacteria-phytoplankton model system. Environmental Microbiology 19:3500-3513.  
+**Durham BP**, Dearth SP, Sharma S, Amin SA, Smith CB, Campagna SR, Armbrust EV, Moran MA. 2017. Recognition cascade and metabolite transfer in a marine bacteria-phytoplankton model system. *Environmental Microbiology* 19:3500-3513.  
 [doi: 10.1111/1462-2920.13834]
 
-Amin SA, Hmelo LR, van Tol HM, **Durham BP**, Carlson LT, Heal KR, Morales RL, Berthiaume CT, Parker MS, Djunaedi B, Ingalls AE, Parsek MR, Moran MA, Armburst EV. 2015. Interaction and signalling between a cosmopolitan phytoplankton and associated bacteria. Nature 522:98-101.  
+Amin SA, Hmelo LR, van Tol HM, **Durham BP**, Carlson LT, Heal KR, Morales RL, Berthiaume CT, Parker MS, Djunaedi B, Ingalls AE, Parsek MR, Moran MA, Armburst EV. 2015. Interaction and signalling between a cosmopolitan phytoplankton and associated bacteria. *Nature* 522:98-101.  
 [doi: 10.1038/nature14488]
 
-Varaljay VA, Robidart J, Preston CM, Gifford SM, **Durham BP**, Burns AS, Ryan JP, Marin R III, Kiene RP, Zehr JP, Scholin CA, Moran MA. 2015. Single-taxon field measurements of bacterial gene regulation controlling DMSP fate. ISME Journal 9:1677-1686.
+Varaljay VA, Robidart J, Preston CM, Gifford SM, **Durham BP**, Burns AS, Ryan JP, Marin R III, Kiene RP, Zehr JP, Scholin CA, Moran MA. 2015. Single-taxon field measurements of bacterial gene regulation controlling DMSP fate. *ISME Journal* 9:1677-1686.
 [doi: 10.1038/ismej.2015.23]
 
-**Durham BP**, Sharma S, Luo H, Smith CB, Amin SA, Bender SJ, Dearth SP, Van Mooy BAS, Campagna SR, Kujawinski EB, Armbrust EV, Moran MA. 2015. Cryptic carbon and sulfur cycling between surface ocean plankton. Proc Natl Acad Sci USA 112:453-457.  
+**Durham BP**, Sharma S, Luo H, Smith CB, Amin SA, Bender SJ, Dearth SP, Van Mooy BAS, Campagna SR, Kujawinski EB, Armbrust EV, Moran MA. 2015. Cryptic carbon and sulfur cycling between surface ocean plankton. *Proc Natl Acad Sci USA* 112:453-457.  
 [doi: 10.1073/pnas.1413137112]
 
-**Durham BP**, Grote J, Whittaker KA, Bender SJ, Luo H, Grim SL, Brown JM, Casey JR, Dron A, Florez-Leiva L, Krupke A, Luria CM, Mine AH, Pather S, Talarmin A, Wear EK, Weber TS, Wilson JM, Church MJ, DeLong EF, Karl DM, Steward GF, Eppley JM, Kyrpides NC, Schuster S, Rappé MS. 2014. Draft genome sequence of marine alphaproteobacterial strain HIMB11, the first cultivated representative of a unique lineage within the Roseobacter clade possessing a remarkably small genome. Standards in Genomic Sciences 9:632-645.  
+**Durham BP**, Grote J, Whittaker KA, Bender SJ, Luo H, Grim SL, Brown JM, Casey JR, Dron A, Florez-Leiva L, Krupke A, Luria CM, Mine AH, Pather S, Talarmin A, Wear EK, Weber TS, Wilson JM, Church MJ, DeLong EF, Karl DM, Steward GF, Eppley JM, Kyrpides NC, Schuster S, Rappé MS. 2014. Draft genome sequence of marine alphaproteobacterial strain HIMB11, the first cultivated representative of a unique lineage within the Roseobacter clade possessing a remarkably small genome. *Standards in Genomic Sciences* 9:632-645.  
 [doi: 10.4056/sigs.4998989]
 
-Moran MA, Satinsky B, Gifford SM, Luo H, Rivers A, Chan LK, Meng J, **Durham BP**, Shen C, Varaljay VA, Smith CB, Yager PL, Hopkinson BM. 2013. Sizing up metatranscriptomics. ISME Journal 7:237-243.  
+Moran MA, Satinsky B, Gifford SM, Luo H, Rivers A, Chan LK, Meng J, **Durham BP**, Shen C, Varaljay VA, Smith CB, Yager PL, Hopkinson BM. 2013. Sizing up metatranscriptomics. *ISME Journal* 7:237-243.  
 [doi: 10.1038/ismej.2012.94]
