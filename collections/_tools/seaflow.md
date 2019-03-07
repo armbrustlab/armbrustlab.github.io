@@ -4,12 +4,11 @@ title: SeaFlow project
 
 ![Seaflow]({% link /assets/images/seaflow.jpeg %})
 
-**SeaFlow** is an underway flow cytometer created at UW by the Armbrust lab that is designed to measure continuously the abundance and composition of microbial populations, making it possible to analyze the equivalent of one sample every three minutes. The instrument collects information about the size and pigment content of an individual cell and counts several thousands cells every second. The instrument utilizes light scattering and autofluorescence properties of individual cells to discriminate and quantify different cell populations that span 0.5-15 micrometer in size ([Swalwell et al. 2011](https://doi.org/10.4319/lom.2011.9.466)). The instrument is semi-autonomous and can be controlled remotely via satellite connection. Real-time data can be visualized using [our web interface](http://armbrustlab.github.io/seaflowviz3/).
+**SeaFlow** is an underway flow cytometer created at UW by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) that is designed to measure continuously the abundance and composition of phytoplankton populations, making it possible to analyze the equivalent of one sample every three minutes. The instrument collects information about the size and pigment content of an individual cell and counts several thousands cells every second. The instrument utilizes light scattering and autofluorescence properties of individual cells to discriminate and quantify different cell populations that span 0.5-10 micrometer in size ([Swalwell et al. 2011](https://doi.org/10.4319/lom.2011.9.466)). The instrument is semi-autonomous and can be controlled remotely via satellite connection.
 
 ### SeaFlow project team members
 - [Ginger Armbrust](https://armbrustlab.ocean.washington.edu/people/armbrust/) (Principal Investigator)
 - [Francois Ribalet](https://armbrustlab.ocean.washington.edu/people/ribalet/) (Co-Investigator)
-- [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) (Research Engineer)
 - [Chris Berthiaume](https://armbrustlab.ocean.washington.edu/people/beethiaume/) (Software Engineer)
 - [Annette Hynes](https://armbrustlab.ocean.washington.edu/people/hynes/) (Research Scientist)
 
