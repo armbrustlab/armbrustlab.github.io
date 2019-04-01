@@ -7,12 +7,12 @@ title: Ben Lambert
 lambertb at uw.edu
 
 ## Research Interests
-I'm an engineer turned microbial ecologist interested in how phenotypic heterogeneity in marine picoplankton populations impacts how microbes survive in uncertain and fluctuating environments. Investigating phenotypic heterogeneity calls for measurements on the scale of individual cells. To accomplish this I am coupling automated time-lapse microscopy and raman microscopy with microfluidic systems to observe how population structure influences the fitness of populations during imposed environmental disruptions.    
+I'm an engineer turned microbial ecologist interested in how phenotypic heterogeneity in marine picoplankton populations impacts survival in uncertain and fluctuating environments. Investigating phenotypic heterogeneity calls for measurements on the scale of individual cells. To accomplish this I am coupling automated time-lapse microscopy and raman microscopy with microfluidic systems to observe how population structure influences the fitness of populations during imposed environmental disruptions.    
 
 ## Education
 * 2019	  Ph.D. Oceanographic Engineering, Massachusetts Institute of Technology/Woods Hole Oceanographic Institution Joint Program. 
 Thesis title: Observing Microbial Processes at the Microscale with In Situ Technology.
-* 2012		B.Sc Civil and Environmental Engineering. University of Alberta, Edmonton, AB, Canada.
+* 2012		B.Sc. Civil and Environmental Engineering. University of Alberta, Edmonton, AB, Canada.
 
 ## Positions Held
 * 2019-               Post-Doctoral Research Associate, School of Oceanography, UW
