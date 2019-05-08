@@ -39,7 +39,6 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 * Distinguished Graduate Teaching Award, College of Ocean and Fishery Sciences, 1999
 
 ## Publications
-2019
 
 2018
 1. Becker, Kevin W., James R. Collins, Bryndan P. Durham, Ryan D. Groussman, Angelicque E. White, Helen F. Fredricks, Justin E. Ossolinski, Daniel J. Repeta, Paul Carini, E. Virginia Armbrust, and Benjamin A. S. Van Mooy. Daily changes in phytoplankton lipidomes reveal mechanisms of energy storage in the open ocean.  Nature Communications DOI: 10.1038/s41467-018-07346-z.
