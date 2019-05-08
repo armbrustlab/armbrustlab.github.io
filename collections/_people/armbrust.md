@@ -39,8 +39,10 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 * Distinguished Graduate Teaching Award, College of Ocean and Fishery Sciences, 1999
 
 ## Publications
+2019
+
 2018
-1. Becker, Kevin W., James R. Collins, Bryndan P. Durham, Ryan D. Groussman, Angelicque E. White, Helen F. Fredricks, Justin E. Ossolinski, Daniel J. Repeta, Paul Carini, E. Virginia Armbrust, and Benjamin A. S. Van Mooy. Daily changes in phytoplankton lipidomes reveal mechanisms of energy storage in the open ocean.  Nature Communications, in press.
+1. Becker, Kevin W., James R. Collins, Bryndan P. Durham, Ryan D. Groussman, Angelicque E. White, Helen F. Fredricks, Justin E. Ossolinski, Daniel J. Repeta, Paul Carini, E. Virginia Armbrust, and Benjamin A. S. Van Mooy. Daily changes in phytoplankton lipidomes reveal mechanisms of energy storage in the open ocean.  Nature Communications DOI: 10.1038/s41467-018-07346-z.
 1. Chapell, P. Dreux, E. Virginia Armbrust, Katherine A. Barbeau, Randelle M. Bundy, James W. Moffett, Jagruti Vedmati,  Bethany D. Jenkins. Dissolved trace metals drive diatom community composition in the NE Pacific transition zone. Marine Ecology Progress Series, doi.org/10.3354/meps12810.
 1. Turner, J., J. J. Tallman, A. Macias, L. J. Pinnell, N. C. Elledge, D. N. Azadani, W. Nilsson, R. Paranjpye, E. V. Armbrust, M. S. Strom. Comparative genomic analysis of Vibrio diabolicus and six taxonomic synonyms: a first look at the distribution and diversity of the expanded species. Frontiers Microbiology, doi: 10.3389/fmicb.2018.01893. 
 1. Heal, K. R., W. Qin, S. A. Amin, A. H. Devol, J. W. Moffett, E. V. Armbrust, D. A. Stahl, A. E. Ingalls. Accumulation of NO2‐cobalamin in nutrient‐stressed ammonia‐oxidizing archaea and in the oxygen deficient zone of the Eastern Tropical North Pacific. Environmental Microbiology Letters doi.org/10.1111/1758-2229.12664.
