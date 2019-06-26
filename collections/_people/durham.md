@@ -37,8 +37,8 @@ Moran MA, **Durham BP**. Sulfur metabolites in the pelagic ocean. *Nature Review
 
 **Durham BP**, Boysen AK, Carlson LT, Groussman RD, Heal KR, Cain KR, Morales RL, Coesel SN, Morris RM, Ingalls AE, Armbrust EV. Sulfonate-based networks between eukaryotic phytoplankton and heterotrophic bacteria in the surface ocean. *Nature Microbiology* accepted.
 
-Landa M, Burns AS, **Durham BP**, Esson K, Nowinski BC, Sharma S, Vorobev A, Nielsen T, Kiene RP, Moran MA. 2019. Sulfur metabolites that facilitate oceanic phytoplankton-bacteria carbon flux. *ISME Journal* epub ahead of print.
-[doi: 10.1038/s41396-019-0455-3]
+Landa M, Burns AS, **Durham BP**, Esson K, Nowinski BC, Sharma S, Vorobev A, Nielsen T, Kiene RP, Moran MA. 2019. Sulfur metabolites that facilitate oceanic phytoplankton-bacteria carbon flux. *ISME Journal* epub ahead of print.  
+[doi: 10.1038/s41396-019-0455-3]  
 link to pdf: https://rdcu.be/bHQBR
 
 Becker KW, Collins JR, **Durham BP**, Groussman RD, White AE, Fredricks HF, Ossolinski JE, Repeta DJ, Carini P, Armbrust EV, Van Mooy BAS. 2018. Daily changes in phytoplankton lipidomes reveal mechanisms of energy storage in the open ocean. *Nature Communications* 9: 5179.  
@@ -50,7 +50,7 @@ Becker KW, Collins JR, **Durham BP**, Groussman RD, White AE, Fredricks HF, Osso
 Amin SA, Hmelo LR, van Tol HM, **Durham BP**, Carlson LT, Heal KR, Morales RL, Berthiaume CT, Parker MS, Djunaedi B, Ingalls AE, Parsek MR, Moran MA, Armburst EV. 2015. Interaction and signalling between a cosmopolitan phytoplankton and associated bacteria. *Nature* 522:98-101.  
 [doi: 10.1038/nature14488]
 
-Varaljay VA, Robidart J, Preston CM, Gifford SM, **Durham BP**, Burns AS, Ryan JP, Marin R III, Kiene RP, Zehr JP, Scholin CA, Moran MA. 2015. Single-taxon field measurements of bacterial gene regulation controlling DMSP fate. *ISME Journal* 9:1677-1686.
+Varaljay VA, Robidart J, Preston CM, Gifford SM, **Durham BP**, Burns AS, Ryan JP, Marin R III, Kiene RP, Zehr JP, Scholin CA, Moran MA. 2015. Single-taxon field measurements of bacterial gene regulation controlling DMSP fate. *ISME Journal* 9:1677-1686.  
 [doi: 10.1038/ismej.2015.23]
 
 **Durham BP**, Sharma S, Luo H, Smith CB, Amin SA, Bender SJ, Dearth SP, Van Mooy BAS, Campagna SR, Kujawinski EB, Armbrust EV, Moran MA. 2015. Cryptic carbon and sulfur cycling between surface ocean plankton. *Proc Natl Acad Sci USA* 112:453-457.  
