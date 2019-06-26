@@ -34,7 +34,9 @@ I am currently using a combination of laboratory- and field-based measurements t
 
 ## Publications
 
-**Durham BP**, Boysen AK, Carlson LT, Groussman RD, Heal KR, Cain KR, Morales RL, Coesel SN, Morris RM, Ingalls AE, Armbrust EV. Disentangling microbial networks in the sea: sulfonate-based trophic interactions between ocean plankton. *Nature Microbiology* in revision.
+**Durham BP**, Boysen AK, Carlson LT, Groussman RD, Heal KR, Cain KR, Morales RL, Coesel SN, Morris RM, Ingalls AE, Armbrust EV. Sulfonate-based networks between eukaryotic phytoplankton and heterotrophic bacteria in the surface ocean. *Nature Microbiology* accepted.
+
+Moran MA, **Durham BP**. Sulfur metabolites in the pelagic ocean. *Nature Reviews Microbiology* accepted.
 
 Becker KW, Collins JR, **Durham BP**, Groussman RD, White AE, Fredricks HF, Ossolinski JE, Repeta DJ, Carini P, Armbrust EV, Van Mooy BAS. 2018. Daily changes in phytoplankton lipidomes reveal mechanisms of energy storage in the open ocean. *Nature Communications* 9: 5179.  
 [doi: 10.1038/s41467-018-07346-z]
