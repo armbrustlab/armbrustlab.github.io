@@ -40,6 +40,9 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 
 ## Publications
 
+2019
+1. Durham, Bryndan P., Angela K. Boysen, Laura T. Carlson, Ryan D. Groussman, Katherine R. Heal, Kelsey R. Cain, Rhonda L. Morales, Sacha Coesel, Robert M. Morris, Anitra E. Ingalls, E. Virginia Armbrust. Sulfonate-based networks between eukaryotic phytoplankton and heterotrophic bacteria in the surface ocean. Nature Microbiology, in press.
+
 2018
 1. Becker, Kevin W., James R. Collins, Bryndan P. Durham, Ryan D. Groussman, Angelicque E. White, Helen F. Fredricks, Justin E. Ossolinski, Daniel J. Repeta, Paul Carini, E. Virginia Armbrust, and Benjamin A. S. Van Mooy. Daily changes in phytoplankton lipidomes reveal mechanisms of energy storage in the open ocean.  Nature Communications DOI: 10.1038/s41467-018-07346-z.
 1. Chapell, P. Dreux, E. Virginia Armbrust, Katherine A. Barbeau, Randelle M. Bundy, James W. Moffett, Jagruti Vedmati,  Bethany D. Jenkins. Dissolved trace metals drive diatom community composition in the NE Pacific transition zone. Marine Ecology Progress Series, doi.org/10.3354/meps12810.
