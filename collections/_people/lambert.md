@@ -20,6 +20,7 @@ Thesis title: Observing Microbial Processes at the Microscale with In Situ Techn
 * 2012-2015	      Research Assistant, MIT-WHOI Joint Program
 
 ## Journal Publications
+1. Motility drives bacterial encounter with particles responsible for carbon export throughout the ocean. **Bennett Lambert**, Vicente I. Fernandez, and Roman Stocker. L&O:Letters (2019)
 1. The role of microbial motility and chemotaxis in symbiosis. Jean-Baptiste Raina, Vicente Fernandez, **Bennett Lambert**, Roman Stocker, and Justin Seymour. Nature Reviews Microbiology (2019)
 1. A microfluidics-based  in situ chemotaxis assay to study the behavior of aquatic microbial communities. **Bennett Lambert**, Jean-Baptiste Raina, Vicente Fernandez, Christian Rinke, Nachshon Siboni, Francesco Rubino, Philip Hugenholtz, Gene Tyson, Justin Seymour, and Roman Stocker. Nature Microbiology (2017)
 1. A fluorescence-activated cell sorting subsystem for the Imaging FlowCytobot. **Bennett Lambert**, Robert J. Olson, and Heidi M. Sosik. L&O: Methods (2016) 
