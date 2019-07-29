@@ -35,7 +35,9 @@ I am currently using a combination of laboratory- and field-based measurements t
 ## Publications
 Moran MA, **Durham BP**. Sulfur metabolites in the pelagic ocean. *Nature Reviews Microbiology* accepted.
 
-**Durham BP**, Boysen AK, Carlson LT, Groussman RD, Heal KR, Cain KR, Morales RL, Coesel SN, Morris RM, Ingalls AE, Armbrust EV. Sulfonate-based networks between eukaryotic phytoplankton and heterotrophic bacteria in the surface ocean. *Nature Microbiology* accepted.
+**Durham BP**, Boysen AK, Carlson LT, Groussman RD, Heal KR, Cain KR, Morales RL, Coesel SN, Morris RM, Ingalls AE, Armbrust EV. Sulfonate-based networks between eukaryotic phytoplankton and heterotrophic bacteria in the surface ocean. *Nature Microbiology* epub ahead of print.
+[doi: 10.1038/s41564-019-0507-5]
+link to pdf: https://rdcu.be/bLipx
 
 Landa M, Burns AS, **Durham BP**, Esson K, Nowinski BC, Sharma S, Vorobev A, Nielsen T, Kiene RP, Moran MA. 2019. Sulfur metabolites that facilitate oceanic phytoplankton-bacteria carbon flux. *ISME Journal* epub ahead of print.  
 [doi: 10.1038/s41396-019-0455-3]  
