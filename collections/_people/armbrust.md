@@ -41,7 +41,9 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 ## Publications
 
 2019
-1. Durham, Bryndan P., Angela K. Boysen, Laura T. Carlson, Ryan D. Groussman, Katherine R. Heal, Kelsey R. Cain, Rhonda L. Morales, Sacha Coesel, Robert M. Morris, Anitra E. Ingalls, E. Virginia Armbrust. Sulfonate-based networks between eukaryotic phytoplankton and heterotrophic bacteria in the surface ocean. Nature Microbiology, in press.
+1. Wilson, Samuel T.,  Nicholas J. Hawco, E. Virginia Armbrust, Benedetto Barone, Karin M. Björkman, Angela K. Boysen, Macarena Burgos, Timothy J. Burrell, John R. Casey, Edward F. DeLong, Mathilde Dugenne, Stephanie Dutkiewicz, Sonya T. Dyhrman, Sara Ferrón, Michael J. Follows, Rhea K. Foreman, Carolina P. Funkey, Matthew J. Harke, Britt A. Henke, Christopher N. Hill, Annette M. Hynes, Anitra E. Ingalls, Oliver Jahn, Rachel L. Kelly, Angela N. Knapp, Ricardo M. Letelier, François Ribalet, Eric M. Shimabukuro, Ryan K. S. Tabata, Kendra A. Turk-Kubo, Angelique E. White, Jonathan P. Zehr, Seth John, David M. Karl. Kīlauea lava fuels phytoplankton bloom in the North Pacific Ocean. Science, 365 1040-1044.
+
+1. Durham, Bryndan P., Angela K. Boysen, Laura T. Carlson, Ryan D. Groussman, Katherine R. Heal, Kelsey R. Cain, Rhonda L. Morales, Sacha Coesel, Robert M. Morris, Anitra E. Ingalls, E. Virginia Armbrust. Sulfonate-based networks between eukaryotic phytoplankton and heterotrophic bacteria in the surface ocean. Nature Microbiology, DOI: 10.1038/s41564-019-0507-5.
 
 2018
 1. Becker, Kevin W., James R. Collins, Bryndan P. Durham, Ryan D. Groussman, Angelicque E. White, Helen F. Fredricks, Justin E. Ossolinski, Daniel J. Repeta, Paul Carini, E. Virginia Armbrust, and Benjamin A. S. Van Mooy. Daily changes in phytoplankton lipidomes reveal mechanisms of energy storage in the open ocean.  Nature Communications DOI: 10.1038/s41467-018-07346-z.
