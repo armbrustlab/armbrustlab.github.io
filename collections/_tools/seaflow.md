@@ -1,17 +1,24 @@
----
-title: SeaFlow project
----
-
 ![Seaflow]({% link /assets/images/seaflow.jpeg %})
 
-**SeaFlow** is an underway flow cytometer created at UW by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) that is designed to measure continuously the abundance and composition of phytoplankton populations, making it possible to analyze the equivalent of one sample every three minutes. The instrument collects information about the size and pigment content of an individual cell and counts several thousands cells every second. The instrument utilizes light scattering and autofluorescence properties of individual cells to discriminate and quantify different cell populations that span 0.5-10 micrometer in size ([Swalwell et al. 2011](https://doi.org/10.4319/lom.2011.9.466)). The instrument is semi-autonomous and can be controlled remotely via satellite connection.
+---
+title: Computational Flow Cytometry Analysis of Marine Phytoplankton
+(funded by the [Simons Foundation]())
+---
+========
+<img src="https://github.com/armbrustlab/seaflow-sfl/blob/master/cruise-track.png" alt="SeaFlow cruisetracks"	title="SeaFlow cruisetracks" align="left" style="float" width="400">
+SeaFlow is an shipboard underway flow cytometer that provides continuous optical measurements of light scatter and fluorescence associated with the pigments chlorophyll a and phycoerythrin at the single cell level [(Swalwell et al. 2011)](https://doi.org/10.4319/lom.2011.9.466). Over the last decade, the instrument has measured the optical properties of over 300 billions small individual phytoplankton cells (< 5 $\mu$m in diameter) across the North Pacific Ocean at a spatial resolution of ~ 1 km along the cruise track. We have developed new reproducible analytical methods to uniformely process, calibrate and curate SeaFlow data. The data sets were expanded to include diameter and carbon quotas derived from light scatter measurements. An example dataset representing the compilation of over 69,000 SeaFlow-based estimates of cell abundance, cell diameter and carbon quotas for the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and small-sized <i>Crocosphaera</i> (< 5 $\mu$m), and picophytoplankton and nanophytoplankton (2-5 $\mu$m) collected during 27 oceanographic cruises is available [here](https://zenodo.org/search?q=seaflow) without restriction. Description of the data can be found in [Ribalet et al. 2019](). 
 
-### SeaFlow project team members
-- [Ginger Armbrust](https://armbrustlab.ocean.washington.edu/people/armbrust/) (Principal Investigator)
-- [Francois Ribalet](https://armbrustlab.ocean.washington.edu/people/ribalet/) (Co-Investigator)
-- [Chris Berthiaume](https://armbrustlab.ocean.washington.edu/people/beethiaume/) (Software Engineer)
+We are currently implementing a [size-structured matrix population model](https://github.com/armbrustlab/ssPopModel) for <i>Prochlorococcus</i> and <i>Synechococcus</i> to estimate cell growth and cell mortality rates, two key traits that govern how these organisms interact with their environment.
+
+List of available data can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VR2_VAulc6caxklUqOTOj_7EEnNJiFlHqaD1fC7Pc_zqw5i7wwcQUcDa8dtALZXoVHt2t0mdPS5/pubhtml)). 
+
+
+### Team
+- [Francois Ribalet](https://armbrustlab.ocean.washington.edu/people/ribalet/) (Principal Investigator)
 - [Annette Hynes](https://armbrustlab.ocean.washington.edu/people/hynes/) (Research Scientist)
+- [Chris Berthiaume](https://armbrustlab.ocean.washington.edu/people/beethiaume/) (Software Engineer)
 - [Mattias Cape](https://armbrustlab.ocean.washington.edu/people/cape/) (Postdoctoral Research Associate)
+- [Kristof Glauninger](https://www.stat.washington.edu/person/kristof-glauninger)(Graduate Student)
 
 ### Software
 * [popcycle](https://github.com/uwescience/popcycle) - an R package that analyzing continuous flow cytometry data from SeaFlow repository. The software is built to perform both coarse real-time data analysis and fine-tuned population clustering analysis.
@@ -21,7 +28,11 @@ title: SeaFlow project
 * [ssPopModel](https://github.com/armbrustlab/ssPopModel) - an R package that uses size-structured matrix population model to estimate hourly division rates of microbial populations from SeaFlow data. These estimates are independent of variations in cell abundance and can be used to study physiologically-driven changes in population dynamics.
 
 
-### Instrument Photos
+### Instrument 
+#### Technology
+SeaFlow is a custom-built shipboard flow cytometer developed for high-resolution observations of small phytoplankton (< 5 $\mu$m) in surface waters [(Swalwell et al. 2011)](https://doi.org/10.4319/lom.2011.9.466). The instrument utilizes light scattering and autofluorescence properties to discriminate and quantify different cell populations that span 0.5-5 micrometer in size. Unlike a conventional flow cytometer, SeaFlow directly analyzes a raw stream of seawater using two detectors that determine the position of the particle within the focal region of the instrument optical system. With this technology, measurements from particles that pass through the ideal focal position of the collection optics can be differentiated from improperly positioned particles, producing a measurement equivalent to that obtained with a conventional cytometer (see [OPP filtration](https://github.com/armbrustlab/seaflow-filter)). The ratio of these optimally positioned particles (OPP) to the total detectable particles is used to retrieve the volumetric flow rate, allowing accurate estimation of cell abundances (see [Virtual Core calibration](https://github.com/armbrustlab/seaflow-virtualcore)). The instrument is semi-autonomous and can be controlled remotely via satellite connection. 
+
+#### Photos
 
 **Prototype** SeaFlow (June 2008)  
 ![Seaflow Gen 1]({% link /assets/images/SeaFlow-gen1.jpg %})
