@@ -8,7 +8,9 @@ ribalet at uw.edu
 
 I am investigating how marine phytoplankton respond to environmental perturbations and ultimately how it affect the carbon cycle. I use a combination of optical data collected by shipboard flow cytometer and population models to estimate cell growth and cell mortality rates, two key traits that govern how these organisms interact with their environment. 
 
-I am also the Principal Investigator of the [Computational Flow Cytometry Analysis of Marine Phytoplankton]({% link _tools/seaflow.md %}) project, which consists of developing reproducible analytical methods to process, standardize and curate SeaFlow-based optical data collected over the last decade during oceanographic cruises. An example dataset representing the compilation of SeaFlow measurements collected during 27 oceanographic cruises is available without restrictions [here](http://doi.org/10.5281/zenodo.2678021), description of the data can be found in [Ribalet et al. (2019)](http://doi.org/10.5281/zenodo.2678021).
+I am also the Principal Investigator of the [Computational Flow Cytometry Analysis of Marine Phytoplankton]({% link _tools/seaflow.md %}) project, which consists of developing reproducible analytical methods to process, standardize and curate SeaFlow-based optical data collected over the last decade during oceanographic cruises. 
+* An example dataset representing the compilation of SeaFlow measurements collected during 27 oceanographic cruises is available without restrictions [here](http://doi.org/10.5281/zenodo.2678021)
+* Data description can be found in [Ribalet et al. (2019)](http://doi.org/10.5281/zenodo.2678021).
 
 ## Education
 * 2007 Ph.D in Biological Sciences – Open University of London, UK, hosted by the Stazione Zoologica Anton Dohrn, Naples, IT. Thesis title: The role of polyunsaturated aldehyde production in the physiology and ecology of diatoms, 270 pp. [uk.bl.ethos.487156.](http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.487156)
