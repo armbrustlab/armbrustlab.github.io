@@ -2,6 +2,7 @@
 title: François Ribalet
 ---
 ![François Ribalet]({% link /assets/images/Francois-Ribalet-528x528.jpg %})
+
 **ribalet at uw.edu**
 
 I am investigating how marine phytoplankton respond to environmental perturbations and ultimately how it affect the carbon cycle. I use a combination of optical data collected by shipboard flow cytometer [(SeaFlow)](https://doi.org/10.4319/lom.2011.9.466) and population models [(size-structured matrix model)](https://github.com/armbrustlab/ssPopModel) to estimate cell growth and cell mortality rates, two key traits that govern how these organisms interact with their environment. 
