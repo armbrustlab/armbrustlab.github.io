@@ -37,16 +37,5 @@ We are currently implementing a [size-structured matrix population model](https:
 
 
 ### Instrument 
-SeaFlow is a custom-built shipboard flow cytometer developed for high-resolution observations of small phytoplankton (< 5 $\mu$m) in surface waters [(Swalwell et al. 2011)](https://doi.org/10.4319/lom.2011.9.466). The instrument utilizes light scattering and autofluorescence properties to discriminate and quantify different cell populations that span 0.5-5 micrometer in size. Unlike a conventional flow cytometer, SeaFlow directly analyzes a raw stream of seawater using two detectors that determine the position of the particle within the focal region of the instrument optical system. With this technology, measurements from particles that pass through the ideal focal position of the collection optics can be differentiated from improperly positioned particles, producing a measurement equivalent to that obtained with a conventional cytometer (see [OPP filtration](https://github.com/armbrustlab/seaflow-filter)). The ratio of these optimally positioned particles (OPP) to the total detectable particles is used to retrieve the volumetric flow rate, allowing accurate estimation of cell abundances (see [Virtual Core calibration](https://github.com/armbrustlab/seaflow-virtualcore)). The instrument is semi-autonomous and can be controlled remotely via satellite connection. 
-
-**Prototype** SeaFlow (June 2008)  
-![Seaflow Gen 1]({% link /assets/images/SeaFlow-gen1.jpg %})
-
-**First-generation** SeaFlow (August 2009)  
-![Seaflow Gen 2]({% link /assets/images/seaflow-gen2.jpg %})
-
-SeaFlow on the UW **research vessel** (April 2010)  
 ![Seaflow Research Vessel]({% link /assets/images/seaflow-research-vessel.png %})
-
-SeaFlow on a **container ship** (Oocl Tokyo) (January 2011)  
-![Seaflow Container Ship]({% link /assets/images/seaflow-container-ship.jpg %})
+SeaFlow is a custom-built shipboard flow cytometer developed for high-resolution observations of small phytoplankton (< 5 $\mu$m) in surface waters [(Swalwell et al. 2011)](https://doi.org/10.4319/lom.2011.9.466). The instrument utilizes light scattering and autofluorescence properties to discriminate and quantify different cell populations that span 0.5-5 micrometer in size. Unlike a conventional flow cytometer, SeaFlow directly analyzes a raw stream of seawater using two detectors that determine the position of the particle within the focal region of the instrument optical system. With this technology, measurements from particles that pass through the ideal focal position of the collection optics can be differentiated from improperly positioned particles, producing a measurement equivalent to that obtained with a conventional cytometer (see [OPP filtration](https://github.com/armbrustlab/seaflow-filter)). The ratio of these optimally positioned particles (OPP) to the total detectable particles is used to retrieve the volumetric flow rate, allowing accurate estimation of cell abundances (see [Virtual Core calibration](https://github.com/armbrustlab/seaflow-virtualcore)). The instrument is semi-autonomous and can be controlled remotely via satellite connection. 
