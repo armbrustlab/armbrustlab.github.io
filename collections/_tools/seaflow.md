@@ -4,14 +4,15 @@ title: SeaFlow project
 ![Seaflow]({% link /assets/images/seaflow.jpeg %})
 
 ## Computational Flow Cytometry Analysis of Marine Phytoplankton
+
 (funded by the [Simons Foundation](https://www.simonsfoundation.org/life-sciences/microbial-oceanography/))
-========
+
 <img src="https://github.com/armbrustlab/seaflow-sfl/blob/master/cruise-track.png" alt="SeaFlow cruisetracks"	title="SeaFlow cruisetracks" align="left" style="float" width="400">
-SeaFlow is an shipboard underway flow cytometer that provides continuous optical measurements of light scatter and fluorescence associated with the pigments chlorophyll a and phycoerythrin at the single cell level [(Swalwell et al. 2011)](https://doi.org/10.4319/lom.2011.9.466). Over the last decade, the instrument has measured the optical properties of over 300 billions small individual phytoplankton cells (< 5 $\mu$m in diameter) across the North Pacific Ocean at a spatial resolution of ~ 1 km along the cruise track. We have developed new reproducible analytical methods to uniformely process, calibrate and curate SeaFlow data. The data sets were expanded to include diameter and carbon quotas derived from light scatter measurements. An example dataset representing the compilation of over 69,000 SeaFlow-based estimates of cell abundance, cell diameter and carbon quotas for the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and small-sized <i>Crocosphaera</i> (< 5 $\mu$m), and picophytoplankton and nanophytoplankton (2-5 $\mu$m) collected during 27 oceanographic cruises is available [here](https://zenodo.org/search?q=seaflow) without restriction. Description of the data can be found in [Ribalet et al. 2019](). 
+
+SeaFlow is an shipboard underway flow cytometer that provides continuous optical measurements of light scatter and fluorescence associated with the pigments chlorophyll a and phycoerythrin at the single cell level ([Swalwell et al. 2011](https://doi.org/10.4319/lom.2011.9.466)). Over the last decade, the instrument has measured the optical properties of over 300 billions small individual phytoplankton cells (< 5 µm in diameter) across the North Pacific Ocean at a spatial resolution of ~ 1 km along the cruise track. We have developed new reproducible analytical methods to uniformely process, calibrate and curate SeaFlow data. The data sets were expanded to include diameter and carbon quotas derived from light scatter measurements. An example dataset representing the compilation of over 69,000 SeaFlow-based estimates of cell abundance, cell diameter and carbon quotas for the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and small-sized <i>Crocosphaera</i> (< 5 µm), and picophytoplankton and nanophytoplankton (2-5 µm) collected during 27 oceanographic cruises is available [here](http://doi.org/10.5281/zenodo.2678021) without restriction. Description of the data can be found in [Ribalet et al. 2019](http://doi.org/10.5281/zenodo.2678021). List of available data can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VR2_VAulc6caxklUqOTOj_7EEnNJiFlHqaD1fC7Pc_zqw5i7wwcQUcDa8dtALZXoVHt2t0mdPS5/pubhtml). 
 
 We are currently implementing a [size-structured matrix population model](https://github.com/armbrustlab/ssPopModel) for <i>Prochlorococcus</i> and <i>Synechococcus</i> to estimate cell growth and cell mortality rates, two key traits that govern how these organisms interact with their environment.
 
-List of available data can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VR2_VAulc6caxklUqOTOj_7EEnNJiFlHqaD1fC7Pc_zqw5i7wwcQUcDa8dtALZXoVHt2t0mdPS5/pubhtml)). 
 
 
 ### Team
