@@ -8,7 +8,7 @@ ribalet at uw.edu
 
 I am investigating how marine phytoplankton respond to environmental perturbations and ultimately how it affect the carbon cycle. I use a combination of optical data collected by shipboard flow cytometer and population models to estimate cell growth and cell mortality rates, two key traits that govern how these organisms interact with their environment. 
 
-I am also the Principal Investigator of the [Computational Flow Cytometry Analysis of Marine Phytoplankton]({% link _tools/seaflow.md %}) project, which consists of developing reproducible analytical methods to process, standardize and curate SeaFlow-based optical data collected over the last decade during oceanographic cruises. 
+I am also the Principal Investigator of the [Computational Flow Cytometry Analysis of Marine Phytoplankton]({% link _tools/seaflow.md %}) project, which consists of developing reproducible analytical methods to process, standardize and curate SeaFlow-based optical data collected during oceanographic cruises over the last decade. 
 * An example dataset representing the compilation of SeaFlow measurements collected during 27 oceanographic cruises is available without restrictions [here](http://doi.org/10.5281/zenodo.2678021)
 * Data description can be found in [Ribalet et al. (2019)](https://doi.org/10.1038/s41597-019-0292-2).
 
