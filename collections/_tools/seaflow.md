@@ -13,7 +13,7 @@ SeaFlow is an shipboard underway flow cytometer that provides continuous optical
 
 * An example dataset representing the compilation of over 69,000 SeaFlow-based estimates of cell abundance, cell diameter and carbon quotas for the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and small-sized <i>Crocosphaera</i> (< 5 µm), and picophytoplankton and nanophytoplankton (2-5 µm) collected during 27 oceanographic cruises is available [here](http://doi.org/10.5281/zenodo.2678021) without restriction. 
 
-* Description of the data can be found in [Ribalet et al. 2019](http://doi.org/10.5281/zenodo.2678021). 
+* Description of the data can be found in [Ribalet et al. 2019](https://doi.org/10.1038/s41597-019-0292-2). 
 
 * List of available data can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VR2_VAulc6caxklUqOTOj_7EEnNJiFlHqaD1fC7Pc_zqw5i7wwcQUcDa8dtALZXoVHt2t0mdPS5/pubhtml). 
 
