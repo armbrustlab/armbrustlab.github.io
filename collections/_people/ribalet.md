@@ -6,11 +6,9 @@ title: François Ribalet
 **Senior Research Scientist**  
 ribalet at uw.edu
 
-I am investigating how marine phytoplankton respond to environmental perturbations and ultimately how it affect the carbon cycle. I use a combination of optical data collected by shipboard flow cytometer and population models to estimate cell growth and cell mortality rates, two key traits that govern how these organisms interact with their environment. 
+I am investigating how marine phytoplankton respond to environmental perturbations and ultimately how it affect the carbon cycle. I use a combination of optical data collected by shipboard flow cytometer and population models to estimate cell growth and cell mortality rates, two key traits that govern how these organisms interact with their environment.
 
-I am also the Principal Investigator of the [Computational Flow Cytometry Analysis of Marine Phytoplankton]({% link _tools/seaflow.md %}) project, which consists of developing reproducible analytical methods to process, standardize and curate SeaFlow-based optical data collected during oceanographic cruises over the last decade. 
-* An example dataset representing the compilation of SeaFlow measurements collected during 27 oceanographic cruises is available without restrictions [here](http://doi.org/10.5281/zenodo.2678021)
-* Data description can be found in [Ribalet et al. (2019)](https://doi.org/10.1038/s41597-019-0292-2).
+I am also the Principal Investigator of the [Computational Flow Cytometry Analysis of Marine Phytoplankton]({% link _tools/seaflow.md %}) project, which consists of developing reproducible analytical methods to process, standardize and curate flow cytometry data collected by SeaFlow during oceanographic cruises over the last decade.An example dataset representing the compilation of SeaFlow measurements collected during 27 oceanographic cruises is available without restrictions at [Zenodo](http://doi.org/10.5281/zenodo.2678021) open access research data repository. Data description can be found in [Ribalet et al. (2019)](https://doi.org/10.1038/s41597-019-0292-2).
 
 ## Education
 * 2007 Ph.D in Biological Sciences – Open University of London, UK, hosted by the Stazione Zoologica Anton Dohrn, Naples, IT. Thesis title: The role of polyunsaturated aldehyde production in the physiology and ecology of diatoms, 270 pp. [uk.bl.ethos.487156.](http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.487156)
@@ -25,6 +23,10 @@ I am also the Principal Investigator of the [Computational Flow Cytometry Analys
 * Undergraduate Research Assistant, Station Biologique de Roscoff, FR, 2001-2003
 
 ## Journal Publications
+<!-- 1. Connell, P., Ribalet, F., Armbrust, E.V., Caron. D. 2020. Diel oscillations in feeding strategies of heterotrophic and mixotrophic nanoplankton in the North Pacific Subtropical Gyre. [Marine Ecology Progress Series, ]()
+1. Mruwat, N., Carlson, M.C.G., Goldin, S., Ribalet, F., Kirzner, S., Hulata, Y., Beckett, S.J., Shitrit, D., Weitz, J.S., Armbrust, E.V., Lindell, D. 2020. A single-cell polony method reveals low levels of infected Prochlorococcus in oligotrophic waters despite high cyanophage abundances. [Nature Microbiology, ]()
+1. Gradoville, M.R., Farnelid, H., White, A.E., Turk-Kubo, K., Steward, B., Ribalet, F., Ferron, S., Pinedo-Gonzales, P., Armbrust, E.V., Karl, D.M., John, S., Zehr, J.P. 2020. Latitudinal constraints on the abundance and activity of the cyanobacterium UCYN-A and other marine diazotrophs in the North Pacific. [Limnology and Oceanography, in press]()
+-->
 1. Ribalet, F., Hynes, A., Berthiaume, C., Swalwell, J., Carlson, M., Clayton S., Hennon, G., Poirier, C., Shimabukuro, E., White, A., Armbrust, E.V. 2019. SeaFlow data v1, high-resolution abundance, size and biomass of small phytoplankton in the North Pacific. [Scientific Data, 6(1):pp277](https://doi.org/10.1038/s41597-019-0292-2)
 2. Wilson, S., Hawco, J., Armbrust, E.V., Barone, B., Björkman, K., Boysen, A., Burgos, M., Burrell, T., Casey, J., DeLong, E., Dugenne, M., Dutkiewicz, S., Dyhrman, S., Ferrón, S., Follows, M., Foreman, R., Funkey, C., Harke, M., Henke, B., Hill, C., Hynes, A., Ingalls, A., Jahn, O., Kelly, R., Knapp, A., Letelier, R., Ribalet, F., Shimabukuro, E., Tabata, R., Turk-Kubo, K., White, A., Zehr, J., John, S., Karl. D.M. 2019. Kīlauea lava fuels phytoplankton bloom in the North Pacific Ocean. [Science, 365:1040-1044](https://science.sciencemag.org/content/365/6457/1040)
 3. Wilson, S., Aylward, F., Ribalet, F., Barone, B., Casey, J., Connell, P., Eppley, J. , Ferron, S., Romano, A., Turk-Kubo, K., Vislova, A., Armbrust, E.V., Caron, D., Church, M., Zehr, J., Karl, D., Delong, E. 2017. Coordinated regulation of growth, activity and transcription in natural populations of the unicellular nitrogen-fixing cyanobacterium Crocosphaera. [Nature Microbiology, 2:17118](https://www.nature.com/articles/nmicrobiol2017118)

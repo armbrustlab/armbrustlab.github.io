@@ -1,23 +1,22 @@
 ---
 title: SeaFlow project
 ---
-![Seaflow]({% link /assets/images/seaflow.jpeg %})
+![Seaflow]({% link /assets/images/SeaFlowAnalysis-logo.png %})
 
 ## Computational Flow Cytometry Analysis of Marine Phytoplankton
 
 (funded by the [Simons Foundation](https://www.simonsfoundation.org/life-sciences/microbial-oceanography/))
 
-<img src="https://github.com/armbrustlab/seaflow-sfl/blob/master/cruise-track.png" alt="SeaFlow cruisetracks" title="SeaFlow cruisetracks" align="left" style="float" width="400">
+![Seaflow]({% link /assets/images/SeaFlow-cruisetracks.png %})
+SeaFlow is an shipboard underway flow cytometer that provides continuous optical measurements of light scatter and fluorescence associated with the pigments chlorophyll a and phycoerythrin at the single cell level ([Swalwell et al. 2011](https://doi.org/10.4319/lom.2011.9.466)). Over the last decade, we have operated SeaFlow for 14,000 hours across 140,000 km of ocean, collecting over 300,000 samples.  We have created Popcycle, an R package that use new reproducible analytical methods to uniformly process, calibrate and curate SeaFlow data. We have developed new reproducible analytical methods to uniformly process, calibrate and curate SeaFlow data. The data sets were expanded to include diameter and carbon quotas derived from light scatter measurements.
 
-SeaFlow is an shipboard underway flow cytometer that provides continuous optical measurements of light scatter and fluorescence associated with the pigments chlorophyll a and phycoerythrin at the single cell level ([Swalwell et al. 2011](https://doi.org/10.4319/lom.2011.9.466)). Over the last decade, the instrument has measured the optical properties of over 300 billions small individual phytoplankton cells (< 5 µm in diameter) across the North Pacific Ocean at a spatial resolution of ~ 1 km along the cruise track. We have developed new reproducible analytical methods to uniformely process, calibrate and curate SeaFlow data. The data sets were expanded to include diameter and carbon quotas derived from light scatter measurements. 
+* An example dataset representing the compilation of over 69,000 SeaFlow-based estimates of cell abundance, cell diameter and carbon quotas for the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and small-sized <i>Crocosphaera</i> (< 5 µm), and picophytoplankton and nanophytoplankton (2-5 µm) collected during 27 oceanographic cruises is available [here](http://doi.org/10.5281/zenodo.2678021) without restriction.
 
-* An example dataset representing the compilation of over 69,000 SeaFlow-based estimates of cell abundance, cell diameter and carbon quotas for the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and small-sized <i>Crocosphaera</i> (< 5 µm), and picophytoplankton and nanophytoplankton (2-5 µm) collected during 27 oceanographic cruises is available [here](http://doi.org/10.5281/zenodo.2678021) without restriction. 
+* Description of the data can be found in [Ribalet et al. 2019](https://doi.org/10.1038/s41597-019-0292-2).
 
-* Description of the data can be found in [Ribalet et al. 2019](https://doi.org/10.1038/s41597-019-0292-2). 
+* List of available data can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VR2_VAulc6caxklUqOTOj_7EEnNJiFlHqaD1fC7Pc_zqw5i7wwcQUcDa8dtALZXoVHt2t0mdPS5/pubhtml).
 
-* List of available data can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VR2_VAulc6caxklUqOTOj_7EEnNJiFlHqaD1fC7Pc_zqw5i7wwcQUcDa8dtALZXoVHt2t0mdPS5/pubhtml). 
-
-We are currently implementing a [size-structured matrix population model](https://github.com/armbrustlab/ssPopModel) for <i>Prochlorococcus</i> and <i>Synechococcus</i> to estimate cell growth and cell mortality rates, two key traits that govern how these organisms interact with their environment.
+We are currently implementing a [size-structured matrix population model](https://github.com/fribalet/Bayesian-matrixmodel) for <i>Prochlorococcus</i> and <i>Synechococcus</i> to estimate cell growth and cell mortality rates, two key traits that govern how these organisms interact with their environment.
 
 
 
@@ -33,12 +32,4 @@ We are currently implementing a [size-structured matrix population model](https:
 
 * [seaflowpy](https://github.com/armbrustlab/seaflowpy) - Python libraries and scripts to complement ```popcycle```
 
-* [ssPopModel](https://github.com/armbrustlab/ssPopModel) - an R package that uses size-structured matrix population model to estimate hourly division rates of microbial populations from SeaFlow data. These estimates are independent of variations in cell abundance and can be used to study physiologically-driven changes in population dynamics.
-
-
-### Instrument 
-![Seaflow Research Vessel]({% link /assets/images/seaflow-research-vessel.png %})
-
-(SeaFlow on the UW research vessel, April 2010)  
-
-SeaFlow is a custom-built shipboard flow cytometer developed for high-resolution observations of small phytoplankton (< 5 µm) in surface waters [(Swalwell et al. 2011)](https://doi.org/10.4319/lom.2011.9.466). The instrument utilizes light scattering and autofluorescence properties to discriminate and quantify different phytoplankton populations. Unlike a conventional flow cytometer, SeaFlow directly analyzes a raw stream of seawater using two detectors that determine the position of the particle within the focal region of the instrument optical system. With this technology, measurements from particles that pass through the ideal focal position of the collection optics can be differentiated from improperly positioned particles, producing a measurement equivalent to that obtained with a conventional cytometer (see [OPP filtration](https://github.com/armbrustlab/seaflow-filter)). The ratio of these optimally positioned particles (OPP) to the total detectable particles is used to retrieve the volumetric flow rate, allowing accurate estimation of cell abundances (see [Virtual Core calibration](https://github.com/armbrustlab/seaflow-virtualcore)). The instrument is semi-autonomous and can be controlled remotely via satellite connection. 
+* [Bayesian-matrixmodel](https://github.com/fribalet/Bayesian-matrixmodel) - A size-structured matrix population model to estimate hourly division rates of microbial populations from size distribution provided by SeaFlow data. These estimates are independent of variations in cell abundance and can be used to study physiologically-driven changes in population dynamics.
