@@ -39,6 +39,9 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 * Distinguished Graduate Teaching Award, College of Ocean and Fishery Sciences, 1999
 
 ## Publications
+2020
+Gradoville, M.R., H. Farnelid, A. E. White, K. A. Turk-Kubo, B. Stewart, F. Ribalet, E. V. Armbrust, and J. P. Zehr. Latitudinal constraints on the abundance and activity of the cyanobacterium UCYN-A and other marine diazotrophs in the North Pacific. Limnology and Oceanography, in press.
+
 2019 
 1. Ribalet, François, Chris Berthiaume, Annette Hynes, Jarred Swalwell, Michael Carlson, Sophie Clayton, Gwenn Hennon, Camille Poirier, Eric, Shimabukuro, Angelique White and E. Virginia Armbrust.  SeaFlow data v1, high-resolution abundance, size and biomass of small phytoplankton in the North Pacific. Scientific Data 6, 277 (2019) doi:10.1038/s41597-019-0292-2.
 1. Goldman, J. A. L., C. T. Berthiaume, M. Schatz, S. Coesel and E. V. Armbrust.  Fe limitation decreases transcriptional regulation over the diel cycle in the model diatom Thalassiosira pseudonana. PLOS ONE, doi.org/10.1371/journal.pone.0222325. 
