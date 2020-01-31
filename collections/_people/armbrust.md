@@ -39,10 +39,11 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 * Distinguished Graduate Teaching Award, College of Ocean and Fishery Sciences, 1999
 
 ## Publications
-2020
-Gradoville, M.R., H. Farnelid, A. E. White, K. A. Turk-Kubo, B. Stewart, F. Ribalet, E. V. Armbrust, and J. P. Zehr. Latitudinal constraints on the abundance and activity of the cyanobacterium UCYN-A and other marine diazotrophs in the North Pacific. Limnology and Oceanography, in press.
 
-2019 
+2020
+1. Gradoville, M.R., H. Farnelid, A. E. White, K. A. Turk-Kubo, B. Stewart, F. Ribalet, E. V. Armbrust, and J. P. Zehr. Latitudinal constraints on the abundance and activity of the cyanobacterium UCYN-A and other marine diazotrophs in the North Pacific. Limnology and Oceanography, in press.
+
+2019
 1. Ribalet, François, Chris Berthiaume, Annette Hynes, Jarred Swalwell, Michael Carlson, Sophie Clayton, Gwenn Hennon, Camille Poirier, Eric, Shimabukuro, Angelique White and E. Virginia Armbrust.  SeaFlow data v1, high-resolution abundance, size and biomass of small phytoplankton in the North Pacific. Scientific Data 6, 277 (2019) doi:10.1038/s41597-019-0292-2.
 1. Goldman, J. A. L., C. T. Berthiaume, M. Schatz, S. Coesel and E. V. Armbrust.  Fe limitation decreases transcriptional regulation over the diel cycle in the model diatom Thalassiosira pseudonana. PLOS ONE, doi.org/10.1371/journal.pone.0222325. 
 1. Wilson, Samuel T.,  Nicholas J. Hawco, E. Virginia Armbrust, Benedetto Barone, Karin M. Björkman, Angela K. Boysen, Macarena Burgos, Timothy J. Burrell, John R. Casey, Edward F. DeLong, Mathilde Dugenne, Stephanie Dutkiewicz, Sonya T. Dyhrman, Sara Ferrón, Michael J. Follows, Rhea K. Foreman, Carolina P. Funkey, Matthew J. Harke, Britt A. Henke, Christopher N. Hill, Annette M. Hynes, Anitra E. Ingalls, Oliver Jahn, Rachel L. Kelly, Angela N. Knapp, Ricardo M. Letelier, François Ribalet, Eric M. Shimabukuro, Ryan K. S. Tabata, Kendra A. Turk-Kubo, Angelique E. White, Jonathan P. Zehr, Seth John, David M. Karl. Kīlauea lava fuels phytoplankton bloom in the North Pacific Ocean. Science, 365 1040-1044.
