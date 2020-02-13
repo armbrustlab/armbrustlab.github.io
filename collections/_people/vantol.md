@@ -4,8 +4,8 @@ title: Helena van Tol
 ![Helena van Tol]({% link /assets/images/helenavantol_bigger.jpg %})
 
 ## Postdoctoral scientist
-hmvantol at uw.edu
-Benjamin Hall IRB 330
+<p>hmvantol at uw.edu</p>
+<p>Benjamin Hall IRB 330</p>
 
 ## Education
 * Ph.D. Oceanography. University of Washington, Seattle, WA, 2019.
