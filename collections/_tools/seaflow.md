@@ -15,9 +15,8 @@ title: SeaFlow project
 - [Mattias Cape](https://armbrustlab.ocean.washington.edu/people/cape/) (Postdoctoral Research Associate)
 - [Kristof Glauninger](https://www.stat.washington.edu/person/kristof-glauninger)(Graduate Student)
 
-<img src="https://github.com/armbrustlab/seaflow-sfl/blob/master/cruise-track.png" alt="SeaFlow cruisetracks"	title="SeaFlow cruisetracks" align="left" style="float" width="400"> SeaFlow is an shipboard underway flow cytometer that provides continuous single celled measurements of light scatter and fluorescence associated with the pigments chlorophyll a and phycoerythrin ([Swalwell et al. 2011](https://doi.org/10.4319/lom.2011.9.466)). Since 2010, we have operated SeaFlow for 14,000 hours across 140,000 km of ocean, collecting over 300,000 samples in surface waters. We have created Popcycle, an R package that use reproducible analytical methods to uniformly process and curate SeaFlow data. The current datasets consist of cell abundance, cell diameter and cellular carbon content of small phytoplankton (< 10 μm), which includes the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and <i>Crocosphaera</i>, and a mixture of unindentified protists.
-
-
+![Seaflow]({% link /assets/images/SeaFlow-cruisetracks.png %})
+SeaFlow is an shipboard underway flow cytometer that provides continuous single celled measurements of light scatter and fluorescence associated with the pigments chlorophyll a and phycoerythrin ([Swalwell et al. 2011](https://doi.org/10.4319/lom.2011.9.466)). Since 2010, we have operated SeaFlow for 14,000 hours across 140,000 km of ocean, collecting over 300,000 samples in surface waters. We have created Popcycle, an R package that use reproducible analytical methods to uniformly process and curate SeaFlow data. The current datasets consist of cell abundance, cell diameter and cellular carbon content of small phytoplankton (< 10 μm), which includes the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and <i>Crocosphaera</i>, and a mixture of unindentified protists.
 
 * An example dataset representing the compilation of over 69,000 samples collected during 27 oceanographic cruises is available [here](http://doi.org/10.5281/zenodo.2678021) without restriction.
 
