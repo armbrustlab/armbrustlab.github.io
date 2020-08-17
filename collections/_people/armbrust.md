@@ -41,7 +41,8 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 ## Publications
 
 2020
-1. Qin, Wei, Yue Zheng, Annette Bollmann, Baozhan Wang, Chuanlun Zhang, Daniel Mende, David Stahl, Edward Delong, E. Virginia Armbrust, Haodong Liu, Hidetoshi Urakawa, Jeppe L. Nielsen, Jizhong Zhou, José R. de la Torre, Koji Mori, Meng Li, Po-Heng Lee, Reiji Takahashi, Shady Amin, Tatsunori Nakagawa, Tong Zhang, Willm Martens-Habbena, Xiaowu Huang, Xinxu Zhang, Yao Zhang, Yulin Wang, Anitra E. Ingalls.  Alternative strategies of nutrient acquisition and energy conservation map to the biogeography of marine ammonia-oxidizing archaea. ISME J., In press.
+1. Mruwat, Noor, Michael C. G. Carlson, Svetlana Goldin, François Ribalet, Shay Kirzner, Yotam Hulata, Stephen J. Beckett, Dror Shitrit, Joshua S. Weitz, E. Virginia Armbrust, Debbie Lindell. A single-cell polony method reveals low levels of infected Prochlorococcus in oligotrophic waters despite high cyanophage abundances, ISME J., in press
+1. Qin, Wei, Yue Zheng, Annette Bollmann, Baozhan Wang, Chuanlun Zhang, Daniel Mende, David Stahl, Edward Delong, E. Virginia Armbrust, Haodong Liu, Hidetoshi Urakawa, Jeppe L. Nielsen, Jizhong Zhou, José R. de la Torre, Koji Mori, Meng Li, Po-Heng Lee, Reiji Takahashi, Shady Amin, Tatsunori Nakagawa, Tong Zhang, Willm Martens-Habbena, Xiaowu Huang, Xinxu Zhang, Yao Zhang, Yulin Wang, Anitra E. Ingalls.  Alternative strategies of nutrient acquisition and energy conservation map to the biogeography of marine ammonia-oxidizing archaea. ISME J., https://doi.org/10.1038/s41396-020-0710-7.
 1. Gradoville, M.R., H. Farnelid, A. E. White, K. A. Turk-Kubo, B. Stewart, F. Ribalet, E. V. Armbrust, and J. P. Zehr. Latitudinal constraints on the abundance and activity of the cyanobacterium UCYN-A and other marine diazotrophs in the North Pacific. Limnology and Oceanography, https://doi.org/10.1002/lno.11423.
 
 2019
