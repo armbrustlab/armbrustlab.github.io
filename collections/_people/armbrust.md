@@ -41,7 +41,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 ## Publications
 
 2020
-1. Juranek, Lauren W., Angelicque E. White, Mathilde Dugenne, Fernanda Henderikx Freitas, Stephanie Dutkiewicz, Francois Ribalet, E. Virginia Armbrust, Sara Ferron, and David M. Karl.  The importance of the “middle class” to ocean net community productivity. Global Biogeochemical Cycles, in press.
+1. Juranek, Lauren W., Angelicque E. White, Mathilde Dugenne, Fernanda Henderikx Freitas, Stephanie Dutkiewicz, Francois Ribalet, E. Virginia Armbrust, Sara Ferron, and David M. Karl.  The importance of the phytoplankton “middle class” to ocean net community productivity. Global Biogeochemical Cycles, in press.
 1. Connell, Paige E.,  François Ribalet, E. Virginia Armbrust, Angelicque White and David A. Caron. Diel oscillations in feeding strategies of heterotrophic and mixotrophic nanoplankton in the North Pacific Subtropical Gyre. Aquatic Microbial Ecology, in press. 
 1. Pinedo-Gonzalez, Paulina, Nicholas J. Hawco, Randie Bundy, E. Virginia Armbrust, Michael J Follows, B. Cael Barry, Angelicque E White, Sara Ferrón, David M. Karl, Seth G. John. Anthropogenic Asian aerosols provide Fe to the North Pacific Ocean. Proceedings National Academy of Science, USA, https://doi.org/10.1073/pnas.2010315117.
 1. Mruwat, Noor, Michael C. G. Carlson, Svetlana Goldin, François Ribalet, Shay Kirzner, Yotam Hulata, Stephen J. Beckett, Dror Shitrit, Joshua S. Weitz, E. Virginia Armbrust, Debbie Lindell. A single-cell polony method reveals low levels of infected Prochlorococcus in oligotrophic waters despite high cyanophage abundances, ISME J., https://doi.org/10.1038/s41396-020-00752-6.
