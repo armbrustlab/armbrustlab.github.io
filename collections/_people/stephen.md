@@ -20,7 +20,7 @@ great indoors with my two cats Anubis and Osiris.
 
 [Google Scholar profile](https://scholar.google.com/citations?user=aWlF2yUAAAAJ&hl=en)
 
-* Coates, R. Cameron, <ins>Stephen Blaskowski</ins>, Shawn Szyjka, Harmen M. van Rossum, Jim Vallandingham, Kedar Patel, Zach Serber, and Jed Dean. "Systematic investigation of CRISPR–Cas9 configurations for flexible and efficient genome editing in Corynebacterium glutamicum NRRL-B11474." Journal of industrial microbiology & biotechnology 46, no. 2 (2019): 187-201. [Article link](https://link.springer.com/article/10.1007/s10295-018-2112-7)
+* Coates, R. Cameron, <ins>Stephen Blaskowski</ins>, Shawn Szyjka, Harmen M. van Rossum, Jim Vallandingham, Kedar Patel, Zach Serber, and Jed Dean. **Systematic investigation of CRISPR–Cas9 configurations for flexible and efficient genome editing in Corynebacterium glutamicum NRRL-B11474.** Journal of industrial microbiology & biotechnology 46, no. 2 (2019): 187-201. [Article link](https://link.springer.com/article/10.1007/s10295-018-2112-7)
 * Kim, Juhan, Anthony M. Webb, Jamie P. Kershner, <ins>Stephen Blaskowski</ins>, and Shelley D. Copley. **A versatile and highly efficient method for scarless genome editing in Escherichia coli and Salmonella enterica.** BMC biotechnology 14, no. 1 (2014): 84. [Article link](https://link.springer.com/article/10.1186/1472-6750-14-84)
 
 
