@@ -6,9 +6,12 @@ title: Sacha Coesel
 ## Research Scientist
 coesel at uw.edu
 
+## Research Interests
+I am a molecular biologist turned bioinformatician. I use environmental ‘omics data to unravel the molecular secrets of open ocean plankton. I am passionate about photobiology and chronobiology and the daily rhythms of life on Earth.
+
 ## Education
-* 2008 - PhD in Molecular Biolology, University of Algarve (Portugal), partly hosted by the Stazione Zoologica ‘Anton Dohrn’ (Italy). Thesis advisors: Prof. Dr. Joao Varela (UALG) and Prof. Dr. Chris Bowler (SZN). Thesis title: Regulation of the carotenoid biosynthetic pathway in the green microalga Dunaliella salina and the diatom Phaeodactylum tricornutum.
-* 1999 - BS in Biotechnology, Noordelijke Hogeschool Leeuwarden (Netherlands).
+* 2008 - Ph.D. in Molecular Biology, University of Algarve (Portugal). Thesis title: Regulation of the carotenoid biosynthetic pathway in the green microalga Dunaliella salina and the diatom Phaeodactylum tricornutum. DOI: 10.13140/RG.2.1.4111.7049
+* 1999 - B.Sc. in Biotechnology, Noordelijke Hogeschool Leeuwarden (Netherlands).
 
 ## Positions Held
 * Research scientist, School of Oceanography, University of Washington (USA), 2016-Present
@@ -21,6 +24,11 @@ coesel at uw.edu
 * Undergraduate research assistant, Faculty of Sciences, Vrije Universiteit Amsterdam (Netherlands), 1998
 
 ## Publications
+* Lambert, B., Groussman, R., Schatz, M., Coesel, S., Durham, B., Alverson, A., White, A., Armbrust, E.V. (2021) The dynamic trophic architecture of open-ocean protist communities revealed through machine-guided metatranscriptomics. bioRxiv https://doi.org/10.1101/2021.01.15.426851
+* Coesel, S., Durham, B., Groussman, R., Hu, S., Caron, D., Morales, R., Ribalet, F., Armbrust, E.V. (2021) Diel transcriptional oscillations of light-sensitive regulatory elements in open ocean eukaryotic plankton communities. PNAS, in print 
+* Muratore, D., Boysen, A., Harke, M., Becker, K., Casey, J., Coesel, S., Mende, D., Wilson, S., Aylward, F., Eppley, J., Vislova, A., Peng, S., Rodriguez-Gonzalez, R., Beckett, S., Armbrust, E.V., DeLong, E., Karl, D., W., Zehr, J., van Mooy, B., Dyhrman, S., Ingalls, A., Weitz, J. (2020) Community-scale synchronization and temporal partitioning of gene expression, metabolism, and lipid biosynthesis in oligotrophic ocean surface waters. bioRxiv https:/doi.org/10.1101/2020.05.15.098020
+* Goldman, J., Schatz, M., Berthiaume, C., Coesel, S., Orellana, M., Armbrust, E.V. (2019) Fe limitation decreases transcriptional regulation over the diel cycle in the model diatom Thalassiosira pseudonana. PLoS One 14, e0222325
+* Durham, B., Boysen, A., Carlson, L., Groussman, R., Heal, K., Cain, K., Morales, R., Coesel, S., Morris, R., Ingalls, A., Armbrust, E.V. (2019) Sulfonate-based networks between eukaryotic phytoplankton and heterotrophic bacteria in the surface ocean. Nat. Microbiol. 4, 1706–1715
 * Ashworth J, Coesel S, Lee A, Armbrust EV, Orellana M, Baliga NS (2013) Diurnal growth state transitions in the diatom Thalassiosira pseudonana. PNAS 110 (18): 7518–23
 * Bailleul B, Rogato A, de Martino A, Coesel S, Cardol P, Bowler C, Falciatore A, Finazzi G. (2010) An atypical member of the light-harvesting complex stress-related protein family modulates diatom responses to light. PNAS, 107(42):18214-9
 * Coesel S, Mangogna M, Ishikawa T, Heijde M, Rogato A, Finazzi G, Todo T, Bowler C, Falciatore A. (2009) Diatom PtCPF1 is a new cryptochrome/photolyase family member with DNA repair and transcription regulation activity. EMBO Reports, 10(6):655-61
