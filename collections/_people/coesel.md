@@ -7,7 +7,7 @@ title: Sacha Coesel
 coesel at uw.edu
 
 ## Research Interests
-I am a molecular biologist turned bioinformatician. I use environmental ‘omics data to unravel the molecular secrets of open ocean plankton. I am passionate about photobiology and chronobiology and the daily rhythms of life on Earth.
+I am a molecular biologist turned bioinformatician. I use environmental ‘omics data to unravel the molecular secrets of open ocean plankton. I am passionate about photobiology and chronobiology and understanding the daily cycles of life in the ocean.
 
 ## Education
 * 2008 - Ph.D. in Molecular Biology, University of Algarve (Portugal). Thesis title: Regulation of the carotenoid biosynthetic pathway in the green microalga Dunaliella salina and the diatom Phaeodactylum tricornutum. DOI: 10.13140/RG.2.1.4111.7049
