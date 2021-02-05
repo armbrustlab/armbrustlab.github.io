@@ -40,6 +40,9 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 
 ## Publications
 
+2021
+1. Coesel, Sacha. N., Bryndan P. Durham, Ryan D. Groussman, Rhonda L. Morales, François Ribalet and E. Virginia Armbrust. Diel transcriptional oscillations of light-sensitive regulatory elements in open-ocean eukaryotic plankton communities. Proceedings National Academy of Science, USA, 10.1073/pnas.2011038118.
+
 2020
 1. Juranek, Lauren W., Angelicque E. White, Mathilde Dugenne, Fernanda Henderikx Freitas, Stephanie Dutkiewicz, Francois Ribalet, E. Virginia Armbrust, Sara Ferron, and David M. Karl.  The importance of the phytoplankton “middle class” to ocean net community productivity. Global Biogeochemical Cycles, https://doi.org/10.1029/2020GB006702.
 1. Connell, Paige E.,  François Ribalet, E. Virginia Armbrust, Angelicque White and David A. Caron. Diel oscillations in feeding strategies of heterotrophic and mixotrophic nanoplankton in the North Pacific Subtropical Gyre. Aquatic Microbial Ecology, in press. 
