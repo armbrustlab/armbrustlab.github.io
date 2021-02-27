@@ -41,6 +41,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 ## Publications
 
 2021
+1. Boysen, Angela K., Laura T. Carlson, Bryndan P. Durham, Ryan D. Groussman, Frank O. Aylward, François Ribalet, Katherine Heal, Angelicque White, Edward F. DeLong, E. Virginia Armbrust, Anitra E. Ingalls. Particulate metabolites and transcripts reflect diel oscillations of microbial activity in the surface ocean. mSystems, in press.
 1. Coesel, Sacha. N., Bryndan P. Durham, Ryan D. Groussman, Rhonda L. Morales, François Ribalet and E. Virginia Armbrust. Diel transcriptional oscillations of light-sensitive regulatory elements in open-ocean eukaryotic plankton communities. Proceedings National Academy of Science, USA, 10.1073/pnas.2011038118.
 
 2020
