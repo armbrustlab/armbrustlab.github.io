@@ -41,6 +41,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 ## Publications
 
 2021
+1. Heal, Katherine R., Bryndan P. Durham, Angela K. Boysen, Laura T. Carlson, Wei Qin, François Ribalet, Angelicque E. White, Randelle M. Bundy, E. Virginia Armbrust, Anitra E. Ingalls. Marine community metabolomes carry fingerprints of phytoplankton community composition. mSystems, in press. 
 1. Valenzuela, Jacob J., Justin Ashworth, Allison Cusick, Raffaela M. Abbriano, E.Virginia Armbrust, Mark Hildebrand, Mónica V. Orellana and Nitin S. Baliga. Diel transcriptional oscillations of a plastid antiporter reflects increased resilience of Thalassiosira pseudonana in elevated CO2. Frontiers in Marine Science: Global Change and the Future Ocean, in press.
 1. van Tol, Helena M. and E. V. Armbrust.  Genome-scale metabolic model of the diatom Thalassiosira pseudonana highlights the importance of nitrogen and sulfur metabolism in redox balance. PLOS ONE, https://doi.org/10.1371/journal.pone.0241960.
 1. Boysen, Angela K., Laura T. Carlson, Bryndan P. Durham, Ryan D. Groussman, Frank O. Aylward, François Ribalet, Katherine Heal, Angelicque White, Edward F. DeLong, E. Virginia Armbrust, Anitra E. Ingalls. Particulate metabolites and transcripts reflect diel oscillations of microbial activity in the surface ocean. mSystems, in press.
