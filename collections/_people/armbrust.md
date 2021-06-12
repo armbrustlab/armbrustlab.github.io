@@ -41,7 +41,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 ## Publications
 
 2021
-1. Ashkezari, M. D., N. R. Hagen, M. Denholtz, A. Neang, T. C. Burns, R. L. Morales, C. P. Lee, C. N. Hill and E. V. Armbrust.  Simons Collaborative Marine Atlas Project (Simons CMAP): an open-source to share, visualize and analyze ocean data.  Limnology and Oceanography Methods, https://doi.org/10.1002/lom3.10439.
+1. Ashkezari, M. D., N. R. Hagen, M. Denholtz, A. Neang, T. C. Burns, R. L. Morales, C. P. Lee, C. N. Hill and E. V. Armbrust.  Simons Collaborative Marine Atlas Project (Simons CMAP): an open-source to share, visualize and analyze ocean data.  Limnology and Oceanography: Methods, https://doi.org/10.1002/lom3.10439.
 1. Jones, Corinne, Sophie Clayton, François Ribalet, E. Virginia Armbrust, Zaid Harchaoui.  A kernel-based change detection method to map shifts in phytoplankton communities measured by flow cytometry. Methods in Ecology and Evolution, https://doi.org/10.1111/2041-210X.13647.
 1. Heal, Katherine R., Bryndan P. Durham, Angela K. Boysen, Laura T. Carlson, Wei Qin, François Ribalet, Angelicque E. White, Randelle M. Bundy, E. Virginia Armbrust, Anitra E. Ingalls. Marine community metabolomes carry fingerprints of phytoplankton community composition. mSystems, https://doi.org/10.1128/msystems.01334-20. 
 1. Valenzuela, Jacob J., Justin Ashworth, Allison Cusick, Raffaela M. Abbriano, E.Virginia Armbrust, Mark Hildebrand, Mónica V. Orellana and Nitin S. Baliga. Diel transcriptional oscillations of a plastid antiporter reflects increased resilience of Thalassiosira pseudonana in elevated CO2. Frontiers in Marine Science: Global Change and the Future Ocean, doi: 10.3389/fmars.2021.633225.
