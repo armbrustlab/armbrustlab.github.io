@@ -1,7 +1,7 @@
 ---
 title: Jamie Collins
 ---
-Formerly a Moore/Sloan and WRF Innovation Postdoctoral Fellow in Data Science in the Armbrust Lab. Now at the Oregon Department of Environmental Quality. Visit [his website](https://jamesrco.github.io).
+Formerly a Moore/Sloan and WRF Innovation Postdoctoral Fellow in Data Science in the Armbrust, Ingalls, and Beck labs. Now a staff scientist and marine biogeochemist with Environmental Defense Fund. Visit [his website](https://jamesrco.github.io).
 
 ## Education
 * Ph.D., Chemical Oceanography, MIT/WHOI Joint Program in Oceanography, 2017
