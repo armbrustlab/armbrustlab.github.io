@@ -40,6 +40,9 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 
 ## Publications
 
+2022
+1. Follett, Christopher L., Stephanie Durkiewicz, François Ribalet, Emily Zakem, David Caron, E. Virginia Armbrust, Michael J. Follows.  Trophic interactions with heterotrophic bacteria limit the range of Prochlorococcus. Proceedings National Academy of Science, USA, https://doi.org/10.1073/pnas.2110993118.
+
 2021
 1. Groussman, Ryan D., Sacha N. Coesel, Bryndan P. Durham, E. Virginia Armbrust.  Diel-regulated transcriptional cascades of microbial eukaryotes in the North Pacific Subtropical Gyre. Frontiers in Microbiology, https://doi.org/10.3389/fmicb.2021.682651.
 1. Ashkezari, M. D., N. R. Hagen, M. Denholtz, A. Neang, T. C. Burns, R. L. Morales, C. P. Lee, C. N. Hill and E. V. Armbrust.  Simons Collaborative Marine Atlas Project (Simons CMAP): an open-source to share, visualize and analyze ocean data.  Limnology and Oceanography: Methods, https://doi.org/10.1002/lom3.10439.
