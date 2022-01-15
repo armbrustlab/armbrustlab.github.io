@@ -42,6 +42,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 
 2022
 1. Follett, Christopher L., Stephanie Durkiewicz, François Ribalet, Emily Zakem, David Caron, E. Virginia Armbrust, Michael J. Follows.  Trophic interactions with heterotrophic bacteria limit the range of Prochlorococcus. Proceedings National Academy of Science, USA, https://doi.org/10.1073/pnas.2110993118.
+2. Mattern∗, Jann Paul, Kristof Glauninger *, Gregory Britten, John Casey, Sangwon Hyun, Zhen Wu, E. Virginia Armbrust, Zaid Harchaoui, François Ribalet. A flexible Bayesian approach to estimating size-structured matrix population models. PLOS Computational Biology, https://doi.org/10.1371/journal.pcbi.1009733.g001
 
 2021
 1. Groussman, Ryan D., Sacha N. Coesel, Bryndan P. Durham, E. Virginia Armbrust.  Diel-regulated transcriptional cascades of microbial eukaryotes in the North Pacific Subtropical Gyre. Frontiers in Microbiology, https://doi.org/10.3389/fmicb.2021.682651.
