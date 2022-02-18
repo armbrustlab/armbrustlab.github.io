@@ -7,7 +7,7 @@ title: Kelsy Cain
 
 <kcain97@uw.edu>
 
-I operate our BD Influx Cell Sorter to generate and analyze flow cytometry data of phytoplankton and bacterial communities from the field and lab.
+I operate a BD Influx Cell Sorter and [SeaFlow](https://seaflow.netlify.com/), a shipboard underway flow cytometer, to generate and analyze flow cytometry data of phytoplankton and bacterial communities in the field and lab. 
 
 ## Education
 BSc, Magna Cum Laude, Oceanography, University of Washington (2019)
