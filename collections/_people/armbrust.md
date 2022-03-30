@@ -38,6 +38,18 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 * Distinguished Graduate Teaching Award, College of Ocean and Fishery Sciences, 2001
 * Distinguished Graduate Teaching Award, College of Ocean and Fishery Sciences, 1999
 
+## Oceanographic Research Cruises
+Recent, Chief Scientist 
+* Gradients cruise 4, R/V Thompson, November 10-December 17, 2021.
+* Gradients cruise 3, R/V Kilo Moana, April, 2019
+* Gradients cruise 2, R/V Langseth, May/June, 2017.
+* Gradients cruise 1, R/V KOK, April/May, 2016.
+* Dimensions of Biodiversity cruise, R/V Kilo Moana, August/September, 2013.
+* Molecular biogeochemical cruise, Chief Scientist, R/V Thompson, May, 2012.
+
+Participation in 14 additional cruises; 
+Lab participation in 20 additional cruises
+
 ## Publications
 
 2022
