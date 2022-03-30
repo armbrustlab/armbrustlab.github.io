@@ -1,7 +1,7 @@
 ---
 title: E. Virginia Armbrust
 ---
-![Ginger Armbrust]({% link /assets/images/Ginger-w200.jpg %})
+![Ginger Armbrust]({% link /assets/images/Ginger_Armbrust.jpg %})
 
 ## Principal Investigator
 armbrust at uw.edu
