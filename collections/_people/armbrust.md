@@ -45,7 +45,7 @@ Recent, Chief Scientist
 * Gradients cruise 2, R/V Langseth, May/June, 2017.
 * Gradients cruise 1, R/V KOK, April/May, 2016.
 * Dimensions of Biodiversity cruise, R/V Kilo Moana, August/September, 2013.
-* Molecular biogeochemical cruise, Chief Scientist, R/V Thompson, May, 2012.
+* Molecular biogeochemical cruise, R/V Thompson, May, 2012.
 
 Participation in 14 additional cruises; 
 Lab participation in 20 additional cruises
