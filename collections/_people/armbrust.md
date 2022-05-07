@@ -40,12 +40,12 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 
 ## Oceanographic Research Cruises
 Recent, Chief Scientist 
-* Gradients cruise 4, R/V Thompson, November 10-December 17, 2021.
-* Gradients cruise 3, R/V Kilo Moana, April, 2019
-* Gradients cruise 2, R/V Langseth, May/June, 2017.
-* Gradients cruise 1, R/V KOK, April/May, 2016.
-* Dimensions of Biodiversity cruise, R/V Kilo Moana, August/September, 2013.
-* Molecular biogeochemical cruise, R/V Thompson, May, 2012.
+* Gradients cruise 4, R/V Thompson, Equatorial Pacific Ocean, November 10-December 17, 2021.
+* Gradients cruise 3, North Pacific Ocean, R/V Kilo Moana, April, 2019
+* Gradients cruise 2, North Pacific Ocean, R/V Langseth, May/June, 2017.
+* Gradients cruise 1, North Pacific Ocean, R/V KOK, April/May, 2016.
+* Dimensions of Biodiversity cruise, North Pacific Ocean, R/V Kilo Moana, August/September, 2013.
+* Molecular biogeochemical cruise, Washington Coast, R/V Thompson, May, 2012.
 
 Participation in 14 additional cruises; 
 Lab participation in 20 additional cruises
@@ -53,11 +53,12 @@ Lab participation in 20 additional cruises
 ## Publications
 
 2022
-1. Carlson, Michael G., François Ribalet, Ilia Maidanik, Bryndan P. Durham, Yotam Hulata, Sara Ferrón, Oscar Sosa, Julia Weissenbach, Nitzan Shamir, Svetlana Goldin, Nava Baran, B. B. Cael, David M. Karl, Angelicque E. White, E. Virginia Armbrust, and Debbie Lindell. Viruses affect picocyanobacterial abundance and biogeography in the North Pacific Ocean. Nature Microbiology, https://doi.org/10.1038/s41564-022-01088-x .
-1. Lambert, B., R. D. Groussman, Megan J. Schatz, S. N. Coesel, B. P. Durham, A. J. Alverson, A. E. White, and E. V. Armbrust. The dynamic trophic architecture of open-ocean protist communities revealed through machine-guided metatranscriptomics. Proceedings National Academy of Science, USA, https://www.pnas.org/content/119/7/e2100916119.
-1. Muratore, Daniel, Angie K. Boysen, Matthew J. Harke, Kevin W. Becker, John R. Casey, Sacha N. Coesel, Daniel R. Mende, Samuel T. Wilson, Frank O. Aylward, John M. Eppley, Alice Visolova, Shengyun Peng, Rogelio A. Rodriguez-Gonzalez, Stephen J. Beckett, E. Virginia Armbrust, Edward F. DeLong, David M. Karl, Angelicque E. White, Jonathan P. Zehr, Benjamin A.S. Van Mooy, Sonya T. Dyhrman, Anitra E. Ingalls, Joshua S. Weitz. Complex marine microbial communities partition metabolism of scarce resources over the diel cycle. Nature Ecology Evolution, https://doi.org/10.1038/s41559-021-01606-w.
-1. Follett, Christopher L., Stephanie Durkiewicz, François Ribalet, Emily Zakem, David Caron, E. Virginia Armbrust, Michael J. Follows.  Trophic interactions with heterotrophic bacteria limit the range of Prochlorococcus. Proceedings National Academy of Science, USA, https://doi.org/10.1073/pnas.2110993118.
-1. Mattern∗, Jann Paul, Kristof Glauninger *, Gregory Britten, John Casey, Sangwon Hyun, Zhen Wu, E. Virginia Armbrust, Zaid Harchaoui, François Ribalet. A Bayesian approach to modeling phytoplankton population dynamics from size distribution time series. PLOS Computational Biology, https://doi.org/10.1371/journal.pcbi.1009733.g001
+1. Boysen, Angela, Bryndan Durham, William Kumler, Rebecca Key, Katherine Heal, Laura Carson, Ryan Groussman, E. Virginia Armbrust, Anitra Ingalls. Glycine betaine uptake and metabolism in marine microbial communities. Environmental Microbiology, https://doi.org/10.1111/1462-2920.16020
+2. Carlson, Michael G., François Ribalet, Ilia Maidanik, Bryndan P. Durham, Yotam Hulata, Sara Ferrón, Oscar Sosa, Julia Weissenbach, Nitzan Shamir, Svetlana Goldin, Nava Baran, B. B. Cael, David M. Karl, Angelicque E. White, E. Virginia Armbrust, and Debbie Lindell. Viruses affect picocyanobacterial abundance and biogeography in the North Pacific Ocean. Nature Microbiology, https://doi.org/10.1038/s41564-022-01088-x .
+3. Lambert, B., R. D. Groussman, Megan J. Schatz, S. N. Coesel, B. P. Durham, A. J. Alverson, A. E. White, and E. V. Armbrust. The dynamic trophic architecture of open-ocean protist communities revealed through machine-guided metatranscriptomics. Proceedings National Academy of Science, USA, https://www.pnas.org/content/119/7/e2100916119.
+4. Muratore, Daniel, Angie K. Boysen, Matthew J. Harke, Kevin W. Becker, John R. Casey, Sacha N. Coesel, Daniel R. Mende, Samuel T. Wilson, Frank O. Aylward, John M. Eppley, Alice Visolova, Shengyun Peng, Rogelio A. Rodriguez-Gonzalez, Stephen J. Beckett, E. Virginia Armbrust, Edward F. DeLong, David M. Karl, Angelicque E. White, Jonathan P. Zehr, Benjamin A.S. Van Mooy, Sonya T. Dyhrman, Anitra E. Ingalls, Joshua S. Weitz. Complex marine microbial communities partition metabolism of scarce resources over the diel cycle. Nature Ecology Evolution, https://doi.org/10.1038/s41559-021-01606-w.
+5. Follett, Christopher L., Stephanie Durkiewicz, François Ribalet, Emily Zakem, David Caron, E. Virginia Armbrust, Michael J. Follows.  Trophic interactions with heterotrophic bacteria limit the range of Prochlorococcus. Proceedings National Academy of Science, USA, https://doi.org/10.1073/pnas.2110993118.
+6. Mattern∗, Jann Paul, Kristof Glauninger *, Gregory Britten, John Casey, Sangwon Hyun, Zhen Wu, E. Virginia Armbrust, Zaid Harchaoui, François Ribalet. A Bayesian approach to modeling phytoplankton population dynamics from size distribution time series. PLOS Computational Biology, https://doi.org/10.1371/journal.pcbi.1009733.g001
 
 2021
 1. Groussman, Ryan D., Sacha N. Coesel, Bryndan P. Durham, E. Virginia Armbrust.  Diel-regulated transcriptional cascades of microbial eukaryotes in the North Pacific Subtropical Gyre. Frontiers in Microbiology, https://doi.org/10.3389/fmicb.2021.682651.
