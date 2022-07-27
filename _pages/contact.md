@@ -20,4 +20,4 @@ fax: (206)-685-6651
 The Armbrust lab is always looking for undergraduates who are excited about research to participate in our research facilities. Please contact Ginger Armbrust to see if there are any positions available at this time by email.
 
 ### Prospective Graduate Students
-Dr. Armbrust encourages students interested in pursuing graduate research with her to contact Grace Wong by e-mail. Prospective students are also encouraged to visit the [UW School of Oceanography](http://www.ocean.washington.edu/) website and download an application guideline for graduate students.
+Dr. Armbrust encourages students interested in pursuing graduate research with her to contact Grace Wong (gyw1280@uw.edu) by e-mail. Prospective students are also encouraged to visit the [UW School of Oceanography](http://www.ocean.washington.edu/) website and download an application guideline for graduate students.
