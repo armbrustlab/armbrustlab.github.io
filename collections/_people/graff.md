@@ -8,7 +8,8 @@ title: Shiri Graff van Creveld
 shirig at uw.edu
 
 A molecular biologist by training, in my PhD I studied stress responses in a well-established model diatom in the lab. Now I am studying the molecular mechanisms underlying diatoms acclimation and stress response from model species to ecosystems, coupling laboratory studies with the field.
-({% link /assets/images/lab_to_Ocean.png %})
+
+![Figure]({% link /assets/images/lab_to_Ocean.png %}){: .align-center}
 
 ## Education
 * PhD, Life Science, Weizmann Institute of Science, Israel, 2018
