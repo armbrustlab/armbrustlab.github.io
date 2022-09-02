@@ -8,6 +8,7 @@ title: Shiri Graff van Creveld
 shirig at uw.edu
 
 A molecular biologist by training, in my PhD I studied stress responses in a well-established model diatom in the lab. Now I am studying the molecular mechanisms underlying diatoms acclimation and stress response from model species to ecosystems, coupling laboratory studies with the field.
+({% link /assets/images/lab_to_Ocean.png %})
 
 ## Education
 * PhD, Life Science, Weizmann Institute of Science, Israel, 2018
@@ -15,7 +16,7 @@ A molecular biologist by training, in my PhD I studied stress responses in a wel
 * BSc, Molecular Biochemistry, The Technion – Israel Institute of Technology, Israel, 2009
 
 ## Publications
-* Bartolek Z, **Graff van Creveld S**, Coesel S, Cain K, Schatz M, Morales R, Armbrust V (under revision) Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom *Thalassiosira pseudonana*. ISME J
+* Bartolek Z, **Graff van Creveld S**, Coesel S, Cain K, Schatz M, Morales R, Armbrust V (Accepted, 2022) Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom *Thalassiosira pseudonana*. ISME J
 * **Graff van Creveld S**, Mizrachi A, Vardi A (2022) “An ocean of signals: intracellular and extracellular signaling in diatom” in: The Molecular Life of Diatoms, Eds Falciatore A and Mock T, Springer Nature (London, England)
 * **Graff van Creveld S**, Ben-dor S, Mizrachi A, Alcolombri U, Hopes A, Mock T, Rosenwasser S, Vardi A (2021) Biochemical Characterization of a Novel Redox-Regulated Metacaspase in a Marine Diatom. Front. Microbiol. doi: https://doi.org/10.3389/fmicb.2021.688199
 * Mizrachi A, **Graff van Creveld S**, Shapiro OH, Rosenwasser S, Vardi A (2019) Light-dependent single-cell heterogeneity in the chloroplast redox state regulates cell fate in a marine diatom. Elife 8:e47732
