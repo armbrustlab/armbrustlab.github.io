@@ -56,7 +56,7 @@ Lab participation in 20 additional cruises
 ## Publications
 
 2022
-1. Bartolek, Zinka, Shiri Graff van Creveld, Sacha Coesel, Stephen Blaskowski, Megan Schatz, Rhonda Morales, E. Virginia Armbrust.  Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom Thalassiosira pseudonana. ISME J, https://doi.org/10.1038/s41396-022-01313-9.
+1. Bartolek, Zinka, Shiri Graff van Creveld, Sacha Coesel, Stephen Blaskowski, Megan Schatz, Rhonda Morales, and E. Virginia Armbrust.  Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom Thalassiosira pseudonana. ISME J, https://doi.org/10.1038/s41396-022-01313-9.
 2. Boysen, Angela, Bryndan Durham, William Kumler, Rebecca Key, Katherine Heal, Laura Carson, Ryan Groussman, E. Virginia Armbrust, Anitra Ingalls. Glycine betaine uptake and metabolism in marine microbial communities. Environmental Microbiology, https://doi.org/10.1111/1462-2920.16020
 3. Carlson, Michael G., François Ribalet, Ilia Maidanik, Bryndan P. Durham, Yotam Hulata, Sara Ferrón, Oscar Sosa, Julia Weissenbach, Nitzan Shamir, Svetlana Goldin, Nava Baran, B. B. Cael, David M. Karl, Angelicque E. White, E. Virginia Armbrust, and Debbie Lindell. Viruses affect picocyanobacterial abundance and biogeography in the North Pacific Ocean. Nature Microbiology, https://doi.org/10.1038/s41564-022-01088-x .
 4. Lambert, B., R. D. Groussman, Megan J. Schatz, S. N. Coesel, B. P. Durham, A. J. Alverson, A. E. White, and E. V. Armbrust. The dynamic trophic architecture of open-ocean protist communities revealed through machine-guided metatranscriptomics. Proceedings National Academy of Science, USA, https://www.pnas.org/content/119/7/e2100916119.
