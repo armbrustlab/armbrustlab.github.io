@@ -5,4 +5,4 @@ title: François Ribalet
 
 **Principal Research Scientist**  
 I am interest in ecosystem dynamics and biological feedbacks on marine biogeochemical cycles. My research involves the development of mathematical and data-driven models guided by laboratory, field, and satellite observations to predict cell, population, and ecosystem interactions under current and future ocean conditions. 
-More information can be found on this[website](https://seaflow.netlify.com/)
+More information can be found on this [website](https://seaflow.netlify.com/)
