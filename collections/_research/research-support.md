@@ -3,7 +3,7 @@ title: Research Support - Innovation, engineering and data analysis
 gallery:
   - url: /assets/images/CTD at sunrise.jpg
     image_path: /assets/CTD at sunrise.jpg
-    alt: "CTD"
+    alt: "CTD at sunrise"
     title: "CTD"
   - url: /assets/images/Synecho.jpg
     image_path: /assets/images/Synecho.jpg
