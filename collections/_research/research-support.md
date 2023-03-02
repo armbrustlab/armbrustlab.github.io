@@ -1,19 +1,15 @@
 ---
 title: Research Support - Innovation, engineering and data analysis
 gallery:
-  - url: /assets/images/TGT_Women_in_Science.jpg
-    image_path: /assets/images/TGT_Women_in_Science.jpg
-    alt: "SOMETHING"
-    title: "SOMETHING"
+  - url: /assets/images/CTD at sunrise.jpg
+    image_path: /assets/CTD at sunrise.jpg
+    alt: "CTD"
+    title: "CTD"
   - url: /assets/images/Synecho.jpg
     image_path: /assets/images/Synecho.jpg
     alt: "SeaFlow synochococcus"
     title: "SeaFlow data collected along the Pacific Northwest showing Synechococcus distributions in surface waters"
-  - url: /assets/images/gwennlab.jpg
-    image_path: /assets/images/gwennlab.jpg
-    alt: "Gwenn's chemostats"
-    title: "Gwenn tending to her Thalassiosira pseudonana chemostats, grown under high and low carbon dioxide levels"
 ---
-In the Armbrust lab, we have a team of research scientists, engineers, bioinformaticists and software developers who work on data acquisition and analysis, from extensive lab culturing projects to bioinformatics pipelines and instrumentation. Over the past several years, our lab has tackled the ongoing challenge of processing, managing and interpreting large-scale data sets, including (e.g.): SOLiD sequence reads, assembled for (meta)genomic and (meta)transcriptomic analysis, basin-wide flow cytometry data that maps temporal and spatial variability in phytoplankton communities, and additional sequence databases generated from various EST and tiling array projects, as well as collaborations with external lab groups.
+In the Armbrust lab, we have a team of research scientists, engineers, bioinformaticists and software developers who work on data acquisition and analysis, from extensive lab culturing projects to bioinformatics pipelines and instrumentation. Our lab generates large-scale data sets of (meta)genomic and (meta)transcriptomic sequences and basin-wide flow cytometry data to understand temporal and spatial variability in phytoplankton communities.  We develop software tools to help meet the ongoing challenge of processing, managing and interpreting these data sets.  We also developed an open-source data portal known as CMAP (Collaborative Marine Atlas Project) designed for retrieving, visualilzing, and analyzing diverse data sets derived from research cruises, satellite products and output from global-scale biogeochemical models.
 
-{% include gallery caption="**1.** 2023 SOMETHING. **2.** SeaFlow data collected along the Pacific Northwest showing Synechococcus distributions in surface waters. **3.** Gwenn tending to her Thalassiosira pseudonana chemostats, grown under high and low carbon dioxide levels."%}
+{% include gallery caption="**1.** Collecting water samples with a CTD at sunrise **2.** SeaFlow data collected along the Pacific Northwest showing Synechococcus distributions in surface waters. "%}
