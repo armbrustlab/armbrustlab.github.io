@@ -2,18 +2,11 @@
 title: Research
 permalink: /research/
 gallery:
-  - url: /assets/images/jenny_microscope.jpeg
-    image_path: /assets/images/jenny_microscope.jpeg
-    alt: "Jenny microscope"
-    title: "Former UW undergraduate Jenny Lai counting cells of the diatom, Thalassiosira pseudonana"
-  - url: /assets/images/Ginger_sampling.jpg
-    image_path: /assets/images/Ginger_sampling.jpg
-    alt: "Ginger sampling"
-    title: "Ginger collecting a net tow sample onboard the R/V Thomas G. Thompson in the North Pacific"
-  - url: /assets/images/jarred_poster.jpg
-    image_path: /assets/images/jarred_poster.jpg
-    alt: "Jarred poster"
-    title: "Micaela and Jarred during the poster session at the 2009 ASLO conference in Nice, France"
+  - url: /assets/images/TGT_Women_in_Science.jpeg
+    image_path: /assets/images/TGT_Women_in_Science.jpeg
+    alt: "Women scientists and crew on R/V Thompson, 2023"
+    title: "Celebration of International Women in STEM, Gradients 5 cruise, 2023"
+  
 ---
 The Armbrust group uses lab- and field-based approaches to understand the complexities surrounding phytoplankton, their environment and their interactions with other microbes. We work at the cellular, population, and community scale to understand how these organisms shape and are shaped by environmental conditions.
 
