@@ -6,6 +6,10 @@ gallery:
     image_path: /assets/images/TGT_Women_in_Science.jpeg
     alt: "Women scientists and crew on R/V Thompson, 2023"
     title: "Celebration of International Women in STEM, Gradients 5 cruise, 2023"
+  - url: /assets/images/Synecho.jpg
+    image_path: /assets/images/Synecho.jpg
+    alt: "SeaFlow synochococcus"
+    title: "SeaFlow data collected along the Pacific Northwest showing Synechococcus distributions in surface waters"
   
 ---
 The Armbrust group uses lab- and field-based approaches to understand the complexities surrounding phytoplankton, their environment and their interactions with other microbes. We work at the cellular, population, and community scale to understand how these organisms shape and are shaped by environmental conditions.
