@@ -10,10 +10,6 @@ gallery:
     image_path: /assets/images/Synecho.jpg
     alt: "SeaFlow synochococcus"
     title: "SeaFlow data collected along the Pacific Northwest showing Synechococcus distributions in surface waters"
-  - url: /assets/images/gwennlab.jpg
-    image_path: /assets/images/gwennlab.jpg
-    alt: "Gwenn's chemostats"
-    title: "Gwenn tending to her Thalassiosira pseudonana chemostats, grown under high and low carbon dioxide levels"
 ---
 The Armbrust group uses lab- and field-based approaches to understand the complexities surrounding phytoplankton, their environment and their interactions with other microbes. We work at the cellular, population, and community scale to understand how these organisms shape and are shaped by environmental conditions.
 
