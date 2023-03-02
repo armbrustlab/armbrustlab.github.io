@@ -4,8 +4,8 @@ permalink: /research/
 gallery:
   - url: /assets/images/TGT_Women_in_Science.jpg
     image_path: /assets/images/TGT_Women_in_Science.jpg
-    alt: "SOMETHING"
-    title: "SOMETHING"
+    alt: "TGT women in science"
+    title: "TGT women in science"
 ---
 The Armbrust group uses lab- and field-based approaches to understand the complexities surrounding phytoplankton, their environment and their interactions with other microbes. We work at the cellular, population, and community scale to understand how these organisms shape and are shaped by environmental conditions.
 
@@ -25,4 +25,4 @@ In the field, we collect temporal and spatial samples across environmental gradi
 
 
 
-{% include gallery caption="In celebration of International Women and Girls in Stem: Women scientists and R/V Thompson crew  on the Gradients 5 cruise to the equatorial Pacific." %}
+{% include gallery caption="In celebration of International Women and Girls in Stem: Women scientists and R/V Thompson crew  on the Gradients 5 cruise to the equatorial Pacific in January/February 2023." %}
