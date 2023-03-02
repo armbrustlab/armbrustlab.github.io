@@ -44,6 +44,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 
 ## Oceanographic Research Cruises
 Recent, Chief Scientist 
+* Gradients cruise 5, Equatorial Pacific Ocean, R/V Thompson, January 22 - February 18, 2023.
 * Gradients cruise 4, Equatorial Pacific Ocean, R/V Thompson, November 10-December 17, 2021.
 * Gradients cruise 3, North Pacific Ocean, R/V Kilo Moana, April, 2019
 * Gradients cruise 2, North Pacific Ocean, R/V Langseth, May/June, 2017.
