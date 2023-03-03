@@ -6,7 +6,7 @@ gallery:
     alt: "CTD at sunrise"
     title: "CTD"
   - url: /assets/images/SeaFlow_cruises.png
-    image_path: /assets/SeaFlow_cruises.png
+    image_path: /assets/images/SeaFlow_cruises.png
     alt: "SeaFlow cruises"
     title: "Map of SeaFlow cruises"
 ---
