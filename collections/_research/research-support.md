@@ -10,5 +10,6 @@ In the Armbrust lab, we have a team of research scientists, engineers, bioinform
 
 {% include gallery caption="Map of cruises in the Pacific Ocean where we have operated SeaFlow (our custom-bulit continuous flow cytometer) to document abundance, cell size, biomass, division rates of open ocean phytoplankton populations. "%}
 
-![Interactions](/assets/images/CTD_at_sunrise.JPG){: .align-center}
-<figcaption>Using a CTD at sunrise to collect water samples.</figcaption>
+![Interactions](/assets/images/SeaFlow_at_sea.jpeg){: .align-center}
+<figcaption>SeaFlow instrument operating on board the R/V Thompson collecting data in the Equatorial Pacific.</figcaption>
+
