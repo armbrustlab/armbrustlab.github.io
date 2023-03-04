@@ -25,4 +25,4 @@ In the field, we collect temporal and spatial samples across environmental gradi
 
 
 
-{% include gallery caption="In celebration of International Women and Girls in Stem: Women scientists and R/V Thompson crew  on the Gradients 5 cruise to the equatorial Pacific in January/February 2023." %}
+{% include gallery caption="In celebration of International Women and Girls in Stem: Women scientists and R/V Thompson crew  on the Gradients 5 cruise to the equatorial Pacific in January/February 2023. Photograph credit: Frank X. Ferrer González. " %}
