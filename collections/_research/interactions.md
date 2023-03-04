@@ -6,5 +6,3 @@ Microbial interactions are at the core of species success or failure. These inte
 
 ![Interactions](/assets/images/website_interactions.jpg){: .align-center}
 <figcaption>Examples of bacterial interactions with diatoms, categorized as Competitive (purple), Synergistic (orange), and Parasitic (blue). An example of horizontal gene transfer (HGT) as evidence for past associations between diatoms and bacteria is also shown (green).</figcaption>
-![Interactions](/assets/images/website_interactions.jpg){: .align-center}
-<figcaption>Examples of bacterial interactions with diatoms, categorized as Competitive (purple), Synergistic (orange), and Parasitic (blue). An example of horizontal gene transfer (HGT) as evidence for past associations between diatoms and bacteria is also shown (green).</figcaption>
