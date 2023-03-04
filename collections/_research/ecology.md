@@ -5,7 +5,3 @@ Our goal is to understand how nutrient and physico-chemical gradients shape the 
 
 ![Interactions](/assets/images/CTD_at_sunrise.JPG){: .align-center}
 <figcaption>Using a CTD at sunrise to collect water samples.</figcaption>
-
-![Cruise track]({% link /assets/images/cruisetrack.png %}){: .align-center}
-<figcaption>A phytoplankton hotspot (in red) localized at the intersection (yellow line) of offshore waters and coastal waters of the Northeast Pacific Ocean.</figcaption>
-
