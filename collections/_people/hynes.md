@@ -21,6 +21,12 @@ I investigate picophytoplankton distribution and diversity across physical gradi
 
 ## Journal Publications
 
+* Gradoville, M. R., M. Dugenne, A. M. Hynes, J. P. Zehr, A. E. White. 2022. Empirical relationship between *nifH* gene abundance and diazotroph cell concentration in the North Pacific Subtropical Gyre. *Journal of Phycology*, **58**:829--833, <a href = "https://doi.org/10.1111/jpy.13289"> DOI: 10.1111/jpy.13289.</a>
+
+* Henderikx-Freitas, F., M. Dugenne, F. Ribalet, A. Hynes, B. Barone, D. M. Karl, A. E. White. 2020. Diel variability of bulk optical properties associated with the growth and division of small phytoplankton in the North Pacific Subtropical Gyre. *Applied Optics*, **59**:6702--6716.
+
+* Ribalet, F., C. Berthiaume, A. Hynes, J. Swalwell, M. Carlson, S. Clayton, G. Hennon, C. Poirier, E. Shimabukuro, A. White, E. V. Armbrust. 2019. SeaFlow data v1, high-resolution abundance, size and biomass of small phytoplankton in the North Pacific. *Scientific Data*, **6**:277, <a href = "https://doi.org/10.1038/s41597-019-0292-2"> DOI: 10.1038/s41597-019-0292-2.</a>
+
 * Wilson, S. T., N. J. Hawco, E. V. Armbrust, B. Barone, K. M. Björkman, A. K. Boysen, M. Burgos, T. J. Burrell, J. R. Casey, E. F. DeLong, M. Dugenne, S. Dutkiewicz, S. T. Dyhrman, S. Ferrón, M. J. Follows, R. K. Foreman, C. P. Funkey, M. J. Harke, B. A. Henke, C. N. Hill, A. M. Hynes, A. E. Ingalls, O. Jahn, R. L. Kelly, A. N. Knapp, R. M. Letelier, F. Ribalet, E. M. Shimabukuro, R. K. S. Tabata, K. A. Turk-Kubo, A. E. White, J. P. Zehr, S. John, D. M. Karl. 2019. Kīlauea lava fuels phytoplankton bloom in the North Pacific Ocean. *Science*, **365**:1040--1044, <a href = "https://doi.org/10.1126/science.aax4767"> DOI: 10.1126/science.aax4767.</a>
 
 * Hynes, A. M., K. L. Rhodes, and B. J. Binder.  2015.  Assessing cell cycle-based methods of measuring *Prochlorococcus* division rates using an individual-based model.  *Limnology and Oceanography Methods*, **13**:640--650, <a href="https://doi.org/10.1002/lom3.10054">DOI: 10.1002/lom3.10054.</a>
