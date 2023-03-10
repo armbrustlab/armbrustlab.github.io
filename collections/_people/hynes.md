@@ -20,6 +20,9 @@ I investigate picophytoplankton distribution and diversity across physical gradi
 * Postdoctoral Research Associate, Department of Marine Sciences, University of Georgia, USA, 2010-2015
 
 ## Journal Publications
+
+* Wilson, S. T., N. J. Hawco, E. V. Armbrust, B. Barone, K. M. Björkman, A. K. Boysen, M. Burgos, T. J. Burrell, J. R. Casey, E. F. DeLong, M. Dugenne, S. Dutkiewicz, S. T. Dyhrman, S. Ferrón, M. J. Follows, R. K. Foreman, C. P. Funkey, M. J. Harke, B. A. Henke, C. N. Hill, A. M. Hynes, A. E. Ingalls, O. Jahn, R. L. Kelly, A. N. Knapp, R. M. Letelier, F. Ribalet, E. M. Shimabukuro, R. K. S. Tabata, K. A. Turk-Kubo, A. E. White, J. P. Zehr, S. John, D. M. Karl. 2019. Kīlauea lava fuels phytoplankton bloom in the North Pacific Ocean. *Science*, **365**:1040--1044, <a href = "https://doi.org/10.1126/science.aax4767"> DOI: 10.1126/science.aax4767.</a>
+
 * Hynes, A. M., K. L. Rhodes, and B. J. Binder.  2015.  Assessing cell cycle-based methods of measuring *Prochlorococcus* division rates using an individual-based model.  *Limnology and Oceanography Methods*, **13**:640--650, <a href="https://doi.org/10.1002/lom3.10054">DOI: 10.1002/lom3.10054.</a>
 
 * Hynes, A. M., B. J. Blythe, and B. J. Binder.  2015.  An individual-based model for the analysis of *Prochlorococcus* diel cycle behavior. *Ecological Modelling*, **301**:1--15, <a href="https://doi.org/10.1016/j.ecolmodel.2015.01.011">DOI: 10.1016/j.ecolmodel.2015.01.011.</a>
