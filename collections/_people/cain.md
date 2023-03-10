@@ -15,9 +15,9 @@ BSc, Magna Cum Laude, Oceanography, University of Washington (2019)
 ## Oceanographic Research Cruise Participation
 * 2023 Undergraduate Senior Thesis Cruise, Hawaii to Fiji, R/V Thomas G. Thompson, February 24 - March 13, 2023
 
-* NCDC, North Pacific Subtropical Gyre, R/V Kilo Moana, January 22 - February 18, 2023
-
 * Gradients 5, Equatorial Pacific Ocean, R/V Thomas G. Thompson, January 22 - February 18, 2023
+
+* NCDC, North Pacific Subtropical Gyre, R/V Kilo Moana, June 5 - July 5, 2022
 
 * 2022 Undergraduate Senior Thesis Cruise, North Pacific Subtropical Gyre, R/V Thomas G. Thompson, December 18, 2021 - January 1, 2022
 
@@ -27,7 +27,7 @@ BSc, Magna Cum Laude, Oceanography, University of Washington (2019)
 
 * VISIONS 2017, OOI Regional Cabled Array, R/V Roger Revelle, July 27 - August 6, 2017
 
-Participation in 6 additional cruises.
+Participant in 6 additional cruises.
 
 ## Publications
 * Bartolek, Z., S. G. Creveld, S. Coesel, **K. R. Cain**, M. Schatz, R. Morales, and E. Virginia Armbrust. 2022. Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom Thalassiosira pseudonana. The ISME Journal 16: 2741–2751. doi:10.1038/s41396-022-01313-9
