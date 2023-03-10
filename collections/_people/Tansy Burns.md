@@ -2,17 +2,20 @@
 title: Tansy Burns
 ---
 ![Tansy Burns]({% link /assets/images/Tansy.jpg %})
+
+## Research Scientist
+
 ---
 I am the research coordinator for Simons-CMAP (www.simonscmap.com), a collection of harmonized data and open-source tools developed to investigate the hidden worlds of ocean microbes.  I coordinate work and planning within the Simons-CMAP group, and I am also the point of contact for collaborators and Simons-CMAP users.  My career has spanned ocean research, program/project management, and education, and I most enjoy working where these areas intersect.
 
 tansy at uw.edu
 
-Education
+**Education**
 PhD, Oceanography, University of Washington, 2008
 MS, Biology, San Francisco State University, 2002
 BS, Zoology, University of Washington, 1999
 
-Positions Held
+**Positions Held**
 Research Coordinator, University of Washington, 2020-Present
 Academic Specialist, University of Washington, 2013-2020
 Coordinator, Master of Science in Science for Teachers Program, University of Washington, 2013-2015
@@ -23,7 +26,7 @@ Graduate Research Assistant, University of Washington, 2002-2008
 Graduate Research Assistant, San Francisco State University, 2000-2002
 Undergraduate Research Assistant, University of Washington, Friday Harbor Labs, 1999-2000
 
-Publications
+**Publications**
 Simons Collaborative Marine Atlas Project (Simons CMAP): An Open‐Source Portal to Share, Visualize, and Analyze Ocean Data. 2021. Limnology and Oceanography: Methods 19(7): 488-496. M.D. Ashkezari, N.R. Hagen, M. Denholtz, A. Neang, T.C. Burns, R.L. Morales, C.P. Lee, C.N. Hill, E.V. Armbrust.
 Benefits and limitations of iPads in the high school science classroom and a trophic cascade lesson plan. 2013. Journal of Geoscience Education. 61(4):378-384. N.D. Ward, R.J. Finley, R.G. Keil, T. Clay.
 
