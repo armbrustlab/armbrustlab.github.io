@@ -23,7 +23,7 @@ I investigate picophytoplankton distribution and diversity across physical gradi
 
 * Gradoville, M. R., M. Dugenne, A. M. Hynes, J. P. Zehr, A. E. White. 2022. Empirical relationship between *nifH* gene abundance and diazotroph cell concentration in the North Pacific Subtropical Gyre. *Journal of Phycology*, **58**:829--833, <a href = "https://doi.org/10.1111/jpy.13289"> DOI: 10.1111/jpy.13289.</a>
 
-* Henderikx-Freitas, F., M. Dugenne, F. Ribalet, A. Hynes, B. Barone, D. M. Karl, A. E. White. 2020. Diel variability of bulk optical properties associated with the growth and division of small phytoplankton in the North Pacific Subtropical Gyre. *Applied Optics*, **59**:6702--6716.
+* Henderikx-Freitas, F., M. Dugenne, F. Ribalet, A. Hynes, B. Barone, D. M. Karl, A. E. White. 2020. Diel variability of bulk optical properties associated with the growth and division of small phytoplankton in the North Pacific Subtropical Gyre. *Applied Optics*, **59**:6702--6716, <a href = "https://doi.org/10.1364/AO.394123"> DOI: 10.1364/AO.394123.</a>
 
 * Ribalet, F., C. Berthiaume, A. Hynes, J. Swalwell, M. Carlson, S. Clayton, G. Hennon, C. Poirier, E. Shimabukuro, A. White, E. V. Armbrust. 2019. SeaFlow data v1, high-resolution abundance, size and biomass of small phytoplankton in the North Pacific. *Scientific Data*, **6**:277, <a href = "https://doi.org/10.1038/s41597-019-0292-2"> DOI: 10.1038/s41597-019-0292-2.</a>
 
