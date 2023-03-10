@@ -4,7 +4,8 @@ title: Zinka Bartolek
 ![Zinka Bartolek]({% link /assets/images/Zinka.png %})
 ---
 
-Graduate student 
+Graduate student
+
 zinkab at uw.edu
 
 Research interests:
