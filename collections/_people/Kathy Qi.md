@@ -2,7 +2,7 @@
 title: Kathy Qi
 ---
 ![Kathy Qi]({% link /assets/images/Kathy.jpg %})
-<figcaption>Left ("scary Kathy", Right (Kathy)n.</figcaption>
+<figcaption>Left ("scary Kathy", Right (Kathy).</figcaption>
 ---
 **Graduate Student**
 
