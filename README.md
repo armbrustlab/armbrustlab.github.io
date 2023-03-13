@@ -25,7 +25,7 @@ git clone https://github.com/armbrustlab/armbrustlab.github.io.git
 ```sh
 cd armbrustlab.github.io
 bundle install
-bundle exec jekyll serve --livereload
+bundle exec jekyll serve --livereload --baseurl=""
 ```
 
 This will start a local webserver on `http://localhost:4000` which will automatically reload the page when you make any changes to the site source. Sometimes the `--livereload` feature breaks and you'll need to manually stop the webserver with `ctrl-c` and then restart it.
