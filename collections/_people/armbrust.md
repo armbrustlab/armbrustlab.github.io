@@ -57,6 +57,9 @@ Lab participation in 20 additional cruises
 
 ## Publications
 
+2023
+Dugenne, Mathilde, Mary R. Gradoville, Matthew J. Church, Benedetto Barone, Samuel T. Wilson, Uri Sheyn, Matthew J. Harke, Karin M. Björkman, Nicholas J. Hawco, Annette M. Hynes, François Ribalet, Angelicque E. White, David M. Karl, Edward F. Delong, Sonya Dyhrman, Seth John, E. Virginia Armbrust, John M. Eppley, Katie Harding, Brittany Stewart, Ana M. Cabello, Kendra A. Turk-Kubo, Mathieu Caffin, Jonathan P. Zehr. 2023. Nitrogen fixation in mesoscale eddies of the North Pacific Subtropical Gyre: patterns and mechanisms. Global Biogeochemical Cycles, in press.
+
 2022
 1. Durham, Bryndan P., Laura T. Carlson, Angela K. Boysen, Katherine R. Heal, Rachel Boccamazzo, Chloe Deodato, Wei Qin, Rose Ann Cattolico, E. Virginia Armbrust, and Anitra E. Ingalls. Chemotaxonomic patterns in intracellular metabolites of marine microbial plankton. Frontiers in Microbiology, https://doi.org/10.3389/fmars.2022.864796
 2. Bartolek, Zinka, Shiri Graff van Creveld, Sacha Coesel, Stephen Blaskowski, Megan Schatz, Rhonda Morales, and E. Virginia Armbrust.  Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom Thalassiosira pseudonana. ISME J, https://doi.org/10.1038/s41396-022-01313-9.
