@@ -2,6 +2,7 @@
 title: Ryan Groussman
 ---
 ![Ryan Groussman]({% link /assets/images/RDG_Fall2021.jpeg %})
+
 **Postdoctoral scholar**
 rgrous83 at uw.edu
 
