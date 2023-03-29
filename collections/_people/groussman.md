@@ -1,59 +1,59 @@
 ---
 title: Ryan Groussman
 ---
-![Ryan Groussman]({% link /assets/images/groussman.jpg %})
-
-rgrous83@uw.edu
+![Ryan Groussman]({% link /assets/images/RDG_Fall2021.jpeg %})
+**Postdoctoral scholar**
+rgrous83 at uw.edu
 
 [https://github.com/rdgroussman](https://github.com/rdgroussman)
 
 ## Research Interests and Current Projects
-#### Diatom-Bacteria Interactions
 
-Diatoms have an important role in the Earth’s carbon cycle, but they are not alone: the nature of their relationships with other marine microbes determines the fate of their fixed carbon. I aim to use modern molecular and informatics techniques to understand these complex relationships, using model diatom-bacteria associations.
+I am interested in exploring the molecular ecology and adaptive mechanisms of marine microbial eukaryotes in the North Pacific Ocean, which play a pivotal role in global biogeochemical cycles. By employing deep-sequenced metatranscriptomes and new approaches to understanding them, I aim to unravel the complex survival strategies these microorganisms utilize in response to changing environmental conditions.
 
-#### Metagenomics and Metatranscriptomics of Ocean Communities
-
-The advent of novel sequencing technologies has opened up new windows for investigation of community structure and function. Dramatic decreases in sequencing cost-per-base has allowed for the collection of massive community data sets, but the task of extracting meaningful information from these large data presents a challenge. I am developing pipelines for analysis of many environmental samples in order to improve our understanding of biological processes at the genetic and transcriptional levels.
 
 ## Education
-B. S. magna cum laude in Molecular, Cellular & Developmental Biology with Minor in Oceanography, University of Washington (2016)
+Ph.D. in Oceanography, University of Washington, December 2022. Dissertation: "Resolving the molecular ecology of marine microbial eukaryotes with metatranscriptomes."
+M.S. in Oceanography, University of Washington, December 2018.
+B.S. magna cum laude in Molecular, Cellular and Developmental Biology, University of Washington, 2016. 
 
-A.S. with honors, Seattle Central College (2013)
+## Positions held
+Postdoctoral Scholar, School of Oceanography, University of Washington, 2023 – present.
+Research Assistant, School of Oceanography, University of Washington, 2016 – 2022.
+Teaching Assistant, School of Oceanography, University of Washington, 2018 – 2021.
+Undergraduate Research Assistant, School of Oceanography, University of Washington, 2012 – 2016.
+
+## Field experience
+Chief Scientist, training cruise on R/V Rachel Carson, RC0064, 27 September - 28 September, 2021.
+Gradients 3 cruise, R/V Kilo Moana, 8 April - 30 April, 2019.
+Gradients 2 cruise, R/V Marcus G Langseth, 27 May - 13 June, 2017.
+Gradients 1 cruise, R/V Ka’imikai-O-Kanaloa, 19 April - 4 May, 2016.
+VISIONS’14, Installation of RSN, R/V Thomas G. Thompson, September 2014.
+
 
 ## Publications
-**Groussman, Ryan D.**, Micaela S. Parker, and E. Virginia Armbrust. "Diversity and Evolutionary History of Iron Metabolism Genes in Diatoms." PloS one 10, no. 6 (2015).
+**Groussman, R.D.**, Blaskowski, S., Coesel, S., and Armbrust, E.V. (2023). MarFERReT, an open-source, version-controlled reference library of marine microbial eukaryote functional genes. (Submitted to Scientific Data). 
 
-Hennon, Gwenn MM, Justin Ashworth, **Ryan D. Groussman**, Chris Berthiaume, Rhonda L. Morales, Nitin S. Baliga, Mónica V. Orellana, and E. V. Armbrust. "Diatom acclimation to elevated CO2 via cAMP signalling and coordinated gene expression." Nature Climate Change 5, no. 8 (2015): 761-765.
+van Creveld, S. G., Coesel, S. N., Blaskowski, S., **Groussman, R.D.**, Schatz, M. J., & Armbrust, E. V. (2022). Divergent functions of two clades of flavodoxin in diatoms mitigate oxidative stress and iron limitation. bioRxiv.
 
-## Presentations
-**Ryan D. Groussman**, Bryndan P. Durham, Sacha Coesel, Rhonda Morales, and E. Virginia Armbrust. "Diel Transcriptional Patterns of Eukaryotic Phytoplankton in the North Pacific Subtropical Gyre" (2017). The 4th International Conference on the Molecular Life of Diatoms, Kobe, Japan. Poster presentation.
+Lambert, B. S., **Groussman, R.D.**, Schatz, M. J., Coesel, S. N., Durham, B. P., Alverson, A. J., ... & Armbrust, E. V. (2022). The dynamic trophic architecture of open-ocean protist communities revealed through machine-guided metatranscriptomics. Proceedings of the National Academy of Sciences, 119(7).
 
-**Groussman, Ryan D.**, Gwenn M.M. Hennon, and E. Virginia Armbrust. "Regulation of Gene Networks by Cyclic AMP in the Diatom Thalassiosira pseudonana" (2016) UW Undergraduate Research Symposium, Seattle, WA, USA. Oral presentation.
+Boysen, A. K., Durham, B. P., Kumler, W., Key, R. S., Heal, K. R., Carlson, L., **Groussman, R.D.**, ... & Ingalls, A. E. (2022). Glycine betaine uptake and metabolism in marine microbial communities. Environmental Microbiology.
 
-**Groussman, Ryan D.**, Gwenn M.M. Hennon, and E. Virginia Armbrust. "Investigating cyclic AMP as a mediator of CO2-sensing in the diatom Thalassiosira pseudonana" (2015) Molecular Life of Diatoms Conference, Seattle, WA, USA. Poster presentation.
+Park, J., Durham, B. P., Key, R. S., **Groussman, R.D.**, Pinedo-Gonzalez, P., Hawco, N. J., ... & Bundy, R. M. (2022). Siderophore production and utilization by microbes in the North Pacific Ocean. bioRxiv.
 
-**Groussman, Ryan D.**, Gwenn M.M. Hennon, and E. Virginia Armbrust. "Investigating cyclic AMP as a mediator of CO2-Sensing in the diatom Thalassiosira pseudonana" (2015) UW Undergraduate Research Symposium, Seattle, WA, USA. Oral presentation.
+**Groussman, R.D.**, Coesel, S., Durham, B.P., and Armbrust, E.V. (2021). “Diel-regulated transcriptional cascades of microbial eukaryotes in the North Pacific Subtropical Gyre”. Frontiers in Microbiology, 2542.
 
-**Groussman, Ryan D.**, Micaela S. Parker, and E. Virginia Armbrust. "Diversity of Diatom Iron Metabolism Genes Revealed through Whole Transcriptome Sequencing" (2014) Ocean Sciences Meeting, Honolulu, HI, USA. Oral presentation.
+Boysen, A. K., Carlson, L. T., Durham, B. P., **Groussman, R.D.**, Aylward, F. O., Ribalet, F., ... & Ingalls, A. E. (2021). Particulate Metabolites and Transcripts Reflect Diel Oscillations of Microbial Activity in the Surface Ocean. Msystems, 6(3). 
 
-**Groussman, Ryan D.**, Micaela S. Parker, and E. Virginia Armbrust. "Evolutionary History and Environmental Expression of Iron Metabolism Genes in Diatoms: A High Resolution Investigation" (2014) UW Undergraduate Research Symposium, Seattle, WA, USA. Oral presentation.
+Coesel, S. N., Durham, B. P., **Groussman, R.D.**, Hu, S. K., Caron, D. A., Morales, R. L., ... & Armbrust, E. V. (2021). Diel transcriptional oscillations of light-sensitive regulatory elements in open-ocean eukaryotic plankton communities. Proceedings of the National Academy of Sciences, 118(6).
 
-**Groussman, Ryan D.**, Micaela S. Parker, and E. Virginia Armbrust. "Recently Sequenced Transcriptomes Reveal Unexpected Diversity and Ancient Origin of Diatom Ferritin" (2013) UW Undergraduate Research Symposium, Seattle, WA, USA. Poster presentation.
+Durham, B. P., Boysen, A. K., Carlson, L. T., **Groussman, R.D.**, Heal, K. R., Cain, K. R., ... & Armbrust, E. V. (2019). Sulfonate-based networks between eukaryotic phytoplankton and heterotrophic bacteria in the surface ocean. Nature microbiology, 4(10), 1706-1715.	
 
-## Honors and Scholarships
-ARCS Foundation Fellow (2016)
+Becker, K. W., Collins, J. R., Durham, B. P., **Groussman, R.D.**, White, A. E., Fredricks, H. F., ... & Van Mooy, B. A. (2018). Daily changes in phytoplankton lipidomes reveal mechanisms of energy storage in the open ocean. Nature communications, 9(1), 1-9.
 
-WSGC Summer Undergraduate Research Program (Summer 2015)
+**Groussman, R.D.**, Parker, M. S., & Armbrust, E. V. (2015). Diversity and evolutionary history of iron metabolism genes in diatoms. PLoS One, 10(6), e0129081.
 
-Levinson Emerging Scholars Award (2014-15, 2015-16)
+Hennon, G. M., Ashworth, J., **Groussman, R.D.**, Berthiaume, C., Morales, R. L., Baliga, N. S., ... & Armbrust, E. V. (2015). Diatom acclimation to elevated CO2 via cAMP signalling and coordinated gene expression. Nature Climate Change, 5(8), 761-765.
 
-Mary Gates Endowed Scholarship (2013-14)
 
-Broadway High School Alumni Endowed Scholarship for Transfer Students
-
-The Boeing Company Endowed Scholarship (2012-13)
-
-National Science Foundation S-STEM Scholarship (2012-13)
-
-Washington State Opportunity Scholarship (2012-15)
