@@ -30,6 +30,7 @@ A molecular biologist by training, in my PhD I studied stress responses in a wel
 * Rosenwasser S, **Graff van Creveld S**, Schatz D, Malitsky S, Tzfadia O, Aharoni A, Levin Y, Gabashvili A, Feldmesser E, Vardi A (2014) Mapping the diatom redox-sensitive proteome provides insight into response to nitrogen stress in the marine environment. Proc Natl Acad Sci 111: 2740–5
 
 ### Cruise participation
+* 22 Jan - 18 Feb 2023, San Diego, CA - Honolulu, HI. R/V Thompson TN412, Chief Scientist: E. Virginia Armbrust, University of Washington
 * 11 Nov - 15 Dec 2021, Seattle, WA - San Diego, CA - Honolulu, HI. R/V Thompson TN396 TN397, Chief Scientist: E. Virginia Armbrust, University of Washington
 * 21 Apr - 4 May 2012, Woods Hole, MA - Bermuda, R/V Knorr KN203-1, Chief Scientist: Ben Van Mooy, Woods Hole Oceanographic Institute
 
