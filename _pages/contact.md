@@ -1,11 +1,16 @@
 ---
-title: Contact Us
+title: contact
+layout: page
 permalink: /contact/
+nav: true
+nav_order: 4
 ---
+<!-- _pages/contact.md -->
+<div class="float-right">
+  <img src="{% link assets/img/BHall.jpg %}" alt="BHall.jpg" class="img-fluid z-depth-1"/>
+</div>
 
 ### Address
-
-![Ben Hall]({% link /assets/images/BHall.jpg %}){: .align-right}
 
 University of Washington  
 Center for Environmental Genomics  

@@ -1,3 +1,0 @@
----
-title: Mohammad Dehghani Ashkezari
----
