@@ -3,6 +3,10 @@
 * Styles theme customization
 ******************************************************************************/ 
 
+body, .navbar {
+  font-size: 18px;
+}
+
 .publications {
   h3.year {
     color: var(--global-divider-color);
