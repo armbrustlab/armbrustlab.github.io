@@ -10,7 +10,7 @@ profile:
 ## Research Scientist
 
 ---
-I am the research coordinator for Simons-CMAP **[Simonscmap](https://simonscmap.com/)**, a collection of harmonized data and open-source tools developed to investigate the hidden worlds of ocean microbes.  I coordinate work and planning within the Simons-CMAP group, and I am also the point of contact for collaborators and Simons-CMAP users.  My career has spanned ocean research, program/project management, and education, and I most enjoy working where these areas intersect.
+I am the research coordinator for Simons-CMAP **([Simonscmap])(https://simonscmap.com/)**, a collection of harmonized data and open-source tools developed to investigate the hidden worlds of ocean microbes.  I coordinate work and planning within the Simons-CMAP group, and I am also the point of contact for collaborators and Simons-CMAP users.  My career has spanned ocean research, program/project management, and education, and I most enjoy working where these areas intersect.
 
 tansy at uw.edu
 
