@@ -27,7 +27,7 @@ I am a molecular biologist and bioinformatician. I use environmental metatranscr
 * Undergraduate research assistant, Centre of Marine Sciences, University of Algarve (Portugal), 1999
 * Undergraduate research assistant, Faculty of Sciences, Vrije Universiteit Amsterdam (Netherlands), 1998
 
-## Publications
+## Publications - https://orcid.org/0000-0001-9422-8388
 Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom Thalassiosira pseudonana
 The ISME Journal
 2022-12 | Journal article
