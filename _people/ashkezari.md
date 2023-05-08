@@ -25,4 +25,4 @@ Simons Collaborative Marine Atlas Project (Simons CMAP): An open-source portal t
 Oceanic eddy detection and lifetime forecast using machine learning methods. M.D. Ashkezari, et al. Geophysical Research Letters, 43 (23), 12,234-12,241 (2016)
 
 Resonant Quantum Transitions in Trapped Antihydrogen Atoms. C. Amole, M.D. Ashkezari, et al. (the ALPHA Collaboration) Nature 483, 439 (2012) 
-![image](https://user-images.githubusercontent.com/14208084/236915756-f89682d2-ebc0-441e-83ff-676da675370c.png)
+
