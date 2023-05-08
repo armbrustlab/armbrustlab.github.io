@@ -7,6 +7,7 @@ profile:
   image_circular: false # crops the image to make it circular
 ---
 Mohammad Ashkezari
+
 Research Scientist
 
 I am a PhD in Physics with a background in scientific computing and numerical calculations. With the rapid growth in heterogeneous scientific data, the need for developing software tools that can simplify the process of conducting multi-disciplinary data analyses is more pronounced than ever. During the past few years, I have been focused on the Simons CMAP project; a database of harmonized marine datasets optimized for integrating non-cooperating data sources.
