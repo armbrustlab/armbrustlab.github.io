@@ -1,7 +1,24 @@
 {% if include.profile_image %}
   {% assign img_path = include.profile_image | prepend: 'assets/img/' %}
   {% if site.imagemagick.enabled %}
-    {% assign img_path_noext = img_path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff"%}
+    {% comment %}
+      Remove image extensions, lower and uppper case
+    {% endcomment %}
+
+    {% assign img_path_noext = img_path %}
+    {% assign img_path_noext1 = img_path_noext %}
+    {% assign img_path_parts = img_path | split: "." %}
+    {% if img_path_parts.size > 1 %}
+      {% assign this_ext = img_path_parts | last | downcase %}
+      {% capture this_ext %}.{{ this_ext }}{% endcapture %}
+      {% for ext in site.imagemagick.input_formats %}
+        {% if this_ext == ext %}
+          {% assign array_end = img_path_parts.size | minus: 1 %}
+          {% assign img_path_noext = img_path_parts | slice: 0, array_end | join: "." %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
     {% assign smallest_width = site.imagemagick.widths | first %}
     {% capture img_path %}{{ img_path_noext }}-{{ smallest_width }}.webp{% endcapture %}
   {% endif %}
