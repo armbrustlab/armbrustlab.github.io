@@ -22,7 +22,7 @@ A molecular biologist by training, in my PhD I studied stress responses in a wel
 * BSc, Molecular Biochemistry, The Technion – Israel Institute of Technology, Israel, 2009
 
 ## Publications
-* **Graff van Creveld S**, Coesel S, Blaskowski S, Groussman R, Schatz M, Armbrust V (pre-print 2022) Divergent functions of two clades of flavodoxin in diatoms mitigate oxidative stress and iron limitation. doi: https://doi.org/10.1101/2022.10.18.512804
+* **Graff van Creveld S**, Coesel S, Blaskowski S, Groussman R, Schatz M, Armbrust V (2023) Divergent functions of two clades of flavodoxin in diatoms mitigate oxidative stress and iron limitation. eLife. https://doi.org/10.7554/eLife.84392
 * Bartolek Z, **Graff van Creveld S**, Coesel S, Cain K, Schatz M, Morales R, Armbrust V (2022) Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom *Thalassiosira pseudonana*. ISME J. doi: https://doi.org/10.1038/s41396-022-01313-9
 * **Graff van Creveld S**, Mizrachi A, Vardi A (2022) “An ocean of signals: intracellular and extracellular signaling in diatom” in: The Molecular Life of Diatoms, Eds Falciatore A and Mock T, Springer Nature (London, England)
 * **Graff van Creveld S**, Ben-dor S, Mizrachi A, Alcolombri U, Hopes A, Mock T, Rosenwasser S, Vardi A (2021) Biochemical Characterization of a Novel Redox-Regulated Metacaspase in a Marine Diatom. Front. Microbiol. doi: https://doi.org/10.3389/fmicb.2021.688199
