@@ -57,7 +57,7 @@ Recent, Chief Scientist
 * Molecular biogeochemical cruise, Washington Coast, R/V Thompson, May, 2012.
 
 Participation in 14 additional cruises; 
-Lab participation in 20 additional cruises
+Lab participation in 23 additional cruises
 
 ## Publications
 
