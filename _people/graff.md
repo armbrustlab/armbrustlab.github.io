@@ -11,17 +11,18 @@ profile:
 
 shirig at uw.edu
 
-A molecular biologist by training, in my PhD I studied stress responses in a well-established model diatom in the lab. Now I am studying the molecular mechanisms underlying diatoms acclimation and stress response from model species to ecosystems, coupling laboratory studies with the field.
+A molecular biologist by training, in my PhD I developed tools, and studied responses to environmental stresses in a well-established model diatom in the lab. Now I am studying the molecular mechanisms underlying diatoms acclimation and stress response from model species to ecosystems, coupling laboratory studies with metatranscriptomes and novel isolates from the Pacific Ocean.
 
 {% include figure.html path="assets/img/lab_to_Ocean.png" title="Lab to Ocean" class="img-fluid rounded z-depth-1" %}
 
 
 ## Education
-* PhD, Life Science, Weizmann Institute of Science, Israel, 2018
-* MSc, Life Science, Weizmann Institute of Science, Israel, 2012
-* BSc, Molecular Biochemistry, The Technion – Israel Institute of Technology, Israel, 2009
+* PhD, Life Science, Weizmann Institute of Science, Israel, 2019
+* MSc, Life Science, Weizmann Institute of Science, Israel, 2013
+* BSc, Molecular Biochemistry, The Technion – Israel Institute of Technology, Israel, 2010
 
 ## Publications
+* **Graff van Creveld S**, Coesel S, Schatz M, Armbrust E (under review) New eukaryotic phytoplankton isolates from the oligotrophic tropical Pacific Ocean. J. Phycol. 
 * **Graff van Creveld S**, Coesel S, Blaskowski S, Groussman R, Schatz M, Armbrust V (2023) Divergent functions of two clades of flavodoxin in diatoms mitigate oxidative stress and iron limitation. eLife. https://doi.org/10.7554/eLife.84392
 * Bartolek Z, **Graff van Creveld S**, Coesel S, Cain K, Schatz M, Morales R, Armbrust V (2022) Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom *Thalassiosira pseudonana*. ISME J. doi: https://doi.org/10.1038/s41396-022-01313-9
 * **Graff van Creveld S**, Mizrachi A, Vardi A (2022) “An ocean of signals: intracellular and extracellular signaling in diatom” in: The Molecular Life of Diatoms, Eds Falciatore A and Mock T, Springer Nature (London, England)
