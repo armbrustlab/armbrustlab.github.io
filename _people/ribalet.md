@@ -9,6 +9,7 @@ profile:
 
 **Research Scientist**  
 
-My research focuses on developing a mechanistic understanding of marine ecosystem dynamics and the influence of biological activities on carbon cycling. 
-As a marine ecologist, I specialize in studying microbial communities, including viruses, bacteria, phytoplankton, and grazers, in a wide range of marine environments. 
-My approach is both quantitative and interdisciplinary, involving  mathematical and simulation modeling, and statistical analysis of complex data sets. I conduct field work and collect data - particularity using [SeaFlow](https://seaflow.netlify.app/), a shipboard underway flow cytometer - to explore how these organisms interact with their environment and regulate carbon fluxes in the surface ocean.
+My research delves into the mechanics governing marine ecosystems and the critical role biological processes play in carbon cycling. 
+As a marine ecologist, I specialize in studying microbial communities - including viruses, bacteria, phytoplankton, and grazers - across various spatial scales, from the microscopic to ocean basins. 
+My approach is quantitative and inherently interdisciplinary, blending mathematical and simulation modeling with statistical analysis of complex datasets. 
+I conduct fieldwork - deploying [SeaFlow, our shipboard underway flow cytometer](https://seaflow.netlify.app/) - to collect the necessary data for testing our theoretical models and enhancing our predictive understanding of the marine carbon cycle.
