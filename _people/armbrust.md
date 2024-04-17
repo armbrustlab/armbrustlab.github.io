@@ -56,7 +56,7 @@ Recent, Chief Scientist
 * Dimensions of Biodiversity cruise, North Pacific Ocean, R/V Kilo Moana, August/September, 2013.
 * Molecular biogeochemical cruise, Washington Coast, R/V Thompson, May, 2012.
 
-Participation in 14 additional cruises; 
+Participation in 15 additional cruises; 
 Lab participation in 23 additional cruises
 
 ## Publications
