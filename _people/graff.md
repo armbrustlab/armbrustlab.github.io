@@ -22,18 +22,18 @@ A molecular biologist by training, in my PhD I developed tools, and studied resp
 * BSc, Molecular Biochemistry, The Technion – Israel Institute of Technology, Israel, 2010
 
 ## Publications
-* **Graff van Creveld S**, Coesel S, Schatz M, Armbrust E (under review) New eukaryotic phytoplankton isolates from the oligotrophic tropical Pacific Ocean. J. Phycol. 
-* **Graff van Creveld S**, Coesel S, Blaskowski S, Groussman R, Schatz M, Armbrust V (2023) Divergent functions of two clades of flavodoxin in diatoms mitigate oxidative stress and iron limitation. eLife. https://doi.org/10.7554/eLife.84392
-* Bartolek Z, **Graff van Creveld S**, Coesel S, Cain K, Schatz M, Morales R, Armbrust V (2022) Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom *Thalassiosira pseudonana*. ISME J. doi: https://doi.org/10.1038/s41396-022-01313-9
-* **Graff van Creveld S**, Mizrachi A, Vardi A (2022) “An ocean of signals: intracellular and extracellular signaling in diatom” in: The Molecular Life of Diatoms, Eds Falciatore A and Mock T, Springer Nature (London, England)
-* **Graff van Creveld S**, Ben-dor S, Mizrachi A, Alcolombri U, Hopes A, Mock T, Rosenwasser S, Vardi A (2021) Biochemical Characterization of a Novel Redox-Regulated Metacaspase in a Marine Diatom. Front. Microbiol. doi: https://doi.org/10.3389/fmicb.2021.688199
+* **Graff van Creveld S**, Coesel S, Schatz M, Armbrust EV (2024) New eukaryotic phytoplankton isolates from the oligotrophic tropical Pacific Ocean. J. Phycol. https://doi.org/10.1111/jpy.13447
+* **Graff van Creveld S**, Coesel S, Blaskowski S, Groussman R, Schatz M, Armbrust EV (2023) Divergent functions of two clades of flavodoxin in diatoms mitigate oxidative stress and iron limitation. eLife https://doi.org/10.7554/eLife.84392
+* Bartolek Z, **Graff van Creveld S**, Coesel S, Cain K, Schatz M, Morales R, Armbrust EV (2022) Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom *Thalassiosira pseudonana*. ISME J. https://doi.org/10.1038/s41396-022-01313-9
+* **Graff van Creveld S**, Mizrachi A, Vardi A (2022) “An ocean of signals: intracellular and extracellular signaling in diatom” in: The Molecular Life of Diatoms, Eds Falciatore A and Mock T, Springer Nature (London, England). https://doi.org/10.1007/978-3-030-92499-7_22
+* **Graff van Creveld S**, Ben-dor S, Mizrachi A, Alcolombri U, Hopes A, Mock T, Rosenwasser S, Vardi A (2021) Biochemical Characterization of a Novel Redox-Regulated Metacaspase in a Marine Diatom. Front. Microbiol. https://doi.org/10.3389/fmicb.2021.688199
 * Mizrachi A, **Graff van Creveld S**, Shapiro OH, Rosenwasser S, Vardi A (2019) Light-dependent single-cell heterogeneity in the chloroplast redox state regulates cell fate in a marine diatom. eLife 8:e47732
 * Stock F, Syrpas M, **Graff van Creveld S**, Backx S, Blommaert L, Dow L, Stock W, Ruysbergh E, Lepetit B, Bailleul B, et al (2019) N-acyl homoserine lactone derived tetramic acids impair photosynthesis in *Phaeodactylum tricornutum*. ACS Chem Biol acschembio.8b01101
-* Volpert A, **Graff van Creveld S**, Rosenwasser S, Vardi A (2018) Diurnal fluctuations in chloroplast GSH redox state regulate susceptibility to oxidative stress and cell fate in a bloom-forming diatom. J Phycol 54: 329–341
-* Rosenwasser S, Ziv C, **Graff van Creveld S**, Vardi A (2016) Virocell Metabolism: Metabolic Innovations During Host–Virus Interactions in the Ocean. Trends Microbiol 24: 821–832
-* **Graff van Creveld S**, Rosenwasser S, Levin Y, Vardi A (2016) Chronic iron limitation confers transient resistance to oxidative stress in marine diatoms. Plant Physiol 172: 968–979
-* **Graff van Creveld S**, Rosenwasser S, Schatz D, Koren I, Vardi A (2015) Early perturbation in mitochondria redox homeostasis in response to environmental stress predicts cell fate in diatoms. ISME J 9: 385–395
-* Rosenwasser S, **Graff van Creveld S**, Schatz D, Malitsky S, Tzfadia O, Aharoni A, Levin Y, Gabashvili A, Feldmesser E, Vardi A (2014) Mapping the diatom redox-sensitive proteome provides insight into response to nitrogen stress in the marine environment. Proc Natl Acad Sci 111: 2740–5
+* Volpert A, **Graff van Creveld S**, Rosenwasser S, Vardi A (2018) Diurnal fluctuations in chloroplast GSH redox state regulate susceptibility to oxidative stress and cell fate in a bloom-forming diatom. J Phycol. 54: 329–341. https://doi.org/10.1111/jpy.12638
+* Rosenwasser S, Ziv C, **Graff van Creveld S**, Vardi A (2016) Virocell Metabolism: Metabolic Innovations During Host–Virus Interactions in the Ocean. Trends Microbiol 24: 821–832. https://doi.org/10.1016/j.tim.2016.06.006
+* **Graff van Creveld S**, Rosenwasser S, Levin Y, Vardi A (2016) Chronic iron limitation confers transient resistance to oxidative stress in marine diatoms. Plant Physiol. 172: 968–979.  https://doi.org/10.1104/pp.16.00840
+* **Graff van Creveld S**, Rosenwasser S, Schatz D, Koren I, Vardi A (2015) Early perturbation in mitochondria redox homeostasis in response to environmental stress predicts cell fate in diatoms. ISME J. 9: 385–395. https://doi.org/10.1038/ismej.2014.136
+* Rosenwasser S, **Graff van Creveld S**, Schatz D, Malitsky S, Tzfadia O, Aharoni A, Levin Y, Gabashvili A, Feldmesser E, Vardi A (2014) Mapping the diatom redox-sensitive proteome provides insight into response to nitrogen stress in the marine environment. Proc Natl Acad Sci. 111: 2740–5. https://doi.org/10.1073/pnas.1319773111
 
 ### Cruise participation
 * 22 Jan - 18 Feb 2023, San Diego, CA - Honolulu, HI. R/V Thompson TN412, Chief Scientist: E. Virginia Armbrust, University of Washington
