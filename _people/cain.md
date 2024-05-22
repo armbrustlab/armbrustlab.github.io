@@ -17,6 +17,8 @@ Both in the lab and at sea, I operate a BD Influx Cell Sorter and [SeaFlow](http
 BSc, Magna Cum Laude, Oceanography, University of Washington (2019)
 
 ## Oceanographic Research Cruise Participation
+* TN428 Transit Cruise, American Samoa to Australia, R/V Thomas G. Thompson, January 13 - January 24, 2024
+
 * 2023 Undergraduate Senior Thesis Cruise, Hawaii to Fiji, R/V Thomas G. Thompson, February 24 - March 13, 2023
 
 * Gradients 5, Equatorial Pacific Ocean, R/V Thomas G. Thompson, January 22 - February 18, 2023
