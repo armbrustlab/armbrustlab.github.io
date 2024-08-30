@@ -4,7 +4,7 @@ last_name: Graff van Creveld
 profile:
   align: right
   image: graff.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 ---
 
 **Postdoctoral Research Associate**
@@ -36,11 +36,17 @@ A molecular biologist by training, in my PhD I developed tools, and studied resp
 * Rosenwasser S, **Graff van Creveld S**, Schatz D, Malitsky S, Tzfadia O, Aharoni A, Levin Y, Gabashvili A, Feldmesser E, Vardi A (2014) Mapping the diatom redox-sensitive proteome provides insight into response to nitrogen stress in the marine environment. Proc Natl Acad Sci. 111: 2740–5. https://doi.org/10.1073/pnas.1319773111
 
 ### Cruise participation
+* 22 Aug - 26 Aug 2024, Honolulu, HI. R/V Kilo Moana KM24-14, Chief Scientist: Angelicque E. White, University of Hawaii. NSF-UNOLS [Early Career Chief Scientist Training Cruise](https://csw.unols.org/scientist-posts/) 
 * 22 Jan - 18 Feb 2023, San Diego, CA - Honolulu, HI. R/V Thompson TN412, Chief Scientist: E. Virginia Armbrust, University of Washington
 * 11 Nov - 15 Dec 2021, Seattle, WA - San Diego, CA - Honolulu, HI. R/V Thompson TN396 TN397, Chief Scientist: E. Virginia Armbrust, University of Washington
 * 21 Apr - 4 May 2012, Woods Hole, MA - Bermuda, R/V Knorr KN203-1, Chief Scientist: Ben Van Mooy, Woods Hole Oceanographic Institute
 
-### Addgene plasmids
+### Scientific resources
+**Phytoplankton strains**
+Phytoplankton isolated from the Pacific Ocean deposited in public culture collections:
+Thirty-six phytoplankton strains are available at the National Center for Marine Algae and Microbiota, USA [NCMA](https://ncma.bigelow.org/products/algae?page=1). For example, *Pseudo-nitzschia* sp, [CCMP3171](https://ncma.bigelow.org/Pseudo-nitzschia-sp.), *Planktoniella sol*, [CCMP3726](https://ncma.bigelow.org/Planktoniella-sol?page=1). 
+
+**Plasmids**
 Plasmids deposited in [Addgene](https://www.addgene.org),
 for gene editing in *Phaeodactylum triconutum* 
 
