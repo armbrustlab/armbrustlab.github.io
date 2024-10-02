@@ -11,7 +11,7 @@ profile:
 
 <kcain97@uw.edu>
 
-Both in the lab and at sea, I operate a BD Influx Cell Sorter and [SeaFlow](https://seaflow.netlify.app/), an underway flow cytometer, to generate and analyze flow cytometry data of phytoplankton and bacterial communities. I assist with instrument testing and deployment of new flow cytometers being developed in the lab. Fun fact: I have traveled over 25,500 nautical miles aboard research vessels, more than enough to circumnavigate the globe!
+Technically skilled biological oceanographer with over 25,500 nautical miles traveled aboard research vessels. Both in the lab and at sea, I generate and analyze flow cytometry data of picophytoplankton and bacterial communities. Expert at operating the BD Influx Cell Sorter and field operation specialist for [SeaFlow](https://seaflow.netlify.app/), a custom-built continuous flow cytometer. I also assist with testing and deployment of new flow cytometers being developed in the lab.
 
 ## Education
 BSc, Magna Cum Laude, Oceanography, University of Washington (2019)
@@ -36,7 +36,7 @@ BSc, Magna Cum Laude, Oceanography, University of Washington (2019)
 Participant in 6 additional cruises.
 
 ## Publications
-* Jones-Kellett, A. E., J. C. McNichol, Y. Raut, **K. R. Cain**, F. Ribalet, E. V. Armbrust, M. J. Follows, and J. A. Fuhrman. 2024. Amplicon sequencing with internal standards yields accurate Picocyanobacteria cell abundances as validated with flow cytometry. ISME Communications. doi:10.1093/ismeco/ycae115
+* Jones-Kellett, A. E., J. C. McNichol, Y. Raut, **K. R. Cain**, F. Ribalet, E. V. Armbrust, M. J. Follows, and J. A. Fuhrman. 2024. Amplicon sequencing with internal standards yields accurate picocyanobacteria cell abundances as validated with flow cytometry. ISME Communications. doi:10.1093/ismeco/ycae115
 
 * Hynes, A. M., J. Winter, C. T. Berthiaume, E. Shimabukuro, **K. Cain**, A. White, E. V. Armbrust, and F. Ribalet. 2024. High‐frequency sampling captures variability in phytoplankton population‐specific periodicity, growth, and Productivity. Limnology and Oceanography. doi:10.1002/lno.12683
 
