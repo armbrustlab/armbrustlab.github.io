@@ -11,7 +11,7 @@ profile:
 
 <kcain97@uw.edu>
 
-Both in the lab and at sea, I operate a BD Influx Cell Sorter and [SeaFlow](https://seaflow.netlify.com/), an underway flow cytometer, to generate and analyze flow cytometry data of phytoplankton and bacterial communities. I assist with instrument testing and deployment of new flow cytometers being developed in the lab.
+Both in the lab and at sea, I operate a BD Influx Cell Sorter and [SeaFlow](https://seaflow.netlify.com/), an underway flow cytometer, to generate and analyze flow cytometry data of phytoplankton and bacterial communities. I assist with instrument testing and deployment of new flow cytometers being developed in the lab. Fun fact: I have traveled over 25,500 nautical miles aboard research vessels, more than enough to circumnavigate the globe!
 
 ## Education
 BSc, Magna Cum Laude, Oceanography, University of Washington (2019)
@@ -36,6 +36,10 @@ BSc, Magna Cum Laude, Oceanography, University of Washington (2019)
 Participant in 6 additional cruises.
 
 ## Publications
+* Jones-Kellett, A. E., J. C. McNichol, Y. Raut, **K. R. Cain**, F. Ribalet, E. V. Armbrust, M. J. Follows, and J. A. Fuhrman. 2024. Amplicon sequencing with internal standards yields accurate Picocyanobacteria cell abundances as validated with flow cytometry. ISME Communications. doi:10.1093/ismeco/ycae115
+
+* Hynes, A. M., J. Winter, C. T. Berthiaume, E. Shimabukuro, **K. Cain**, A. White, E. V. Armbrust, and F. Ribalet. 2024. High‐frequency sampling captures variability in phytoplankton population‐specific periodicity, growth, and Productivity. Limnology and Oceanography. doi:10.1002/lno.12683
+
 * Bartolek, Z., S. G. Creveld, S. Coesel, **K. R. Cain**, M. Schatz, R. Morales, and E. Virginia Armbrust. 2022. Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom Thalassiosira pseudonana. The ISME Journal 16: 2741–2751. doi:10.1038/s41396-022-01313-9
 
 * Morris, R. M., **K. R. Cain**, K. L. Hvorecny, and J. M. Kollman. 2020. Lysogenic host–virus interactions in SAR11 marine bacteria. Nature Microbiology 5: 1011–1015. doi:10.1038/s41564-020-0725-x
