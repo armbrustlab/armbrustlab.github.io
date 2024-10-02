@@ -11,7 +11,7 @@ profile:
 
 <kcain97@uw.edu>
 
-Both in the lab and at sea, I operate a BD Influx Cell Sorter and [SeaFlow](https://seaflow.netlify.com/), an underway flow cytometer, to generate and analyze flow cytometry data of phytoplankton and bacterial communities. I assist with instrument testing and deployment of new flow cytometers being developed in the lab. Fun fact: I have traveled over 25,500 nautical miles aboard research vessels, more than enough to circumnavigate the globe!
+Both in the lab and at sea, I operate a BD Influx Cell Sorter and [SeaFlow](https://seaflow.netlify.app/), an underway flow cytometer, to generate and analyze flow cytometry data of phytoplankton and bacterial communities. I assist with instrument testing and deployment of new flow cytometers being developed in the lab. Fun fact: I have traveled over 25,500 nautical miles aboard research vessels, more than enough to circumnavigate the globe!
 
 ## Education
 BSc, Magna Cum Laude, Oceanography, University of Washington (2019)
