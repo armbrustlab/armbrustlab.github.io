@@ -28,7 +28,7 @@ I use environmental metatranscriptomics data to unravel the molecular secrets of
 * Undergraduate research assistant, Faculty of Sciences, Vrije Universiteit Amsterdam (Netherlands), 1998
 
 ## Publications - https://orcid.org/0000-0001-9422-8388
-Groussman, RD, Coesel, SN, Durham, BP, Schatz, MJ and Armbrust, EV. The North 	Pacific Eukaryotic Gene Catalog of metatranscriptome assemblies and 	annotations. 	Sci. Data. Submitted
+Groussman, R. D., Coesel, S. N., Durham, B. P., Schatz, M. J. & Armbrust, E. V. The 	North Pacific Eukaryotic Gene Catalog of metatranscriptome assemblies and 	annotations. Sci. Data. 2024. doi:10.1038/s41597-024-04005-5
 
 Graff van Creveld S, Coesel SN, Schatz MJ, Armbrust EV. New eukaryotic 	phytoplankton isolates from the oligotrophic tropical Pacific Ocean. J Phycol. April 	2024. doi:10.1111/jpy.13447
 
