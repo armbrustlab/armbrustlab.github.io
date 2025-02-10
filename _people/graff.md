@@ -22,6 +22,10 @@ A molecular biologist by training, in my PhD I developed tools, and studied resp
 * BSc, Molecular Biochemistry, The Technion – Israel Institute of Technology, Israel, 2010
 
 ## Publications
+**Manuscript in Progress**
+* Coesel S, **Graff van Creveld S**, Dugenne M, Hendrikx-Freitas F, White EH, Armbrust EV (under revision) Proportional relationship Between Transcript Concentrations and Carbon Biomass for Open Ocean Plankton Groups. ISME J.
+
+**Published Papers**
 * **Graff van Creveld S**, Coesel S, Schatz M, Armbrust EV (2024) New eukaryotic phytoplankton isolates from the oligotrophic tropical Pacific Ocean. J. Phycol. https://doi.org/10.1111/jpy.13447
 * **Graff van Creveld S**, Coesel S, Blaskowski S, Groussman R, Schatz M, Armbrust EV (2023) Divergent functions of two clades of flavodoxin in diatoms mitigate oxidative stress and iron limitation. eLife https://doi.org/10.7554/eLife.84392
 * Bartolek Z, **Graff van Creveld S**, Coesel S, Cain K, Schatz M, Morales R, Armbrust EV (2022) Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom *Thalassiosira pseudonana*. ISME J. https://doi.org/10.1038/s41396-022-01313-9
