@@ -15,6 +15,7 @@ github: [https://github.com/ctberthiaume](https://github.com/ctberthiaume)
 <div class="publications">
 {%- assign years = (site.min_pub_year..site.max_pub_year) | reverse %}
 {%- for y in years %}
+  {{ years }}
   {%- capture bib_count %}
     {%- bibliography_count -f berthiaume -q @*[year={{y}}]* %}
   {%- endcapture %}

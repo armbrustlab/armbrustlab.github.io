@@ -17,7 +17,7 @@ To bring up a Docker container to host a development version of the website run
 
 ```sh
 cd armbrustlab.github.io
-docker-compose -f docker-local.yml up
+docker compose up
 ```
 
 Now access the site at http://localhost:8080.
@@ -29,19 +29,19 @@ All pages should be written in Markdown text format. [See here for a quick summa
 
 ### Theme customizations
 
-This site has modified the base `al-folio` theme, forked around March 2023, in the following places:
+This site has modified the base `al-folio` theme, forked around March 2023 and again in August 2025, in the following places:
 
-#### `_includes/footer.html`
+#### `_includes/footer.liquid`
 
 Removed Jekyll / theme, modified copyright to reference `_config.yml` `copyright_holder` site variable.
 
-#### `_includes/bio_row.html`
+#### `_includes/bio_row.liquid`
 
 Created a new include definition for the profile entry for each lab member to be included in `_pages/people.md`.
 
-#### `_layouts/bib_bio.html`
+#### `_layouts/bib_bio.liquid`
 
-Modified default bibliography layout originally found in `_layouts/bib.html`.
+Modified default bibliography layout originally found in `_layouts/bib.liquid`.
 The `jekyll-scholar` section of `_config.yml` has been modified to make this the default bibliography template.
 
 ## Common tasks
@@ -92,7 +92,7 @@ The general method to add an image in the contents of a page would follow this t
 
 where the optional class parameters `rounded` rounds out the image box corners,
 and `z-depth-1` adds depth and creates a subtle drop shadow.
-`figure.html` is the include to use, defined at `_includes/figure.html`.
+`figure.liquid` is the include to use, defined at `_includes/figure.liquid`.
 
 For more control over image presentation and alignment you could embed HTMl in your Markdown file.
 

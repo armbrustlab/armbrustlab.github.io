@@ -45,4 +45,4 @@ Adds support for identifying, isolating and reassembling topologically circular 
 Thanks for your interest in the SEAStAR tools, we hope you enjoy using them.
 -- [Vaughn Iverson]({% link _people/iverson.md %}) and [Chris Berthiaume]({% link _people/berthiaume.md %})
 
-{% include figure.html path="assets/img/SEAStAR_Pipeline_Stages.png" alt="SEAStAR pipeline stages" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/SEAStAR_Pipeline_Stages.png" alt="SEAStAR pipeline stages" class="img-fluid rounded z-depth-1" %}

@@ -13,6 +13,6 @@ nav_order: 2
 {% for ln in sorted_by_last_name %}
   {% assign sorted_by_first_name = ln.items | sort: "first_name" %}
   {% for bio in sorted_by_first_name %}
-    {% include bio_row.html profile_image=bio.profile.image url=bio.url first_name=bio.first_name last_name=bio.last_name %}
+    {% include bio_row.liquid profile_image=bio.profile.image url=bio.url first_name=bio.first_name last_name=bio.last_name %}
   {% endfor %}
 {% endfor %}

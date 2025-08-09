@@ -4,7 +4,7 @@ permalink: /tools/
 title: tools
 nav: true
 nav_order: 3
-horizontal: false
+horizontal: true
 ---
 <!-- _pages/tools.md -->
 <div class="projects">
@@ -14,14 +14,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include projects.liquid %}
     {%- endfor %}
   </div>
   {%- endif -%}

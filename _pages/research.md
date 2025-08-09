@@ -4,7 +4,7 @@ permalink: /research/
 layout: page
 nav: true
 nav_order: 1
-horizontal: false
+horizontal: true
 ---
 <!-- _pages/research.md -->
 The Armbrust group uses lab- and field-based approaches to understand the complexities surrounding phytoplankton, their environment and their interactions with other microbes. We work at the cellular, population, and community scale to understand how these organisms shape and are shaped by environmental conditions.
@@ -20,14 +20,14 @@ In the field, we collect temporal and spatial samples across environmental gradi
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include projects.liquid %}
     {%- endfor %}
   </div>
   {%- endif -%}
