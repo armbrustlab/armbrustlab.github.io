@@ -11,7 +11,7 @@ profile:
 coesel at uw.edu
 
 ## Research Interests
-I use environmental metatranscriptomics data to unravel the molecular secrets of open ocean plankton. I am passionate about photobiology and chronobiology and the daily cycles of life in the ocean.
+I explore the molecular rhythms of open ocean plankton using environmental metatranscriptomics. My research investigates how planktonic communities coordinate physiological and metabolic processes with diel light cycles and across environmental gradients, providing insight into the temporal and spatial organization of marine ecosystems.
 
 ## Education
 * 2008 - Ph.D. in Molecular Biology, University of Algarve (Portugal). Thesis title: Regulation of the carotenoid biosynthetic pathway in the green microalga Dunaliella salina and the diatom Phaeodactylum tricornutum. DOI: 10.13140/RG.2.1.4111.7049
