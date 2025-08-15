@@ -27,20 +27,24 @@ I use environmental metatranscriptomics data to unravel the molecular secrets of
 * Undergraduate research assistant, Centre of Marine Sciences, University of Algarve (Portugal), 1999
 * Undergraduate research assistant, Faculty of Sciences, Vrije Universiteit Amsterdam (Netherlands), 1998
 
-## Publications - https://orcid.org/0000-0001-9422-8388
-Groussman, R. D., Coesel, S. N., Durham, B. P., Schatz, M. J. & Armbrust, E. V. The 	North Pacific Eukaryotic Gene Catalog of metatranscriptome assemblies and 	annotations. Sci. Data. 2024. doi:10.1038/s41597-024-04005-5
+## Publications - <https://orcid.org/0000-0001-9422-8388>
+Hawco, N. J., Conway, T.M, Coesel, S.N., Barone, B., Seelen, E.A., Yang, S-C., 	Bundy, R.M., Pinedo-Gonzalez, P. , Bian, X., Sieber, M., Lanning, N.T., Fitzsimmons, J.N., Foreman, R.K., König, D., Groussman, M.J., Allen, J.G., White, A.E., Karl, D.M., Armbrust, EV and John, S.G. Anthropogenic iron and the spring bloom in the North 	Pacific Transition Zone.  PNAS . 2025; 122(23). https://doi.org/10.1073/pnas.2418201122
+
+Coesel, S.N., Graff van Creveld, S., Dugenne, M., Freitas, F.H., White, A.E., and Armbrust, E.V.  Proportional relationship between transcript concentrations and carbon biomass for open ocean plankton groups. The ISMEj. 2025; 19(1). https://doi.org/10.1093/ismejo/wraf079 
+
+Groussman, R. D., Coesel, S. N., Durham, B. P., Schatz, M. J. & Armbrust, E. V. The North Pacific Eukaryotic Gene Catalog of metatranscriptome assemblies and annotations. Sci. Data. 2024. doi:10.1038/s41597-024-04005-5
 
 Graff van Creveld S, Coesel SN, Schatz MJ, Armbrust EV. New eukaryotic 	phytoplankton isolates from the oligotrophic tropical Pacific Ocean. J Phycol. April 	2024. doi:10.1111/jpy.13447
 
-Coesel SN. More than a photoreceptor: aureochromes are intrinsic to the diatom light-		regulated transcriptional network. J Exp Bot. 2024;75(7):1786-1790. 	doi:10.1093/jxb/erae004
+Coesel SN. More than a photoreceptor: aureochromes are intrinsic to the diatom light-regulated transcriptional network. J Exp Bot. 2024;75(7):1786-1790. 	doi:10.1093/jxb/erae004
 
-Dutkiewicz S, Follett CL, Follows MJ, Henderikx‐Freitas F, Ribalet F, Gradoville MR, 	Coesel SN , et al. Multiple biotic interactions establish 	phytoplankton community 	structure across environmental gradients. Limnol Oceanogr. March 2024:1-15. 	doi:10.1002/lno.12555
+Dutkiewicz S, Follett CL, Follows MJ, Henderikx‐Freitas F, Ribalet F, Gradoville MR, 	Coesel SN , et al. Multiple biotic interactions establish 	phytoplankton community 	structure across environmental gradients. Limnol Oceanogr. March 2024:1-15. doi:10.1002/lno.12555
     
-Groussman RD, Blaskowski S, Coesel SN, Armbrust E V. MarFERReT, an open-source, 	version-controlled reference library of marine microbial eukaryote functional genes. 	Sci Data. 2023;10(1):926. doi:10.1038/s41597-023-02842-4
+Groussman RD, Blaskowski S, Coesel SN, Armbrust E V. MarFERReT, an open-source, version-controlled reference library of marine microbial eukaryote functional genes. 	Sci Data. 2023;10(1):926. doi:10.1038/s41597-023-02842-4
 
-Graff van Creveld S, Coesel SN, Blaskowski S, Groussman RD, Schatz MJ, Armbrust EV. 	Divergent functions of two clades of flavodoxin in diatoms mitigate oxidative stress 	and iron limitation. Elife. 2023;12:1-24. doi:10.7554/eLife.84392
+Graff van Creveld S, Coesel SN, Blaskowski S, Groussman RD, Schatz MJ, Armbrust EV. Divergent functions of two clades of flavodoxin in diatoms mitigate oxidative stress 	and iron limitation. Elife. 2023;12:1-24. doi:10.7554/eLife.84392
 
-Bartolek Z, Creveld SG van, Coesel S, et al. Flavobacterial exudates disrupt cell cycle 	progression and metabolism of the diatom Thalassiosira pseudonana. ISME J. 	September 2022:1-8. doi:10.1038/s41396-022-01313-9
+Bartolek Z, Creveld SG van, Coesel S, et al. Flavobacterial exudates disrupt cell cycle progression and metabolism of the diatom Thalassiosira pseudonana. ISME J. 	September 2022:1-8. doi:10.1038/s41396-022-01313-9
 
 Lambert BS, Groussman RD, Schatz MJ, Coesel SN, et al. The dynamic trophic 	architecture of open-ocean protist communities revealed through machine-guided 	metatranscriptomics. Proc Natl Acad Sci. 2022;119(7):e2100916119. 	doi:10.1073/pnas.2100916119
 
@@ -52,11 +56,11 @@ Coesel SN, Durham BP, Groussman RD, et al. Diel transcriptional oscillations of 
 
 Goldman JAL, Schatz MJ, Berthiaume CT, Coesel SN, Orellana M V., Armbrust EV. Fe 	limitation decreases transcriptional regulation over the diel cycle in the model diatom 	Thalassiosira pseudonana. Campbell DA, ed. PLoS One. 2019;14(9):e0222325. 	doi:10.1371/journal.pone.0222325
 
-Durham BP, Boysen AK, Carlson LT, Groussman RD, Heal KR, Cain KR, Morales RL, 	Coesel SN, et al. Sulfonate-based networks between eukaryotic phytoplankton and 	heterotrophic bacteria in the surface ocean. Nat Microbiol. 2019;4(10):1706-1715. 	doi:10.1038/s41564-019-0507-5
+Durham BP, Boysen AK, Carlson LT, Groussman RD, Heal KR, Cain KR, Morales RL, Coesel SN, et al. Sulfonate-based networks between eukaryotic phytoplankton and heterotrophic bacteria in the surface ocean. Nat Microbiol. 2019;4(10):1706-1715. 	doi:10.1038/s41564-019-0507-5
 
-Ashworth J, Coesel S, Lee A, Armbrust EVV, Orellana M V., Baliga NS. Genome-wide diel 	growth state transitions in the diatom Thalassiosira pseudonana. Proc Natl Acad Sci. 	2013;110(18):7518-7523. doi:10.1073/pnas.1300962110
+Ashworth J, Coesel S, Lee A, Armbrust EVV, Orellana M V., Baliga NS. Genome-wide diel growth state transitions in the diatom Thalassiosira pseudonana. Proc Natl Acad Sci. 	2013;110(18):7518-7523. doi:10.1073/pnas.1300962110
 
-Bailleul B, Rogato A, De Martino A, Coesel SN, et al. An atypical member of the light-	harvesting complex stress-related protein family modulates diatom responses to light. 	Proc Natl Acad Sci U S A. 2010;107(42):18214-18219. doi:10.1073/pnas.1007703107
+Bailleul B, Rogato A, De Martino A, Coesel SN, et al. An atypical member of the light-	harvesting complex stress-related protein family modulates diatom responses to light. Proc Natl Acad Sci U S A. 2010;107(42):18214-18219. doi:10.1073/pnas.1007703107
 
 Coesel S, Mangogna M, Ishikawa T, et al. Diatom PtCPF1 is a new 	cryptochrome/photolyase family member with DNA repair and transcription 	regulation activity. EMBO Rep. 2009;10(6):655-661. doi:10.1038/embor.2009.59
 
