@@ -400,7 +400,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "people-david-wiener",
+      },{id: "people-ben-grodner",
+          title: 'Ben_grodner',
+          description: "",
+          section: "People",handler: () => {
+              window.location.href = "/people/Ben_Grodner/";
+            },},{id: "people-david-wiener",
           title: 'David_wiener',
           description: "",
           section: "People",handler: () => {
