@@ -17,7 +17,9 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 * B.A., Stanford University, Human Biology, 1980.
 
 ## Positions Held
-* Richard H. Fleming Endowed Professor, University of Washington, 2022-present.
+* Associate Dean of Research, College of the Environment, University of Washington, 2024- present.
+* Karl M. Banse Endowed Professor, University of Washington, 2024-present.
+* Richard H. Fleming Endowed Professor, University of Washington, 2022-2024.
 * Professor School of Oceanography, University of Washington, 2006-present.
 * Director, School of Oceanography, University of Washington, 2011-2018.
 * Lowell A. and Frankie L. Wakefield Endowed Professor, University of Washington, 2008-2018.
@@ -29,8 +31,9 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 * Research Technician, California Department of Fish and Game, 1980-1981
 
 ## Honors
+* Karl M. Banse Endowed Professor, University of Washington, 2024-present.
 * Elected Fellow, Amercan Geophysical Union, 2022.
-* Richard H. Fleming Endowed Professor, 2022- present.
+* Richard H. Fleming Endowed Professor, 2022- 2024.
 * Luigi Provasoli award for best publication of 2016 in Journal of Phycology, 2017.
 * AGU Carson Lecture, 2016
 * Gordon and Betty Moore Foundation Marine Microbiology Investigator 2012-2018
@@ -56,7 +59,7 @@ Recent, Chief Scientist
 * Dimensions of Biodiversity cruise, North Pacific Ocean, R/V Kilo Moana, August/September, 2013.
 * Molecular biogeochemical cruise, Washington Coast, R/V Thompson, May, 2012.
 
-Participation in 15 additional cruises; 
+Participation in 16 additional cruises; 
 Lab participation in 23 additional cruises
 
 ## Publications
