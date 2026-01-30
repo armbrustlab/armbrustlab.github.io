@@ -51,6 +51,7 @@ Phytoplankton are the main focus of research in our lab. These organisms are res
 
 ## Oceanographic Research Cruises
 Recent, Chief Scientist 
+* CRESST cruise, Western Pacific Ocean, R/V Thompson, January 6 - January 21, 2026.
 * Gradients cruise 5, Equatorial Pacific Ocean, R/V Thompson, January 22 - February 18, 2023.
 * Gradients cruise 4, Equatorial Pacific Ocean, R/V Thompson, November 10-December 17, 2021.
 * Gradients cruise 3, North Pacific Ocean, R/V Kilo Moana, April, 2019
@@ -59,7 +60,7 @@ Recent, Chief Scientist
 * Dimensions of Biodiversity cruise, North Pacific Ocean, R/V Kilo Moana, August/September, 2013.
 * Molecular biogeochemical cruise, Washington Coast, R/V Thompson, May, 2012.
 
-Participation in 16 additional cruises; 
+Participation in 17 additional cruises; 
 Lab participation in 23 additional cruises
 
 ## Publications
