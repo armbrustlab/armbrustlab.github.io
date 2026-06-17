@@ -11,14 +11,15 @@ profile:
 coesel at uw.edu
 
 ## Research Interests
-I explore the molecular rhythms of open ocean plankton using environmental metatranscriptomics. My research investigates how planktonic communities coordinate physiological and metabolic processes with diel light cycles and across environmental gradients, providing insight into the temporal and spatial organization of marine ecosystems.
+I study the molecular dynamics of open-ocean plankton using environmental metatranscriptomics. My research examines how plankton communities regulate physiological and metabolic processes in response to diel light cycles and environmental gradients, revealing patterns in the temporal and spatial organization of marine ecosystems.
 
 ## Education
 * 2008 - Ph.D. in Molecular Biology, University of Algarve (Portugal). Thesis title: Regulation of the carotenoid biosynthetic pathway in the green microalga Dunaliella salina and the diatom Phaeodactylum tricornutum. [DOI: 10.13140/RG.2.1.4111.7049](http://dx.doi.org/10.13140/RG.2.1.4111.7049)
 * 1999 - B.Sc. in Biotechnology, Noordelijke Hogeschool Leeuwarden (Netherlands).
 
 ## Positions Held
-* Research scientist, School of Oceanography, University of Washington (USA), 2016-Present
+* Senior research scientist, School of Oceanography, University of Washington (USA), 2025-Present
+* Research scientist, School of Oceanography, University of Washington (USA), 2016-2025
 * Postdoctoral research fellow, Institute for Systems Biology (USA), 2015-2016
 * Postdoctoral research fellow, Institute for Systems Biology (USA), 2008
 * Graduate research assistant, Stazione Zoologica ‘Anton Dohrn’ (Italy), 2004-2008
@@ -28,6 +29,14 @@ I explore the molecular rhythms of open ocean plankton using environmental metat
 * Undergraduate research assistant, Faculty of Sciences, Vrije Universiteit Amsterdam (Netherlands), 1998
 
 ## Publications - <https://orcid.org/0000-0001-9422-8388>
+
+Graff van Creveld S, Coesel, S.N., Lavoie E, Iverson V, Morales R, Schatz MJ, et al. Induced pathogenicity toward open-ocean diatoms by a filterable bacterium Ekhidna algicida sp. nov. ISME J. 2026;20(1). doi: 10.1093/ismejo/wrag038
+	
+Key R.S., Coesel, S.N., Gradoville M.R., Morales RL, Farnelid H., Zehr J.P., et al. Picophytoplankton implicated in productivity and biogeochemistry in the North Pacific Transition Zone. mSystems. 2026. doi: 10.1128/msystems.00801-25
+
+Thomas, E., Groussman, M. J., Coesel, S.N., Hawco, N. J., Bundy, R. M., & Armbrust, E. V. (2025). Latitude- and depth-driven divergence in protist trophic strategies revealed by a machine learning model. Front Microbiol., 16. 	
+doi: 10.3389/fmicb.2025.1602162
+
 Hawco, N. J., Conway, T.M, Coesel, S.N., Barone, B., Seelen, E.A., Yang, S-C., 	Bundy, R.M., Pinedo-Gonzalez, P. , Bian, X., Sieber, M., Lanning, N.T., Fitzsimmons, J.N., Foreman, R.K., König, D., Groussman, M.J., Allen, J.G., White, A.E., Karl, D.M., Armbrust, EV and John, S.G. Anthropogenic iron and the spring bloom in the North 	Pacific Transition Zone.  PNAS . 2025; 122(23). https://doi.org/10.1073/pnas.2418201122
 
 Coesel, S.N., Graff van Creveld, S., Dugenne, M., Freitas, F.H., White, A.E., and Armbrust, E.V.  Proportional relationship between transcript concentrations and carbon biomass for open ocean plankton groups. The ISMEj. 2025; 19(1). https://doi.org/10.1093/ismejo/wraf079 
